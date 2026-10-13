@@ -3,7 +3,7 @@ import test from "node:test";
 import { artistSongLists, concertSongLists, groupScheduleDays, hasCachedConcertSource } from "../data/songLists";
 import type { PerformanceSetlist, SongCaches, SpotifyTopTracks } from "../data/songLists";
 import { buildConcertSearch, matchesConcertSearch, normalizeSearch } from "../data/concertSearch";
-import { normalizeArtist, normalizeConcert, normalizeSchedule } from "../data/model";
+import { normalizeArtist, normalizeConcert, normalizeSchedule, normalizeVenue } from "../data/model";
 
 const top: SpotifyTopTracks = { kind: "spotify_top_tracks", artist: "A", url: "https://open.spotify.com/embed/artist/example", songs: [{ name: "Popular" }] };
 const performance: PerformanceSetlist = { kind: "setlist_fm", url: "https://www.setlist.fm/setlist/example", sets: [{ songs: [{ name: "Played" }] }] };
@@ -96,7 +96,7 @@ test("concert search includes titles and lineup; setlist text is opt-in and Spot
     "a:c": [{ ...performance, notes: "Performance note", sets: [{ name: "Encore", songs: [{ name: "Don't Stop", artists: "Cover artist", notes: "Song annotation", tape: true }] }] }],
   } };
   const before = JSON.stringify({ artists, concerts, withNotes });
-  const entry = buildConcertSearch(concerts, artists, [], withNotes).get("c");
+  const entry = buildConcertSearch(concerts, artists, [], withNotes, []).get("c");
   for (const query of ["acdc", "AC/DC", "beyonce", "YONCÉ", "Not an artist"]) assert(matchesConcertSearch(entry, query));
   assert(!matchesConcertSearch(entry, "DONT STOP"));
   assert(matchesConcertSearch(entry, "DON’T STOP", true));
@@ -119,7 +119,7 @@ test("festival search matches partial titles, schedule artists, and replacement 
   const concert = normalizeConcert("bottlerock", { name: "BottleRock Napa Valley" });
   const schedule = normalizeSchedule(concert.id, { sets: { friday: { artist_id: "highwomen" } } });
   const input: SongCaches = { setlists: { "highwomen:bottlerock": [{ ...performance, set_id: "friday", notes: "Day of replacement for headliner Chris Stapleton" }] }, musicals: {}, spotify: { highwomen: top } };
-  const entry = buildConcertSearch([concert], artists, [schedule], input).get(concert.id);
+  const entry = buildConcertSearch([concert], artists, [schedule], input, []).get(concert.id);
   for (const query of ["bottle", "BOTTLE", "Bottle-Rock", "highwomen"]) assert(matchesConcertSearch(entry, query), query);
   assert(!matchesConcertSearch(entry, "stapleton"));
   assert(matchesConcertSearch(entry, "STAPLETON", true));
@@ -137,7 +137,7 @@ test("setlist search respects encoded concert identities, all scheduled sets, an
   } };
   const concerts = [normalizeConcert("fest:one", { supporting_artist_ids: ["a/b"] }), normalizeConcert("musical", {})];
   const schedules = [normalizeSchedule("fest:one", { sets: { first1: { artist_id: "a/b" }, second: { artist_id: "a/b" } } })];
-  const index = buildConcertSearch(concerts, [normalizeArtist("a/b", { name: "A / B" })], schedules, input);
+  const index = buildConcertSearch(concerts, [normalizeArtist("a/b", { name: "A / B" })], schedules, input, []);
   const entry = index.get("fest:one");
   assert(matchesConcertSearch(entry, "a b"));
   assert(matchesConcertSearch(entry, "first night", true));
@@ -145,6 +145,23 @@ test("setlist search respects encoded concert identities, all scheduled sets, an
   for (const query of ["Unassigned", "Stale set", "Other concert", "Removed artist"]) assert(!matchesConcertSearch(entry, query, true), query);
   assert(!matchesConcertSearch(index.get("musical"), "Number"));
   assert(matchesConcertSearch(index.get("musical"), "Number", true));
-  const noSongs = buildConcertSearch(concerts, [normalizeArtist("a/b", { name: "A / B" })], schedules, { setlists: {}, musicals: {} });
+  const noSongs = buildConcertSearch(concerts, [normalizeArtist("a/b", { name: "A / B" })], schedules, { setlists: {}, musicals: {} }, []);
   assert(matchesConcertSearch(noSongs.get("fest:one"), "a b", true));
+});
+
+test("venue names and locations are searchable without setlists, using the concert's current venue", () => {
+  const venues = [
+    normalizeVenue("berkeley", { name: "Greek Theatre – Berkeley", location: "Berkeley, CA" }),
+    normalizeVenue("la", { name: "Greek Theatre – Los Angeles", location: "Los Angeles, CA" }),
+    normalizeVenue("babys", { name: "Baby’s All Right", location: "Brooklyn, NY" }),
+  ];
+  const concerts = [normalizeConcert("tash", { venue_id: "berkeley" }), normalizeConcert("cherry", { venue_id: "babys" }), normalizeConcert("unknown", { venue_id: "missing" })];
+  const index = buildConcertSearch(concerts, [], [], caches, venues);
+  for (const query of ["GREEK", "Greek Theatre", "Berkeley, CA"]) assert(matchesConcertSearch(index.get("tash"), query));
+  assert(!matchesConcertSearch(index.get("tash"), "Los Angeles"));
+  for (const query of ["Baby's All Right", "babys", "brooklyn"]) assert(matchesConcertSearch(index.get("cherry"), query));
+  assert(!matchesConcertSearch(index.get("unknown"), "Greek"));
+  const updated = buildConcertSearch(concerts, [], [], caches, venues.map(venue => venue.id === "babys" ? { ...venue, name: "Renamed Hall" } : venue));
+  assert(matchesConcertSearch(updated.get("cherry"), "renamed"));
+  assert(!matchesConcertSearch(updated.get("cherry"), "babys"));
 });

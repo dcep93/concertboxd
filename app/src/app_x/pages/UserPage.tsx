@@ -26,8 +26,8 @@ export function UserPage({ username }: { username: string }) {
     };
   }, []);
   const { catalog, loading } = useApp();
-  const search = useMemo(() => buildConcertSearch(catalog.concerts, catalog.artists, catalog.schedules, setlistCaches),
-    [catalog.concerts, catalog.artists, catalog.schedules]);
+  const search = useMemo(() => buildConcertSearch(catalog.concerts, catalog.artists, catalog.schedules, setlistCaches, catalog.venues),
+    [catalog.concerts, catalog.artists, catalog.schedules, catalog.venues]);
   const profile = catalog.profiles.find((item) => item.username === username || item.id === username);
   const viewReady = !loading && !!profile;
   useLayoutEffect(() => {
@@ -58,7 +58,7 @@ export function UserPage({ username }: { username: string }) {
     <>
       <section className="rs-user-heading">
         <div className="rs-log-search" role="search" aria-label="Concerts">
-          <input type="search" aria-label="Search concerts" placeholder="Search" value={query}
+          <input type="search" aria-label="Search concerts" placeholder="Search artists, concerts, venues" value={query}
             onChange={event => setQuery(event.target.value)} autoComplete="off" />
           <label className="rs-check">
             <input type="checkbox" checked={searchSetlists} onChange={event => setSearchSetlists(event.target.checked)} />
