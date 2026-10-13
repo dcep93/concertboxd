@@ -57,15 +57,257 @@
       "name": "Baby’s All Right",
       "image": "https://images.squarespace-cdn.com/content/v1/5248d4ece4b0bae68e5c1c11/1770781777032-SOYOMXZSM2IOB54IZ10E/A55F3AF0-F96F-4D32-8943-721B43F20578.jpeg",
       "source": "https://babysallright.com/private-events"
+    },
+    {
+      "table": "artists",
+      "id": "3kg9wp",
+      "name": "Maya Jane Coles",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Maya_Jane_Coles_%28Photo_by_Jennifer_Iliffe%29.jpg/1280px-Maya_Jane_Coles_%28Photo_by_Jennifer_Iliffe%29.jpg",
+      "source": "https://en.wikipedia.org/wiki/Maya_Jane_Coles",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Maya_Jane_Coles_%28Photo_by_Jennifer_Iliffe%29.jpg"
+    },
+    {
+      "table": "artists",
+      "id": "kerala-dust",
+      "name": "Kerala Dust",
+      "image": "https://f4.bcbits.com/img/0038922869_21.jpg",
+      "source": "https://keraladust.bandcamp.com/"
+    },
+    {
+      "table": "artists",
+      "id": "not-our-first-goat-rodeo",
+      "name": "Not Our First Goat Rodeo",
+      "image": "https://i0.wp.com/stringsmagazine.com/wp-content/uploads/2020/08/goat_rodeo.jpg?fit=750%2C500&ssl=1",
+      "source": "https://stringsmagazine.com/back-in-the-saddle-goat-rodeo-rides-again-with-not-our-first-goat-rodeo/"
+    },
+    {
+      "table": "artists",
+      "id": "silica-gel",
+      "name": "Silica Gel",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Silica_Gel_members_in_2022.jpg/1280px-Silica_Gel_members_in_2022.jpg",
+      "source": "https://en.wikipedia.org/wiki/Silica_Gel_(band)",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Silica_Gel_members_in_2022.jpg"
+    },
+    {
+      "table": "artists",
+      "id": "whateverglades",
+      "name": "Whateverglades",
+      "image": "https://f4.bcbits.com/img/0013105502_21.jpg",
+      "source": "https://whateverglades.bandcamp.com/album/wish-you-were-whateverglades"
+    },
+    {
+      "table": "artists",
+      "id": "night-animals",
+      "name": "Night Animals",
+      "image": "https://f4.bcbits.com/img/0008311046_21.jpg",
+      "source": "https://nightanimalsmusic.bandcamp.com/album/resonate"
+    },
+    {
+      "table": "artists",
+      "id": "3v95s5",
+      "name": "Julio Torres",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/JulioTorres2-byPhilipRomano.jpg/960px-JulioTorres2-byPhilipRomano.jpg",
+      "source": "https://en.wikipedia.org/wiki/Julio_Torres",
+      "image_source": "https://commons.wikimedia.org/wiki/File:JulioTorres2-byPhilipRomano.jpg"
+    },
+    {
+      "table": "artists",
+      "id": "bob-weir-wolf-bros",
+      "name": "Bob Weir & Wolf Bros",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Bob_Weir_and_the_Wolf_Brothers_St._Louis_3-22-2019.jpg/1280px-Bob_Weir_and_the_Wolf_Brothers_St._Louis_3-22-2019.jpg",
+      "source": "https://en.wikipedia.org/wiki/Wolf_Bros",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Bob_Weir_and_the_Wolf_Brothers_St._Louis_3-22-2019.jpg"
+    },
+    {
+      "table": "artists",
+      "id": "boyfriend",
+      "name": "Boyfriend",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/BoyfriendPerforming2015.jpg/960px-BoyfriendPerforming2015.jpg",
+      "source": "https://en.wikipedia.org/wiki/Boyfriend_(musician)",
+      "image_source": "https://commons.wikimedia.org/wiki/File:BoyfriendPerforming2015.jpg"
+    },
+    {
+      "table": "artists",
+      "id": "weird-phishes",
+      "name": "Weird Phishes",
+      "image": "https://radioradiox.com/wp-content/uploads/2025/02/P9070009.jpg",
+      "source": "https://radioradiox.com/2025/02/24/weird-phishes-lark-hall-2-15-2025/"
+    },
+    {
+      "table": "artists",
+      "id": "questlove",
+      "name": "Questlove",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Questlove_France_v_Paraguay_4_July_2026-077.jpg/960px-Questlove_France_v_Paraguay_4_July_2026-077.jpg",
+      "source": "https://en.wikipedia.org/wiki/Questlove",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Questlove_France_v_Paraguay_4_July_2026-077.jpg"
+    },
+    {
+      "table": "artists",
+      "id": "the-latin-dead",
+      "name": "The Latin Dead",
+      "image": "https://f4.bcbits.com/img/0031712873_21.jpg",
+      "source": "https://latindead.bandcamp.com/album/eyes-of-the-world"
+    },
+    {
+      "table": "artists",
+      "id": "john-kadlecik",
+      "name": "John Kadlecik",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/John_Kadlecik_20110723-01.jpg/1280px-John_Kadlecik_20110723-01.jpg",
+      "source": "https://en.wikipedia.org/wiki/John_Kadlecik",
+      "image_source": "https://commons.wikimedia.org/wiki/File:John_Kadlecik_20110723-01.jpg"
+    },
+    {
+      "table": "artists",
+      "id": "walrus",
+      "name": "Walrus",
+      "image": "https://lpr.com/wp-content/uploads/2026/04/P4106358-1600x1067.jpg",
+      "source": "https://lpr.com/lpr_artists/walrus/"
+    },
+    {
+      "table": "artists",
+      "id": "0zlajk",
+      "name": "ZHU",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/ZHU_%2829357096668%29_%28cropped%29.jpg",
+      "source": "https://en.wikipedia.org/wiki/Zhu_(musician)",
+      "image_source": "https://commons.wikimedia.org/wiki/File:ZHU_%2829357096668%29_%28cropped%29.jpg"
+    },
+    {
+      "table": "artists",
+      "id": "live-dead-brothers",
+      "name": "Live Dead & Brothers",
+      "image": "https://s1.ticketm.net/dam/a/98f/e6f9a328-64e1-4b7c-9b11-a7f4b041d98f_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "source": "https://www.livenation.com/artist/K8vZ917jKu7/live-dead-brothers-events//"
+    },
+    {
+      "table": "artists",
+      "id": "j919j0",
+      "name": "Nancy Whang",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Nancy_Whang_performing_in_2016.jpg",
+      "source": "https://en.wikipedia.org/wiki/Nancy_Whang",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Nancy_Whang_performing_in_2016.jpg"
+    },
+    {
+      "table": "artists",
+      "id": "dan-bar-hava",
+      "name": "Dan Bar-Hava",
+      "image": "https://www.msmnyc.edu/wp-content/uploads/2017/06/Dan-Bar-Hava-edit-scaled.jpg",
+      "source": "https://www.msmnyc.edu/faculty/daniel-bar-hava/"
+    },
+    {
+      "table": "artists",
+      "id": "valley",
+      "name": "Valley",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Valley_at_History_-_Dec_13%2C_2024.jpg/1280px-Valley_at_History_-_Dec_13%2C_2024.jpg",
+      "source": "https://en.wikipedia.org/wiki/Valley_(band)",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Valley_at_History_-_Dec_13%2C_2024.jpg"
+    },
+    {
+      "table": "artists",
+      "id": "7n9w8x",
+      "name": "Sango",
+      "image": "https://f4.bcbits.com/img/0012758177_21.jpg",
+      "source": "https://sango.bandcamp.com/album/shango"
+    },
+    {
+      "table": "venues",
+      "id": "palace-theatre",
+      "name": "Palace Theatre",
+      "image": "https://cdn.broadwaydirect.com/wp-content/uploads/2017/10/Palace_1200x675-1.png",
+      "source": "https://broadwaydirect.com/theatre/palace-theatre/"
+    },
+    {
+      "table": "venues",
+      "id": "starline-social-club",
+      "name": "Starline Social Club",
+      "image": "https://www.starlinesocialclub.com/wp-content/uploads/2021/11/Starline-Social-Club-Outside-Image.jpg",
+      "source": "https://www.starlinesocialclub.com/"
+    },
+    {
+      "table": "venues",
+      "id": "oakland-coliseum",
+      "name": "Oakland Coliseum",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Oakland_Coliseum_from_above_2024.png/1280px-Oakland_Coliseum_from_above_2024.png",
+      "source": "https://en.wikipedia.org/wiki/Oakland_Coliseum",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Oakland_Coliseum_from_above_2024.png"
+    },
+    {
+      "table": "venues",
+      "id": "pinkfrog-cafe",
+      "name": "PinkFrog Café",
+      "image": "https://img.peerspace.com/image/upload/f_auto%2Cq_auto%2Cdpr_auto%2Cw_3840/lvuqp5vz57hkacviqqgn",
+      "source": "https://www.peerspace.com/ca/pages/listings/626eeb74c6eb76000fd2f35a"
+    },
+    {
+      "table": "venues",
+      "id": "nublu",
+      "name": "Nublu",
+      "image": "https://www.nublu.net/sites/default/files/styles/large/public/IMG_0628.JPG?itok=fSrqKt1_",
+      "source": "https://www.nublu.net/event-space-in-nyc",
+      "note": "Nublu Classic interior from official three-venue rental page. September 17, 2025 Porterfield/Aberdeen listing identifies Nublu Classic."
+    },
+    {
+      "table": "venues",
+      "id": "pickman-hall-longy-school-of-music",
+      "name": "Pickman Hall, Longy School of Music",
+      "image": "https://longy.edu/wp-content/uploads/2025/11/DSC01039-HDR-scaled.jpg",
+      "source": "https://longy.edu/about/rent-our-space/"
+    },
+    {
+      "table": "venues",
+      "id": "hammerstein-ballroom",
+      "name": "Hammerstein Ballroom",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/MC-1207-2.jpg/1280px-MC-1207-2.jpg",
+      "source": "https://en.wikipedia.org/wiki/Hammerstein_Ballroom",
+      "image_source": "https://commons.wikimedia.org/wiki/File:MC-1207-2.jpg"
+    },
+    {
+      "table": "venues",
+      "id": "orpheum-theatre",
+      "name": "Orpheum Theatre",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/2017_Orpheum_Theatre.jpg/1280px-2017_Orpheum_Theatre.jpg",
+      "source": "https://en.wikipedia.org/wiki/Orpheum_Theatre_(San_Francisco)",
+      "image_source": "https://commons.wikimedia.org/wiki/File:2017_Orpheum_Theatre.jpg"
+    },
+    {
+      "table": "venues",
+      "id": "the-shed",
+      "name": "The Shed",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/The_Shed_-_Complete_%2848206488176%29.jpg/1280px-The_Shed_-_Complete_%2848206488176%29.jpg",
+      "source": "https://en.wikipedia.org/wiki/The_Shed_(arts_center)",
+      "image_source": "https://commons.wikimedia.org/wiki/File:The_Shed_-_Complete_%2848206488176%29.jpg"
+    },
+    {
+      "table": "venues",
+      "id": "kaufmann-concert-hall-at-92ny",
+      "name": "Kaufmann Concert Hall at 92NY",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Theresa_l._Kaufmann_Auditorium-Manhattan-New_York.jpg/1280px-Theresa_l._Kaufmann_Auditorium-Manhattan-New_York.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Theresa_l._Kaufmann_Auditorium-Manhattan-New_York.jpg",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Theresa_l._Kaufmann_Auditorium-Manhattan-New_York.jpg"
+    },
+    {
+      "table": "venues",
+      "id": "oracle-park",
+      "name": "Oracle Park",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Oracle_Park_2021.jpg/1280px-Oracle_Park_2021.jpg",
+      "source": "https://en.wikipedia.org/wiki/Oracle_Park",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Oracle_Park_2021.jpg"
+    },
+    {
+      "table": "venues",
+      "id": "flushing-meadows-corona-park",
+      "name": "Flushing Meadows Corona Park",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Flushing_Meadows%E2%80%93Corona_Park.jpg/1280px-Flushing_Meadows%E2%80%93Corona_Park.jpg",
+      "source": "https://en.wikipedia.org/wiki/Flushing_Meadows%E2%80%93Corona_Park",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Flushing_Meadows%E2%80%93Corona_Park.jpg"
     }
   ],
   "missing_images_after": {
     "artists": {
-      "missing": 161,
+      "missing": 141,
       "total": 1463
     },
     "venues": {
-      "missing": 13,
+      "missing": 1,
       "total": 95
     }
   },
@@ -76,5 +318,619 @@
     "to_venue": "greek-theatre-berkeley",
     "date_unchanged": "2019-09-29",
     "source": "https://www.gratefulweb.com/articles/tash-sultana-returns-north-america-cross-country-tour"
+  },
+  "images_replaced": [
+    {
+      "table": "venues",
+      "id": "utah-state-fairpark",
+      "name": "Utah State Fairpark",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Utah_State_Fairgrounds_entrance.jpeg/330px-Utah_State_Fairgrounds_entrance.jpeg",
+      "previous_image": "https://cdn.saffire.com/images.ashx?t=ig&rid=UtahStateFair&i=2018mar03-lux_dd_3839_40233331404_o(2).jpg&cb=E7DBAB3C",
+      "source": "https://en.wikipedia.org/wiki/Utah_State_Fair",
+      "image_source": "https://commons.wikimedia.org/wiki/File:Utah_State_Fairgrounds_entrance.jpeg"
+    }
+  ],
+  "follow_up_pass": {
+    "images_added": 32,
+    "images_replaced": 1,
+    "remaining_missing_artists": 141,
+    "remaining_missing_venues": 1,
+    "remaining_missing_venue_names": [
+      "Greek Theatre – Los Angeles"
+    ],
+    "remaining_missing_headliners": [
+      "Not-Porterfield",
+      "Johnson and Johnson"
+    ],
+    "main_list": {
+      "concerts": 357,
+      "cards_without_images": [
+        "Recital (2023-09-09)",
+        "Johnson and Johnson (2020-01-17)"
+      ],
+      "note": "All other cards have image elements. Many are lazy-loaded; browser load checks sampled new sources."
+    },
+    "existing_image_health": {
+      "urls_checked": 278,
+      "working": 277,
+      "broken": 1,
+      "broken_id": "utah-state-fairpark",
+      "note": "Utah URL returned 404 and was replaced. Fifteen Python certificate-store errors were rechecked successfully using the Windows native certificate store; no TLS verification was disabled."
+    },
+    "unresolved_note": "Remaining artists are primarily supporting/festival acts, plus two ambiguous headliners. This is a partial catalog image pass, not evidence that remaining images are unavailable."
+  },
+  "remaining_missing_images": {
+    "artists": [
+      {
+        "id": "0u7whj",
+        "name": "Aaron Axelsen"
+      },
+      {
+        "id": "acidnena",
+        "name": "Acidnena"
+      },
+      {
+        "id": "aidan-corcoran",
+        "name": "Aidan Corcoran"
+      },
+      {
+        "id": "ajna-us",
+        "name": "AJNA (US)"
+      },
+      {
+        "id": "6hllgn",
+        "name": "All Good Funk Alliance"
+      },
+      {
+        "id": "amble",
+        "name": "Amble"
+      },
+      {
+        "id": "anderson-paak-the-free-nationals",
+        "name": "Anderson .Paak & The Free Nationals"
+      },
+      {
+        "id": "arlie",
+        "name": "Arlie"
+      },
+      {
+        "id": "xkpybt",
+        "name": "Ash Lauryn"
+      },
+      {
+        "id": "f8pp24",
+        "name": "Atish"
+      },
+      {
+        "id": "p54e6b",
+        "name": "Autumn Nicholas"
+      },
+      {
+        "id": "aya",
+        "name": "aya"
+      },
+      {
+        "id": "l18p7u",
+        "name": "Bad Girl Bailey B2B CM-4"
+      },
+      {
+        "id": "bad-juuju",
+        "name": "Bad Juuju"
+      },
+      {
+        "id": "balma",
+        "name": "Balma"
+      },
+      {
+        "id": "jmj720",
+        "name": "Bender"
+      },
+      {
+        "id": "benson",
+        "name": "Benson"
+      },
+      {
+        "id": "beya",
+        "name": "Beya"
+      },
+      {
+        "id": "bill-kouligas",
+        "name": "Bill Kouligas"
+      },
+      {
+        "id": "bingo-loco",
+        "name": "BINGO LOCO"
+      },
+      {
+        "id": "bobo",
+        "name": "bobo_"
+      },
+      {
+        "id": "body-of-leaves",
+        "name": "Body Of Leaves"
+      },
+      {
+        "id": "bootie-mashup",
+        "name": "Bootie Mashup"
+      },
+      {
+        "id": "w9vd24",
+        "name": "Boy Scouts"
+      },
+      {
+        "id": "brady-okeefe",
+        "name": "Brady O’Keefe"
+      },
+      {
+        "id": "britton",
+        "name": "Britton"
+      },
+      {
+        "id": "catarina-matos",
+        "name": "Catarina Matos"
+      },
+      {
+        "id": "charles-hawthorne",
+        "name": "Charles Hawthorne"
+      },
+      {
+        "id": "chica-gang",
+        "name": "CHICA Gang"
+      },
+      {
+        "id": "chicago-made",
+        "name": "Chicago Made"
+      },
+      {
+        "id": "chile",
+        "name": "Chilé"
+      },
+      {
+        "id": "clara",
+        "name": "Clara"
+      },
+      {
+        "id": "clever",
+        "name": "Clever"
+      },
+      {
+        "id": "dani-satin-and-always-hallways",
+        "name": "Dani Satin and Always Hallways"
+      },
+      {
+        "id": "demdike-stare-b2b-raime",
+        "name": "Demdike Stare b2b Raime"
+      },
+      {
+        "id": "desire",
+        "name": "Desire"
+      },
+      {
+        "id": "diesel",
+        "name": "DIESEL"
+      },
+      {
+        "id": "dj-dolomedes",
+        "name": "DJ Dolomedes"
+      },
+      {
+        "id": "dj-erinyes",
+        "name": "DJ Erinyes"
+      },
+      {
+        "id": "dj-hopeless-hot-goth-pole-show",
+        "name": "DJ Hopeless & Hot Goth Pole Show"
+      },
+      {
+        "id": "dj-lazyboy",
+        "name": "DJ Lazyboy"
+      },
+      {
+        "id": "dj-mel",
+        "name": "DJ Mel"
+      },
+      {
+        "id": "dj-negro-presents-the-noise",
+        "name": "DJ Negro presents The Noise"
+      },
+      {
+        "id": "dj-starr-noir",
+        "name": "DJ Starr Noir"
+      },
+      {
+        "id": "dpr-ian-dpr-live",
+        "name": "DPR IAN & DPR LIVE"
+      },
+      {
+        "id": "dulce",
+        "name": "Dulce"
+      },
+      {
+        "id": "elaine-robin",
+        "name": "Elaine & Robin"
+      },
+      {
+        "id": "electric-feels",
+        "name": "Electric Feels"
+      },
+      {
+        "id": "ella-jane",
+        "name": "Ella Jane"
+      },
+      {
+        "id": "emo-nite",
+        "name": "EMO NITE"
+      },
+      {
+        "id": "equal",
+        "name": "Equal"
+      },
+      {
+        "id": "eye",
+        "name": "Eye"
+      },
+      {
+        "id": "f-r-a-c",
+        "name": "F.R.A.C"
+      },
+      {
+        "id": "flash",
+        "name": "Flash"
+      },
+      {
+        "id": "freddie-gibbs-madlib",
+        "name": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "friendless-summer",
+        "name": "Friendless Summer"
+      },
+      {
+        "id": "full-moonalice",
+        "name": "Full Moonalice"
+      },
+      {
+        "id": "674c9x",
+        "name": "Geo Star"
+      },
+      {
+        "id": "gomz",
+        "name": "Gomz"
+      },
+      {
+        "id": "grace-towers-friends",
+        "name": "Grace Towers & Friends"
+      },
+      {
+        "id": "grass-child",
+        "name": "Grass Child"
+      },
+      {
+        "id": "herrensauna-cem-b2b-mcmlxxxv-b2b-salome-b2b-spfdj",
+        "name": "Herrensauna (CEM b2b MCMLXXXV b2b Salome b2b SPFDJ)"
+      },
+      {
+        "id": "hobo-johnson-the-lovemakers",
+        "name": "Hobo Johnson & The Lovemakers"
+      },
+      {
+        "id": "hofe-x-4-40",
+        "name": "Hofe x 4:40"
+      },
+      {
+        "id": "hot-goth-freak-show",
+        "name": "Hot Goth Freak Show"
+      },
+      {
+        "id": "hugo-sousa",
+        "name": "Hugo Sousa"
+      },
+      {
+        "id": "jd-twitch-optimo",
+        "name": "JD Twitch (Optimo)"
+      },
+      {
+        "id": "johnson-and-johnson",
+        "name": "Johnson and Johnson"
+      },
+      {
+        "id": "joker",
+        "name": "Joker"
+      },
+      {
+        "id": "kaidara",
+        "name": "Kaidara"
+      },
+      {
+        "id": "kooze",
+        "name": "Kooze"
+      },
+      {
+        "id": "kosine-frayne-vibez",
+        "name": "Kosine × Frayne Vibez"
+      },
+      {
+        "id": "fq0s0l",
+        "name": "Kyle Walker"
+      },
+      {
+        "id": "kooqr5",
+        "name": "LIRL.79"
+      },
+      {
+        "id": "lisabo",
+        "name": "Lisabö"
+      },
+      {
+        "id": "little-moon",
+        "name": "Little Moon"
+      },
+      {
+        "id": "luda",
+        "name": "Luda"
+      },
+      {
+        "id": "m8nse",
+        "name": "M8NSE"
+      },
+      {
+        "id": "malena",
+        "name": "Malena"
+      },
+      {
+        "id": "maria-rui",
+        "name": "Maria Rui"
+      },
+      {
+        "id": "mark-obrien",
+        "name": "Mark O’Brien"
+      },
+      {
+        "id": "martina-o-clock",
+        "name": "Martina O' Clock"
+      },
+      {
+        "id": "marty-rock",
+        "name": "Marty Rock"
+      },
+      {
+        "id": "maz-kidd-revel",
+        "name": "Maz & Kidd Revel"
+      },
+      {
+        "id": "0kh5c1",
+        "name": "Michael Milano"
+      },
+      {
+        "id": "i5xs47",
+        "name": "Miramar"
+      },
+      {
+        "id": "motion-potion",
+        "name": "Motion Potion"
+      },
+      {
+        "id": "mphd",
+        "name": "MPHD"
+      },
+      {
+        "id": "mr-shaw",
+        "name": "Mr. Shaw"
+      },
+      {
+        "id": "ms-boan",
+        "name": "Ms. Boan"
+      },
+      {
+        "id": "music-in-the-key-of-chicago",
+        "name": "MUSIC IN THE KEY OF CHICAGO"
+      },
+      {
+        "id": "near-dead-experience",
+        "name": "Near Dead Experience"
+      },
+      {
+        "id": "nelsonn",
+        "name": "Nelsonn"
+      },
+      {
+        "id": "nez",
+        "name": "Nez"
+      },
+      {
+        "id": "nilton",
+        "name": "Nilton"
+      },
+      {
+        "id": "not-porterfield",
+        "name": "Not-Porterfield"
+      },
+      {
+        "id": "oasis-dj-set-beverly-chills",
+        "name": "OASIS DJ Set: Beverly Chills"
+      },
+      {
+        "id": "oasis-dj-set-dj-ion-the-prize",
+        "name": "OASIS DJ Set: DJ Ion The Prize"
+      },
+      {
+        "id": "odd-mob-omnom-present-hyperbeam",
+        "name": "ODD MOB & OMNOM present HYPERBEAM"
+      },
+      {
+        "id": "out-tonight-a-musical-singalong-feat-darcy-drollinger",
+        "name": "OUT TONIGHT: A Musical Singalong feat. D’Arcy Drollinger"
+      },
+      {
+        "id": "peter-harper",
+        "name": "Peter Harper"
+      },
+      {
+        "id": "pole-position",
+        "name": "Pole Position"
+      },
+      {
+        "id": "princess-w-tito-soto-feat-lydia-b-kollins",
+        "name": "PRINCESS w/ Tito Soto feat. Lydia B Kollins"
+      },
+      {
+        "id": "rachel-torro",
+        "name": "Rachel Torro"
+      },
+      {
+        "id": "reparations-w-dj-newonce",
+        "name": "REPARATIONS w/ DJ Newoncé"
+      },
+      {
+        "id": "reparations-w-nicki-jizz-feat-kori-king",
+        "name": "REPARATIONS w/ Nicki Jizz feat. Kori King"
+      },
+      {
+        "id": "ricardo-cardoso",
+        "name": "Ricardo Cardoso"
+      },
+      {
+        "id": "rooz",
+        "name": "Rooz"
+      },
+      {
+        "id": "sam-johnson",
+        "name": "Sam Johnson"
+      },
+      {
+        "id": "sante",
+        "name": "Santé"
+      },
+      {
+        "id": "sasha-marie",
+        "name": "Sasha Marie"
+      },
+      {
+        "id": "school-of-rock-brooklyn",
+        "name": "School of Rock Brooklyn"
+      },
+      {
+        "id": "school-of-rock-queens",
+        "name": "School Of Rock Queens"
+      },
+      {
+        "id": "efpbpy",
+        "name": "Shiba San"
+      },
+      {
+        "id": "xcz6hk",
+        "name": "Shilan"
+      },
+      {
+        "id": "silverado-pickups",
+        "name": "Silverado Pickups"
+      },
+      {
+        "id": "soho-soho",
+        "name": "Soho Soho"
+      },
+      {
+        "id": "sound-it-out",
+        "name": "Sound It Out!"
+      },
+      {
+        "id": "sports",
+        "name": "Sports"
+      },
+      {
+        "id": "stanley-frank-sensation",
+        "name": "Stanley Frank Sensation"
+      },
+      {
+        "id": "steph",
+        "name": "Steph"
+      },
+      {
+        "id": "strawberry-launch",
+        "name": "Strawberry Launch"
+      },
+      {
+        "id": "subtronics-and-griz-present-griztronics",
+        "name": "Subtronics and GRiZ present GRIZTRONICS"
+      },
+      {
+        "id": "tagabow",
+        "name": "TAGABOW"
+      },
+      {
+        "id": "toccororo",
+        "name": "Toccororo"
+      },
+      {
+        "id": "tokyo-rose",
+        "name": "Tokyo Rose"
+      },
+      {
+        "id": "tom-ravenscroft-b2b-deb-grant",
+        "name": "Tom Ravenscroft b2b Deb Grant"
+      },
+      {
+        "id": "trashi",
+        "name": "Trashi"
+      },
+      {
+        "id": "tratratrax-verraco-b2b-bitter-babe-b2b-nick-leon",
+        "name": "TraTraTrax (Verraco b2b Bitter Babe b2b Nick León)"
+      },
+      {
+        "id": "tre",
+        "name": "Tre"
+      },
+      {
+        "id": "turkuaz-with-jerry-harrison-adrian-belew",
+        "name": "Turkuaz with Jerry Harrison & Adrian Belew"
+      },
+      {
+        "id": "tyler-christian",
+        "name": "Tyler Christian"
+      },
+      {
+        "id": "uncle-blazer-dj-ango",
+        "name": "Uncle Blazer + DJ Ango"
+      },
+      {
+        "id": "untame-impala",
+        "name": "unTame Impala"
+      },
+      {
+        "id": "variacoes",
+        "name": "Variações"
+      },
+      {
+        "id": "vertigo",
+        "name": "Vertigo"
+      },
+      {
+        "id": "viuda",
+        "name": "Viuda"
+      },
+      {
+        "id": "woody92",
+        "name": "Woody92"
+      },
+      {
+        "id": "yousuke-yukimatsu-ou-uk-uk1mat-u",
+        "name": "Yousuke Yukimatsu (¥ØU$UK€ ¥UK1MAT$U)"
+      },
+      {
+        "id": "ypr",
+        "name": "YPR"
+      },
+      {
+        "id": "angeles-victor-gloria-javier",
+        "name": "Ángeles, Víctor, Gloria & Javier"
+      }
+    ],
+    "venues": [
+      {
+        "id": "greek-theatre-los-angeles",
+        "name": "Greek Theatre – Los Angeles"
+      }
+    ]
   }
 }
