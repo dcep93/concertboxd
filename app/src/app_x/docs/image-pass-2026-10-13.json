@@ -1,0 +1,80 @@
+{
+  "verified_at": "2026-10-13",
+  "method": "Saved through signed-in admin website; verified by public Firestore read. Images downloaded and visually inspected before saving.",
+  "images_added": [
+    {
+      "table": "artists",
+      "id": "high-time",
+      "name": "High Time",
+      "image": "https://www.gratefulweb.com/wp-content/uploads/2023/02/20230203_high-time_brooklyn-bowl_jmh_main-1-1-1024x683.jpg",
+      "source": "https://www.gratefulweb.com/articles/high-time-brooklyn-bowl-2-3-2023/"
+    },
+    {
+      "table": "artists",
+      "id": "trey-anastasio-band",
+      "name": "Trey Anastasio Band",
+      "image": "https://trey.com/wp-content/uploads/2013/03/DSC_4821-1024x683.jpg",
+      "source": "https://trey.com/projects/tab/"
+    },
+    {
+      "table": "artists",
+      "id": "bushwicks-dead",
+      "name": "Bushwick’s Dead",
+      "image": "https://www.jambase.com/wp-content/uploads/2026/01/bushwicks-dead-bob-weir-tribute-brooklyn-bowl-gordon-1200x631.jpg",
+      "source": "https://www.jambase.com/article/bushwicks-dead-bob-weir-tribute-brooklyn-bowl-setlist-recap-video"
+    },
+    {
+      "table": "artists",
+      "id": "joe-russos-almost-dead",
+      "name": "Joe Russo’s Almost Dead",
+      "image": "https://www.joerussosalmostdead.com/images/social-share.jpg",
+      "source": "https://www.joerussosalmostdead.com/"
+    },
+    {
+      "table": "venues",
+      "id": "the-rooftop-at-pier-17",
+      "name": "The Rooftop at Pier 17",
+      "image": "https://rooftopatpier17.com/wp-content/uploads/2020/03/photo-venue-9.jpg",
+      "source": "https://rooftopatpier17.com/venue-rentals/"
+    },
+    {
+      "table": "venues",
+      "id": "castro-theatre",
+      "name": "Castro Theatre",
+      "image": "https://apeconcerts.com/castrotheater/wp-content/uploads/sites/8/2025/10/image-2-9-1.png",
+      "source": "https://thecastro.com/"
+    },
+    {
+      "table": "venues",
+      "id": "bimbos-365-club",
+      "name": "Bimbo’s 365 Club",
+      "image": "https://tmbimboprod.wpengine.com/wp-content/uploads/2021/07/9134d1_20cec663dfb54ca480b8cf8960860243_mv2-1024x683.jpeg",
+      "source": "https://bimbos365club.com/private-events/"
+    },
+    {
+      "table": "venues",
+      "id": "imjlai",
+      "name": "Baby’s All Right",
+      "image": "https://images.squarespace-cdn.com/content/v1/5248d4ece4b0bae68e5c1c11/1770781777032-SOYOMXZSM2IOB54IZ10E/A55F3AF0-F96F-4D32-8943-721B43F20578.jpeg",
+      "source": "https://babysallright.com/private-events"
+    }
+  ],
+  "missing_images_after": {
+    "artists": {
+      "missing": 161,
+      "total": 1463
+    },
+    "venues": {
+      "missing": 13,
+      "total": 95
+    }
+  },
+  "concert_correction": {
+    "id": "zeeo95",
+    "artist": "Tash Sultana",
+    "from_venue": "greek-theatre-los-angeles",
+    "to_venue": "greek-theatre-berkeley",
+    "date_unchanged": "2019-09-29",
+    "source": "https://www.gratefulweb.com/articles/tash-sultana-returns-north-america-cross-country-tour"
+  }
+}

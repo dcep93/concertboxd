@@ -1,7 +1,7 @@
-import type { Artist, Concert, Schedule } from "./model";
+import type { Artist, Concert, Schedule, Venue } from "./model";
 import type { SongCaches, SongSet } from "./songLists";
 
-export type ConcertSearchEntry = { title: string; artists: string[]; setlistText: string[] };
+export type ConcertSearchEntry = { title: string; artists: string[]; venue: string; setlistText: string[] };
 export type SetlistCaches = Pick<SongCaches, "setlists" | "musicals">;
 
 export function normalizeSearch(value: string): string {
@@ -9,8 +9,9 @@ export function normalizeSearch(value: string): string {
 }
 
 /** Build once per catalog change; neither building nor matching performs I/O. */
-export function buildConcertSearch(concerts: Concert[], artists: Artist[], schedules: Schedule[], caches: SetlistCaches): Map<string, ConcertSearchEntry> {
+export function buildConcertSearch(concerts: Concert[], artists: Artist[], schedules: Schedule[], caches: SetlistCaches, venues: Venue[]): Map<string, ConcertSearchEntry> {
   const names = new Map(artists.map(artist => [artist.id, normalizeSearch(artist.name)]));
+  const places = new Map(venues.map(venue => [venue.id, normalizeSearch(`${venue.name} ${venue.location}`)]));
   const performances = new Map(schedules.map(schedule => [schedule.id, schedule.sets]));
   return new Map(concerts.map(concert => {
     const scheduled = performances.get(concert.id) || [];
@@ -48,12 +49,12 @@ export function buildConcertSearch(concerts: Concert[], artists: Artist[], sched
       addSets(program.sets);
       addText(program.title, program.production, program.basis, program.notes);
     }
-    return [concert.id, { title: normalizeSearch(concert.name || ""), artists: ids.map(id => names.get(id) || "").filter(Boolean), setlistText: [...setlistText] }];
+    return [concert.id, { title: normalizeSearch(concert.name || ""), artists: ids.map(id => names.get(id) || "").filter(Boolean), venue: places.get(concert.venue_id) || "", setlistText: [...setlistText] }];
   }));
 }
 
 export function matchesConcertSearch(entry: ConcertSearchEntry | undefined, query: string, searchSetlists = false): boolean {
   const term = normalizeSearch(query);
-  return !term || !!entry && (entry.title.includes(term) || entry.artists.some(name => name.includes(term))
+  return !term || !!entry && (entry.title.includes(term) || entry.artists.some(name => name.includes(term)) || entry.venue.includes(term)
     || searchSetlists && entry.setlistText.some(text => text.includes(term)));
 }
