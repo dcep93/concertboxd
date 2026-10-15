@@ -1,0 +1,116 @@
+name: Catalog update approval
+
+# This is the single repeatable issue workflow. No dispatch, PR or workflow_call entry.
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: read
+  issues: read
+  actions: read
+  deployments: read
+
+# Share the deployment lock with the existing workflow; never cancel an active write.
+concurrency:
+  group: production
+  cancel-in-progress: false
+
+env:
+  CATALOG_WORK_DIR: ${{ github.workspace }}/.catalog-review
+  GH_TOKEN: ${{ github.token }}
+
+jobs:
+  preview:
+    if: >-
+      github.repository_id == '1409422243' && github.actor_id == '12521665' &&
+      github.event.sender.id == 12521665 && github.event.issue.user.id == 12521665 &&
+      github.event.issue.title == '[catalog-change:v1]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      issues: read
+      actions: read
+      deployments: read
+      id-token: write
+    outputs:
+      plan_hash: ${{ steps.preview.outputs.plan_hash }}
+      artifact_id: ${{ steps.upload.outputs.artifact-id }}
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: 22
+      - run: npm ci --ignore-scripts
+        working-directory: app
+      - id: validate
+        run: node_modules/.bin/tsx src/app_x/scripts/catalogUpdate.ts validate
+        working-directory: app
+      - name: Authenticate read-only catalog preview
+        if: steps.validate.outputs.mode == 'apply'
+        uses: google-github-actions/auth@7c6bc770dae815cd3e89ee6cdf493a5fab2cc093 # v3.0.0
+        with:
+          project_id: concertboxd
+          workload_identity_provider: ${{ vars.CATALOG_READER_PROVIDER }}
+          service_account: catalog-reader@concertboxd.iam.gserviceaccount.com
+      - id: preview
+        run: node_modules/.bin/tsx src/app_x/scripts/catalogUpdate.ts preview
+        working-directory: app
+      - id: upload
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: catalog-review-${{ github.run_id }}-${{ github.run_attempt }}
+          path: ${{ env.CATALOG_WORK_DIR }}/review.json
+          if-no-files-found: error
+          retention-days: 14
+
+  apply:
+    needs: preview
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: catalog-production
+      url: https://github.com/dcep93/concertboxd/actions/runs/${{ github.run_id }}
+    permissions:
+      contents: read
+      issues: read
+      actions: read
+      deployments: read
+      id-token: write
+    env:
+      CATALOG_PLAN_HASH: ${{ needs.preview.outputs.plan_hash }}
+      CATALOG_PRODUCTION_ENABLED: ${{ vars.CATALOG_PRODUCTION_ENABLED }}
+      CATALOG_BACKUP_BUCKET: ${{ vars.CATALOG_BACKUP_BUCKET }}
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: 22
+      - run: npm ci --ignore-scripts
+        working-directory: app
+      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4.3.0
+        with:
+          artifact-ids: ${{ needs.preview.outputs.artifact_id }}
+          path: ${{ env.CATALOG_WORK_DIR }}
+          merge-multiple: true
+      - id: authorize
+        name: Recheck issue, approval, gate and exact review before Google access
+        run: node_modules/.bin/tsx src/app_x/scripts/catalogUpdate.ts authorize
+        working-directory: app
+      - name: Authenticate isolated catalog writer
+        if: steps.authorize.outputs.mode == 'apply' && env.CATALOG_PRODUCTION_ENABLED == 'true'
+        uses: google-github-actions/auth@7c6bc770dae815cd3e89ee6cdf493a5fab2cc093 # v3.0.0
+        with:
+          project_id: concertboxd
+          workload_identity_provider: ${{ vars.CATALOG_WRITER_PROVIDER }}
+          service_account: catalog-writer@concertboxd.iam.gserviceaccount.com
+      - name: Apply reviewed request or finish no-write smoke test
+        run: node_modules/.bin/tsx src/app_x/scripts/catalogUpdate.ts apply
+        working-directory: app

@@ -41,12 +41,18 @@ export function records(docs: FirestoreDocument[]): Raw {
   return Object.fromEntries(docs.map(doc => [doc.name.split("/").at(-1)!, decode({ mapValue: { fields: doc.fields || {} } })]));
 }
 
-export async function adminRest() {
-  const require = createRequire(import.meta.url);
+export function googleAuth(scopes: string[]) {
+  const localRequire = createRequire(import.meta.url);
+  // Resolve the existing locked dependency through its declaring package (also works with pnpm).
+  const require = createRequire(localRequire.resolve("firebase-tools/package.json"));
+  const { GoogleAuth } = require("google-auth-library");
+  return new GoogleAuth({ scopes });
+}
+
+export async function adminRest(scopes = ["https://www.googleapis.com/auth/cloud-platform", "https://www.googleapis.com/auth/firebase"]) {
   // GitHub supplies the existing deployment service account through ADC.
   // No credential contents or access tokens are written to logs or backups.
-  const { GoogleAuth } = require("google-auth-library");
-  const auth = new GoogleAuth({ scopes: ["https://www.googleapis.com/auth/cloud-platform", "https://www.googleapis.com/auth/firebase"] });
+  const auth = googleAuth(scopes);
   if (await auth.getProjectId() !== project) throw new Error("Deployment credential project does not match concertboxd");
   const token = { access_token: await auth.getAccessToken() };
   if (!token.access_token) throw new Error("No deployment credential available");

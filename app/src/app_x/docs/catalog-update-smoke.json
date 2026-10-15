@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "mode": "smoke",
+  "request_id": "approval-smoke-001",
+  "public_catalog_only": true,
+  "operations": []
+}

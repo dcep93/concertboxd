@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "mode": "apply",
+  "request_id": "public-show-2027-05-01-001",
+  "public_catalog_only": true,
+  "operations": [
+    {
+      "op": "add",
+      "table": "artists",
+      "id": "art001",
+      "values": { "name": "Example Artist", "image": "https://example.org/artist.jpg" },
+      "sources": ["https://example.org/artist"]
+    },
+    {
+      "op": "add",
+      "table": "venues",
+      "id": "ven001",
+      "values": { "name": "Example Venue", "timezone": "America/New_York", "location": "New York, NY" },
+      "sources": ["https://example.org/venue"]
+    },
+    {
+      "op": "add",
+      "table": "concerts",
+      "id": "evt001",
+      "values": { "artist_id": "art001", "venue_id": "ven001", "date": "2027-05-01T20:00:00-04:00", "date_precision": "time", "purchase_link": "https://example.org/events/show" },
+      "sources": ["https://example.org/events/show"]
+    }
+  ]
+}

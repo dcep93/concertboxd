@@ -11,6 +11,7 @@ type CatalogUpdate = { id: string; expected: Row; expected_absent?: string[]; ch
 export type CatalogCorrections = {
   id: string;
   artists: Record<string, Row>;
+  venues?: Record<string, Row>;
   concert_additions?: { id: string; concert: Row; schedule?: Row; sources: string[] }[];
   lineup_additions: { concert_id: string; artist_id: string; set_id: string; set: Row; sources: string[] }[];
   concert_updates: CatalogUpdate[];
@@ -23,6 +24,10 @@ export function projectCorrections(current: TableBackup, patch: CatalogCorrectio
   for (const [id, value] of Object.entries(patch.artists)) {
     if (next.artists[id] && !Object.entries(value).every(([key, field]) => equal(next.artists[id][key], field))) throw new Error(`Conflicting artist ${id}`);
     next.artists[id] ||= value;
+  }
+  for (const [id, value] of Object.entries(patch.venues || {})) {
+    if (next.venues[id] && !equal(next.venues[id], value)) throw new Error(`Conflicting venue ${id}`);
+    next.venues[id] ||= value;
   }
   for (const { id, concert, schedule, sources } of patch.concert_additions || []) {
     if (!/^[a-z0-9]{6}$/.test(id) || !sources.length || !concert.date) throw new Error(`Invalid concert addition ${id}`);
