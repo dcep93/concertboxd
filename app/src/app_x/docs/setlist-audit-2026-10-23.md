@@ -4,6 +4,10 @@ Audited all 393 catalog concerts for dcep93 (385 visible), covering 1,990 artist
 
 Added **110 verified setlists with 1,374 song entries**. The cache now contains 1,026 performances and 13,580 song entries across 1,006 keys. Every pre-existing cache entry is unchanged.
 
+The follow-up link audit added **461 verified page-only links across 57 concert events**: 50 ordinary performances and 411 scheduled festival performances. These pages had no reported songs in the saved source captures. Previously, their URLs remained only in the audit report because the UI required cached songs to expose a source. They now appear directly in the corresponding lineup or schedule row without an empty Songs disclosure.
+
+The independent [page-link index](../data/cached.setlist-links.json) is regenerated when a complete audit finishes. Artist/date/venue and exact festival membership are revalidated from captures; every competing festival page participates in matching, and repeated appearances require an exact schedule assignment. Ambiguous sources and the excluded Lawrence early show remain unlinked. Later song-cache updates suppress duplicate fallback links. No song-cache or personal data was changed by this follow-up.
+
 ## Method
 
 Read a fresh public Firestore catalog snapshot. Checked existing coverage and researched every missing eligible artist/performance against public setlist.fm pages and complete festival directories. Existing entries were retained without claiming a new source fetch. Empty source pages are not inferred setlists. Artist, date, venue or exact festival backlink must match; repeated same-day performances require unique published timing or stage evidence. Song order, encores, notes, covers, and tape flags are preserved by the existing parser.
@@ -62,4 +66,4 @@ See [the complete audit](setlist-audit-2026-10-23.json), [source manifest](../da
 
 ## Validation
 
-All original cache entries were compared structurally and preserved. Every added performance and song count reconciles with the audit receipts. App lint and 57 relevant TypeScript tests passed. All 31 Python cache/discovery tests passed. The production build and deployment are checked by the release workflow.
+All original cache entries were compared structurally and preserved. Every added performance and song count reconciles with the audit receipts. The follow-up also rechecked exact festival backlinks for all 67 festival additions after fixing a membership check that incorrectly treated href-less anchors as backlinks. All 67 passed the stricter check. App lint, 59 relevant TypeScript tests, 34 Python cache/discovery tests, and the production build passed. Deployment is checked by the release workflow.

@@ -108,9 +108,12 @@ def matches_target(actual, target, html, directory):
     if not dates and not target['start_date'] <= actual['event_date'] <= target['end_date']:
         return False
     # Exact festival backlink grounds stage and satellite-venue membership.
-    path = urlparse(directory).path
-    return any(urlparse(urljoin(directory, n.attrs.get('href', ''))).path == path
-               for n in Tree(html).root.all(lambda n: n.tag == 'a'))
+    expected = urlparse(directory)
+    # Resolve site-relative links from the site root. An anchor with no href,
+    # or a fragment-only player link, is not a festival backlink.
+    return any((linked := urlparse(urljoin('https://www.setlist.fm/', n.attrs['href']))).netloc == expected.netloc
+               and linked.path == expected.path
+               for n in Tree(html).root.all(lambda n: n.tag == 'a' and bool(n.attrs.get('href'))))
 
 
 class Fetcher:

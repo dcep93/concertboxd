@@ -4,6 +4,7 @@ import { artistSongLists, concertSongLists, groupScheduleDays, hasCachedConcertS
 import type { PerformanceSetlist, SongCaches, SpotifyTopTracks } from "../data/songLists";
 import { buildConcertSearch, matchesConcertSearch, normalizeSearch } from "../data/concertSearch";
 import { normalizeArtist, normalizeConcert, normalizeSchedule, normalizeVenue } from "../data/model";
+import { artistSetlistLinks } from "../data/setlistLinks";
 
 const top: SpotifyTopTracks = { kind: "spotify_top_tracks", artist: "A", url: "https://open.spotify.com/embed/artist/example", songs: [{ name: "Popular" }] };
 const performance: PerformanceSetlist = { kind: "setlist_fm", url: "https://www.setlist.fm/setlist/example", sets: [{ songs: [{ name: "Played" }] }] };
@@ -12,6 +13,22 @@ const caches: SongCaches = {
   setlists: { "a:c": [performance], "b:c": [{ ...performance, url: "https://www.setlist.fm/setlist/support" }] },
   musicals: { musical: { kind: "musical_program", title: "Show", production: "Production", basis: "Published program", url: "https://example.org/program", sets: [{ songs: [{ name: "Number" }] }] } },
 };
+
+test("verified empty pages remain available without inventing songs or replacing Spotify", () => {
+  const links = { "a:c": [{ url: performance.url }] };
+  assert.deepEqual(artistSetlistLinks("c", "a", {}, undefined, links), links["a:c"]);
+  assert.deepEqual(artistSongLists("c", "a", "A", { ...caches, setlists: {} }).map(e => e.value.kind), ["spotify_top_tracks"]);
+  assert.deepEqual(artistSetlistLinks("c", "a", caches.setlists, undefined, links), [], "a later song refresh replaces the fallback with the cached source");
+  assert.deepEqual(artistSetlistLinks("c", "a", { "a:c": [{ ...performance, sets: [] }] }, undefined, links), links["a:c"]);
+  assert.deepEqual(artistSetlistLinks("other", "a", {}, undefined, links), []);
+});
+
+test("page-only links respect exact festival appearances and encoded keys", () => {
+  const links = { "a%2Fb:c%3Ad": [{ url: performance.url, set_id: "early" }] };
+  assert.deepEqual(artistSetlistLinks("c:d", "a/b", {}, "early", links), links["a%2Fb:c%3Ad"]);
+  for (const setId of [undefined, "late"]) assert.deepEqual(artistSetlistLinks("c:d", "a/b", {}, setId, links), []);
+  assert.deepEqual(artistSetlistLinks("c:d", "different", {}, "early", links), []);
+});
 
 test("cached headliner sources replace concert footers; supporting sources only replace matching URLs", () => {
   const concert = { id: "c", artist_id: "a", supporting_artist_ids: ["b"], setlist_fm_url: performance.url };

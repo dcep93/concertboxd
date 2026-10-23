@@ -65,6 +65,49 @@ def ordinary_match(actual, target):
     return matches(actual, {**target, 'venue': aliases.get(target['venue'], target['venue'])}) or matches(actual, target)
 
 
+def verified_empty_links(records, get_page):
+    """Keep uniquely identified source pages independently of their song lists.
+
+    Recheck saved identity evidence, including every competing festival page.
+    A parser failure, ambiguous show, or rejected source is never a fallback.
+    """
+    links = {}
+    for key, target in records.items():
+        empty = {v['url'] for v in target.get('empty', [])
+                 if v['reason'] == 'No reported songs; retain previous data and review this page'}
+        if not empty or target['status'] in ('hidden', 'cancelled', 'future', 'needs_review'):
+            continue
+        if target.get('sets'):
+            pages = []
+            for url in dict.fromkeys(target.get('candidate_urls', [])):
+                html = get_page(url)
+                actual = identity(html)
+                if matches_target(actual, target, html, target['directory_url']):
+                    pages.append({'url': url, **actual, **source_times(html)})
+            bindings = match_performances(target['sets'], pages, target['timezone'])
+            reviewed = REVIEWED_PERFORMANCES.get(key)
+            if reviewed and any(p['url'] == reviewed['url'] for p in pages) and any(s['set_id'] == reviewed['set_id'] for s in target['sets']):
+                bindings[reviewed['url']] = reviewed['set_id']
+            entries = [{'url': url, 'set_id': sid} for url, sid in bindings.items() if url in empty]
+        else:
+            # Both a full page and an empty page can describe distinct shows.
+            if target['status'] != 'empty' or len(empty) != 1 or target.get('source_urls') or target.get('errors'):
+                continue
+            url = next(iter(empty))
+            entries = [{'url': url}] if ordinary_match(identity(get_page(url)), target) else []
+        if entries:
+            links[key] = entries
+    return links
+
+
+def publish_empty_links(records, work):
+    def saved_page(url):
+        return (work / 'pages' / (hashlib.sha256(url.encode()).hexdigest() + '.html')).read_text(encoding='utf-8')
+    links = verified_empty_links(records, saved_page)
+    save(DATA / 'cached.setlist-links.json', links)
+    return sum(len(entries) for entries in links.values())
+
+
 def audit(catalog, username, work, report):
     cat = read(catalog, {})
     profile = cat['users'][username]
@@ -240,6 +283,8 @@ def audit(catalog, username, work, report):
                 status = 'partial'
             record(key, target, status, added_performances=len(accepted), existing_performances=len(existing), candidate_urls=[v['url'] for v in candidates], held_urls=held, empty=empty, rejected=rejected, directory_url=directory['url'], **({'remaining_gap_status': gap_status} if status == 'partial' else {}), **({'match_basis': reviewed['reason']} if reviewed else {}))
         state['complete'] = len(state['records']) == state['total_artist_concert_targets']
+        if state['complete']:
+            state['verified_empty_page_links'] = publish_empty_links(state['records'], work)
         state.pop('blocked', None)
     except (Blocked, ValueError, OSError) as error:
         state['blocked'] = str(error)
@@ -254,6 +299,10 @@ if __name__ == '__main__':
     parser.add_argument('--username', required=True)
     parser.add_argument('--work', type=Path, required=True)
     parser.add_argument('--report', type=Path, required=True)
+    parser.add_argument('--links-only', action='store_true', help='Publish verified empty-page links from saved audit evidence without new requests')
     args = parser.parse_args()
     args.work.mkdir(parents=True, exist_ok=True)
-    audit(args.catalog, args.username, args.work, args.report)
+    if args.links_only:
+        print(json.dumps({'verified_empty_page_links': publish_empty_links(read(args.report, {})['records'], args.work)}))
+    else:
+        audit(args.catalog, args.username, args.work, args.report)

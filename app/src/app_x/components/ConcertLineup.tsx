@@ -5,6 +5,7 @@ import type { Catalog, Concert } from "../data/model";
 import { setLabel } from "../data/schedules";
 import { artistSongLists, groupScheduleDays, hasCachedConcertSource } from "../data/songLists";
 import { setlistCaches } from "../data/setlistCaches";
+import { artistSetlistLinks } from "../data/setlistLinks";
 import { ConcertSetlists } from "./ConcertSetlists";
 import { useSongCaches } from "./useSongCaches";
 import { Link } from "./navigation";
@@ -41,6 +42,7 @@ export function ConcertLineup({ catalog, concert, editor }: { catalog: Catalog; 
       </Link> : <p className="rs-message">Artist unavailable ({artistId}){detail && <small>{detail}</small>}</p>}
       </div>
       <ConcertSetlists entries={caches ? artistSongLists(concert.id, artistId, name, caches, setId) : []} />
+      {artistSetlistLinks(concert.id, artistId, caches.setlists, setId).map(source => <a className="rs-song-source" key={source.url} href={source.url} target="_blank" rel="noreferrer" aria-label={`${name} · setlist.fm`}>setlist.fm ↗</a>)}
     </div>;
   };
   return <section className="rs-panel rs-lineup">
@@ -59,6 +61,6 @@ export function ConcertLineup({ catalog, concert, editor }: { catalog: Catalog; 
     </>}
     {ids.filter(id => !scheduled.has(id)).map(id => row(id, id === concert.artist_id ? "Headliner" : concert.artist_id ? "Supporting" : ""))}
     {program?.sets.some(set => set.songs.length) && <ConcertSetlists entries={[{ key: `musical:${concert.id}`, title: program.title, label: "Musical program", value: program }]} />}
-    {!schedule?.sets.length && !hasCachedConcertSource(concert, setlistCaches.setlists) && /^https:\/\/(www\.)?setlist\.fm\//i.test(concert.setlist_fm_url) && <a className="rs-outbound" href={concert.setlist_fm_url} target="_blank" rel="noreferrer">Setlist.fm</a>}
+    {!schedule?.sets.length && !hasCachedConcertSource(concert, setlistCaches.setlists) && !ids.some(id => artistSetlistLinks(concert.id, id, caches.setlists).some(source => source.url === concert.setlist_fm_url)) && /^https:\/\/(www\.)?setlist\.fm\//i.test(concert.setlist_fm_url) && <a className="rs-outbound" href={concert.setlist_fm_url} target="_blank" rel="noreferrer">Setlist.fm</a>}
   </section>;
 }
