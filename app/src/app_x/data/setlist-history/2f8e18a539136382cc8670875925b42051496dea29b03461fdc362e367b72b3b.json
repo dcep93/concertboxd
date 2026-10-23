@@ -1,0 +1,69 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Dc10"
+          },
+          {
+            "name": "Liz & Opie"
+          },
+          {
+            "name": "Cruising Altitude"
+          },
+          {
+            "name": "A Little Rice and Beans"
+          },
+          {
+            "name": "Quimbara"
+          },
+          {
+            "name": "My Life",
+            "notes": "(Victor Wooten song) (>)"
+          },
+          {
+            "name": "A Little Rice and Beans",
+            "notes": "(>)"
+          },
+          {
+            "name": "Bob Franceschini solo",
+            "notes": "(>)"
+          },
+          {
+            "name": "Zenergy"
+          },
+          {
+            "name": "Beat It",
+            "notes": "(>)"
+          },
+          {
+            "name": "Dennis Chambers solo",
+            "notes": "(>)"
+          },
+          {
+            "name": "13th Floor"
+          },
+          {
+            "name": "Vic Wooten solo",
+            "notes": "(>)"
+          },
+          {
+            "name": "Funky D"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Cruisin'"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/victor-wooten-trio/2018/the-regency-ballroom-san-francisco-ca-63e17a3b.html"
+  }
+]

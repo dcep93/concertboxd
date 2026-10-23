@@ -1,0 +1,67 @@
+[
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: 75 min",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "So Cold"
+          },
+          {
+            "name": "Angels Fall"
+          },
+          {
+            "name": "Sooner or Later"
+          },
+          {
+            "name": "Blow Me Away"
+          },
+          {
+            "name": "Firefly"
+          },
+          {
+            "name": "Simple Design"
+          },
+          {
+            "name": "The Imperial March / Schism / Smells Like Teen Spirit / Walk / Bulls on Parade / Sad but True"
+          },
+          {
+            "name": "Polyamorous"
+          },
+          {
+            "name": "Ashes of Eden"
+          },
+          {
+            "name": "Believe"
+          },
+          {
+            "name": "Never Again"
+          },
+          {
+            "name": "Breath"
+          },
+          {
+            "name": "Failure"
+          },
+          {
+            "name": "Until the End"
+          },
+          {
+            "name": "I Will Not Bow"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "The Diary of Jane"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/breaking-benjamin/2017/masonic-auditorium-san-francisco-ca-33e63c9d.html"
+  }
+]

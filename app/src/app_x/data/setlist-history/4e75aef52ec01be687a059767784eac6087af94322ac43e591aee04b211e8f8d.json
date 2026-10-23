@@ -1,0 +1,94 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Bad Horsie"
+          },
+          {
+            "name": "The Crying Machine"
+          },
+          {
+            "name": "Gravity Storm"
+          },
+          {
+            "name": "Tender Surrender"
+          }
+        ]
+      },
+      {
+        "name": "Passion and Warfare",
+        "songs": [
+          {
+            "name": "Liberty"
+          },
+          {
+            "name": "Erotic Nightmares"
+          },
+          {
+            "name": "The Animal"
+          },
+          {
+            "name": "Answers"
+          },
+          {
+            "name": "The Riddle"
+          },
+          {
+            "name": "Ballerina 12/24"
+          },
+          {
+            "name": "For the Love of God"
+          },
+          {
+            "name": "The Audience Is Listening"
+          },
+          {
+            "name": "I Would Love To"
+          },
+          {
+            "name": "Blue Powder"
+          },
+          {
+            "name": "Greasy Kid's Stuff"
+          },
+          {
+            "name": "Alien Water Kiss"
+          },
+          {
+            "name": "Sisters"
+          },
+          {
+            "name": "Love Secrets"
+          }
+        ]
+      },
+      {
+        "songs": [
+          {
+            "name": "Stevie's Spanking",
+            "notes": "(Frank Zappa cover)"
+          },
+          {
+            "name": "Build Me a Song"
+          },
+          {
+            "name": "Racing the World"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Fire Garden Suite IV - Taurus Bulba"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/steve-vai/2016/the-fillmore-san-francisco-ca-13fd65a1.html"
+  }
+]

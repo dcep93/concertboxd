@@ -1,0 +1,35 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "All Our Lives"
+          },
+          {
+            "name": "High Dive"
+          },
+          {
+            "name": "Canyon Moon"
+          },
+          {
+            "name": "Fire Escape"
+          },
+          {
+            "name": "Dark Blue",
+            "notes": "(Jack’s Mannequin cover)"
+          },
+          {
+            "name": "Synesthesia",
+            "notes": "(Andrew McMahon cover)"
+          },
+          {
+            "name": "Cecilia and the Satellite"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/andrew-mcmahon-in-the-wilderness/2016/shoreline-amphitheatre-mountain-view-ca-43ff4bbf.html"
+  }
+]

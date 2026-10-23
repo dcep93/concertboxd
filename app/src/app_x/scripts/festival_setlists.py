@@ -21,6 +21,7 @@ from setlist_page import Tree, text, extract
 from performance_matches import match_performances
 
 DIRECTORIES = {
+    'f3ysgl': '2021/outside-lands-music-and-arts-festival-2021-2bd48ce2.html',
     '8nhjof': '2018/outside-lands-music-and-arts-festival-2018-3bd7f034.html',
     'brv1d9': '2019/outside-lands-music-and-arts-festival-2019-63d726d7.html',
     'xuwdm1': '2026/outside-lands-music-and-arts-festival-2026-5bd503b8.html',
@@ -48,6 +49,9 @@ ARTIST_ALIASES = {
     'Petey': 'Petey USA',
     'TAGABOW': 'They Are Gutting a Body of Water',
     'SF Gay Men’s Chorus': 'San Francisco Gay Men’s Chorus',
+    'ODD MOB & OMNOM present HYPERBEAM': 'HYPERBEAM',
+    'Subtronics and GRiZ present GRIZTRONICS': 'GRiZ & Subtronics',
+    'Yousuke Yukimatsu (¥ØU$UK€ ¥UK1MAT$U)': '¥ØU$UK€ ¥UK1MAT$U',
 }
 
 

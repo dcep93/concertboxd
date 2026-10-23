@@ -1,0 +1,66 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Jenny"
+          },
+          {
+            "name": "Sidekick"
+          },
+          {
+            "name": "Avalanche"
+          },
+          {
+            "name": "Different Colors"
+          },
+          {
+            "name": "Tightrope"
+          },
+          {
+            "name": "Down in the Dumps"
+          },
+          {
+            "name": "Come Under the Covers"
+          },
+          {
+            "name": "Up 2 U"
+          },
+          {
+            "name": "Work This Body"
+          },
+          {
+            "name": "Portugal"
+          },
+          {
+            "name": "Aquaman"
+          },
+          {
+            "name": "Lisa Baby"
+          },
+          {
+            "name": "I Can Lift a Car"
+          },
+          {
+            "name": "Shut Up and Dance"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "We Are the Kids"
+          },
+          {
+            "name": "Anna Sun"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/walk-the-moon/2015/masonic-auditorium-san-francisco-ca-7bf58638.html"
+  }
+]

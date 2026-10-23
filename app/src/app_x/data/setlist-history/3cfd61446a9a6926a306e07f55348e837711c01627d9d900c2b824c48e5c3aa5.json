@@ -1,0 +1,57 @@
+[
+  {
+    "kind": "setlist_fm",
+    "set_id": "0f4yod",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "(Unknown)",
+            "notes": "(Unreleased song)"
+          },
+          {
+            "name": "Emily"
+          },
+          {
+            "name": "Annie"
+          },
+          {
+            "name": "Call It Easy"
+          },
+          {
+            "name": "Racing Mount Pleasant"
+          },
+          {
+            "name": "Snowing, All at Once"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/racing-mount-pleasant/2026/golden-gate-park-san-francisco-ca-usa-3349a4f9.html"
+  },
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: Duboce Triangle Stage",
+    "set_id": "ml294y",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Your New Place"
+          },
+          {
+            "name": "Call It Easy",
+            "notes": "(Live Version)"
+          },
+          {
+            "name": "Do You Think I’m Pretty"
+          },
+          {
+            "name": "Outlast"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/racing-mount-pleasant/2026/golden-gate-park-san-francisco-ca-usa-637042c3.html"
+  }
+]

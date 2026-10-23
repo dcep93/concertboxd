@@ -1,0 +1,77 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "Set 1:",
+        "songs": [
+          {
+            "name": "Some Days"
+          },
+          {
+            "name": "Pork 'n Slaw",
+            "notes": "(WOLF! cover)"
+          },
+          {
+            "name": "Hit Return"
+          },
+          {
+            "name": "Out of Curiosity"
+          },
+          {
+            "name": "When I Was Young",
+            "notes": "(The Wood Brothers cover)"
+          },
+          {
+            "name": "Natural Mystic",
+            "notes": "(Bob Marley & The Wailers cover)"
+          },
+          {
+            "name": "Run for the Roses",
+            "notes": "(Jerry Garcia cover)"
+          }
+        ]
+      },
+      {
+        "name": "Set 2:",
+        "songs": [
+          {
+            "name": "Ramblin'",
+            "notes": "(Ornette Coleman cover)"
+          },
+          {
+            "name": "Cosmo"
+          },
+          {
+            "name": "Backfire"
+          },
+          {
+            "name": "Q Division"
+          },
+          {
+            "name": "Ulterior Motives"
+          },
+          {
+            "name": "Standing on the Moon",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Ophelia",
+            "notes": "(The Band cover)"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Mercury Blues",
+            "notes": "(K.C. Douglas cover)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/lamp/2026/brooklyn-bowl-brooklyn-ny-337cb0e1.html"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Satellite"
+          },
+          {
+            "name": "Make It Stop (September's Children)"
+          },
+          {
+            "name": "Give It All"
+          },
+          {
+            "name": "Help Is on the Way"
+          },
+          {
+            "name": "Under the Knife"
+          },
+          {
+            "name": "Living Undercover"
+          },
+          {
+            "name": "The Good Left Undone"
+          },
+          {
+            "name": "Nod"
+          },
+          {
+            "name": "Heaven Knows"
+          },
+          {
+            "name": "Audience of One"
+          },
+          {
+            "name": "Re-Education (Through Labor)"
+          },
+          {
+            "name": "Hero of War",
+            "notes": "(Acoustic)"
+          },
+          {
+            "name": "Swing Life Away",
+            "notes": "(Acoustic)"
+          },
+          {
+            "name": "Collapse (Post-Amerika)"
+          },
+          {
+            "name": "Prayer of the Refugee"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Survive"
+          },
+          {
+            "name": "Savior"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/rise-against/2026/masonic-auditorium-san-francisco-ca-7b491ee4.html"
+  }
+]

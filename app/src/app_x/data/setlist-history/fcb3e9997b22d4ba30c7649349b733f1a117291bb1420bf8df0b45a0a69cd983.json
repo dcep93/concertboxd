@@ -1,0 +1,69 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Taking Off",
+            "notes": "(Japanese version)"
+          },
+          {
+            "name": "Take Me to the Top"
+          },
+          {
+            "name": "Cry Out"
+          },
+          {
+            "name": "Deeper Deeper"
+          },
+          {
+            "name": "Clock Strikes"
+          },
+          {
+            "name": "Decision"
+          },
+          {
+            "name": "Hard to Love"
+          },
+          {
+            "name": "(Unknown)",
+            "notes": "(Instrumental)"
+          },
+          {
+            "name": "Bedroom Warfare",
+            "notes": "(Japanese version)"
+          },
+          {
+            "name": "The Beginning"
+          },
+          {
+            "name": "I Was King",
+            "notes": "(Japanese version)"
+          },
+          {
+            "name": "Take What You Want",
+            "notes": "(Partially acoustic)"
+          },
+          {
+            "name": "We Are",
+            "notes": "(Japanese version)"
+          },
+          {
+            "name": "Mighty Long Fall"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "American Girls"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/one-ok-rock/2017/the-warfield-san-francisco-ca-73f8e2d1.html"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: \"Forfeit\" was on the setlist between \"Give It All\" and \"Swing Life Away\", but not performed.",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "The Numbers"
+          },
+          {
+            "name": "Re-Education (Through Labor)"
+          },
+          {
+            "name": "Satellite"
+          },
+          {
+            "name": "The Violence"
+          },
+          {
+            "name": "Broken Dreams, Inc."
+          },
+          {
+            "name": "Audience of One"
+          },
+          {
+            "name": "Ready to Fall"
+          },
+          {
+            "name": "Nowhere Generation"
+          },
+          {
+            "name": "I Don't Want to Be Here Anymore"
+          },
+          {
+            "name": "Chamber the Cartridge"
+          },
+          {
+            "name": "Give It All"
+          },
+          {
+            "name": "Swing Life Away",
+            "notes": "(Tim McIlrath only)"
+          },
+          {
+            "name": "Make It Stop (September's Children)"
+          },
+          {
+            "name": "Prayer of the Refugee"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Survive",
+            "notes": "(With a fan from the crowd named \"Alex\" on guitar)"
+          },
+          {
+            "name": "Worth Dying For"
+          },
+          {
+            "name": "Savior"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/rise-against/2021/masonic-auditorium-san-francisco-ca-2b8c98ca.html"
+  }
+]

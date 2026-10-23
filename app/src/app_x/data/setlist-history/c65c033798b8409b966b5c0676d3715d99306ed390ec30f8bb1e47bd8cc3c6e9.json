@@ -1,0 +1,68 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "California Kids"
+          },
+          {
+            "name": "Hash Pipe"
+          },
+          {
+            "name": "My Name Is Jonas"
+          },
+          {
+            "name": "(If You're Wondering If I Want You To) I Want You To"
+          },
+          {
+            "name": "Pork and Beans"
+          },
+          {
+            "name": "I Love the USA"
+          },
+          {
+            "name": "Perfect Situation"
+          },
+          {
+            "name": "Thank God for Girls"
+          },
+          {
+            "name": "Beverly Hills",
+            "notes": "(Preceded by snippet of \"Come Together\" by The Beatles)"
+          },
+          {
+            "name": "Dope Nose / Back to the Shack / Keep Fishin' / The Good Life / Surf Wax America"
+          },
+          {
+            "name": "Undone - The Sweater Song"
+          },
+          {
+            "name": "King of the World / Only in Dreams"
+          },
+          {
+            "name": "Island in the Sun"
+          },
+          {
+            "name": "Say It Ain't So"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "El Scorcho",
+            "notes": "(Piano intro, preceded by snippet of \"We Are Young\" by fun.)"
+          },
+          {
+            "name": "Buddy Holly"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/weezer/2016/shoreline-amphitheatre-mountain-view-ca-53ff4bb9.html"
+  }
+]

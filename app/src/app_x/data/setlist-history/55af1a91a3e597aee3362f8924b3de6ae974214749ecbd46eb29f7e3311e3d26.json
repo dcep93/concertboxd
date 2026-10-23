@@ -1,0 +1,104 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "Chapter 1: Full Band",
+        "songs": [
+          {
+            "name": "Wildfire"
+          },
+          {
+            "name": "Helpless"
+          },
+          {
+            "name": "Love on the Weekend"
+          },
+          {
+            "name": "Rosie"
+          },
+          {
+            "name": "Changing"
+          }
+        ]
+      },
+      {
+        "name": "Chapter 2: Acoustic",
+        "songs": [
+          {
+            "name": "Daughters"
+          },
+          {
+            "name": "Whiskey, Whiskey, Whiskey"
+          },
+          {
+            "name": "Leather and Lace",
+            "notes": "(Stevie Nicks cover)"
+          },
+          {
+            "name": "Free Fallin'",
+            "notes": "(Tom Petty cover)"
+          }
+        ]
+      },
+      {
+        "name": "Chapter 3: Trio",
+        "songs": [
+          {
+            "name": "Who Did You Think I Was",
+            "notes": "(John Mayer Trio song) (with John Mayer Trio)"
+          },
+          {
+            "name": "Good Love Is on the Way",
+            "notes": "(John Mayer Trio song) (with John Mayer Trio)"
+          },
+          {
+            "name": "Cross Road Blues",
+            "notes": "(Robert Johnson cover) (with John Mayer Trio)"
+          },
+          {
+            "name": "Every Day I Have the Blues",
+            "notes": "(Aaron ‘Pinetop’ Sparks cover) (with John Mayer Trio)"
+          }
+        ]
+      },
+      {
+        "name": "Chapter 4: Full Band (Reprise)",
+        "songs": [
+          {
+            "name": "Belief"
+          },
+          {
+            "name": "In the Blood"
+          },
+          {
+            "name": "They Love Each Other",
+            "notes": "(Jerry Garcia cover)"
+          },
+          {
+            "name": "Slow Dancing in a Burning Room"
+          },
+          {
+            "name": "Moving On and Getting Over"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Who Says"
+          },
+          {
+            "name": "Waiting on the World to Change"
+          },
+          {
+            "name": "Gravity"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/john-mayer/2017/shoreline-amphitheatre-mountain-view-ca-63e5ea3f.html"
+  }
+]

@@ -1,5 +1,59 @@
 {
   "entries": {
+    "070-shake:3s9mjj": {
+      "content_sha256": "41f236f346af7658bd50b7d8d06907aa04214c73c5ff643eba61a54a5b85dd08",
+      "first_fetched_at": "2026-10-23T19:41:47.972694+00:00",
+      "last_fetched_at": "2026-10-23T19:41:47.972694+00:00",
+      "last_processed_at": "2026-10-23T19:41:51.621682+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:41:51.621682+00:00",
+          "sha256": "41f236f346af7658bd50b7d8d06907aa04214c73c5ff643eba61a54a5b85dd08"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/070-shake/2024/parc-del-forum-barcelona-spain-4ba973fe.html": {
+          "html_sha256": "720de70b846ec7582b6c5c2fd623776935d5314f5307022acd080aaae1cbfe45",
+          "last_fetched_at": "2026-10-23T19:41:47.972694+00:00"
+        }
+      }
+    },
+    "070-shake:f3ysgl": {
+      "content_sha256": "afd02b16705ae54ebedb842e27a1dc6ee592163fb4e7db22b0f4e352a041e85e",
+      "first_fetched_at": "2026-10-23T19:26:56.845170+00:00",
+      "last_fetched_at": "2026-10-23T19:26:56.845170+00:00",
+      "last_processed_at": "2026-10-23T19:26:57.045271+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:26:57.045271+00:00",
+          "sha256": "afd02b16705ae54ebedb842e27a1dc6ee592163fb4e7db22b0f4e352a041e85e"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/070-shake/2021/golden-gate-park-san-francisco-ca-usa-338ab4a1.html": {
+          "html_sha256": "d531cace1f13ab99704d7554debb63684e3cca5363e56eccc4223eede1c650e3",
+          "last_fetched_at": "2026-10-23T19:26:56.845170+00:00"
+        }
+      }
+    },
+    "0zlajk:f3ysgl": {
+      "content_sha256": "e8e61f331e1019240b5ed8f399696806be29032a54493a757857b1b86f53da63",
+      "first_fetched_at": "2026-10-23T19:39:51.067310+00:00",
+      "last_fetched_at": "2026-10-23T19:39:51.067310+00:00",
+      "last_processed_at": "2026-10-23T19:39:57.113362+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:39:57.113362+00:00",
+          "sha256": "e8e61f331e1019240b5ed8f399696806be29032a54493a757857b1b86f53da63"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/zhu/2021/golden-gate-park-san-francisco-ca-usa-b8aad16.html": {
+          "html_sha256": "b8b5c12c26dfe3be5d7aec13603467c932d4362104cf1a404fe18cc4620e2f21",
+          "last_fetched_at": "2026-10-23T19:39:51.067310+00:00"
+        }
+      }
+    },
     "100-gecs:fuaiif": {
       "content_sha256": "a2f4c1555ca409a582fbc65bdfaf2289049117cce1b95e5e2f9c6550564d8438",
       "first_fetched_at": "2026-10-08T07:48:05.567272+00:00",
@@ -19,6 +73,24 @@
         "https://www.setlist.fm/setlist/100-gecs/2024/utah-state-fairpark-salt-lake-city-ut-usa-43abefe3.html": {
           "html_sha256": "d6a1e35951042eacbfc17f224085e188176a8f22268d9e987950db39a3760215",
           "last_fetched_at": "2026-10-08T07:48:05.567272+00:00"
+        }
+      }
+    },
+    "1l3us4:ockki4": {
+      "content_sha256": "7c65ce38e80609e1fe093326f9bf3ad197b5194c445cacd0fb7df363e5a55ad7",
+      "first_fetched_at": "2026-10-23T19:10:25.545310+00:00",
+      "last_fetched_at": "2026-10-23T19:10:25.545310+00:00",
+      "last_processed_at": "2026-10-23T19:10:25.762144+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:10:25.762144+00:00",
+          "sha256": "7c65ce38e80609e1fe093326f9bf3ad197b5194c445cacd0fb7df363e5a55ad7"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/nonpoint/2016/the-fillmore-san-francisco-ca-53f0c729.html": {
+          "html_sha256": "ccc08f00bccf732e68bb4ac26e08c1f922f71e94d4eaa005e5ef929ab5827f01",
+          "last_fetched_at": "2026-10-23T19:10:25.545310+00:00"
         }
       }
     },
@@ -44,6 +116,150 @@
         }
       }
     },
+    "2jttra:lr283c": {
+      "content_sha256": "666a1ca619a2851f2ab6bb57f647e695d509ee2ba45c9e71b5a00f3117ac216e",
+      "first_fetched_at": "2026-10-23T19:09:01.473314+00:00",
+      "last_fetched_at": "2026-10-23T19:09:01.473314+00:00",
+      "last_processed_at": "2026-10-23T19:09:02.366989+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:09:02.366989+00:00",
+          "sha256": "666a1ca619a2851f2ab6bb57f647e695d509ee2ba45c9e71b5a00f3117ac216e"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/holychild/2015/masonic-auditorium-san-francisco-ca-7bf5863c.html": {
+          "html_sha256": "153043f9cdce4152b6baba2fc42b38951ee807edbed497ad577f4f22cb3cc337",
+          "last_fetched_at": "2026-10-23T19:09:01.473314+00:00"
+        }
+      }
+    },
+    "30o73n:f3ysgl": {
+      "content_sha256": "5c826723644d3b01621806717ec17152e0ffe04dc20b678a0b25e948bdec34bb",
+      "first_fetched_at": "2026-10-23T19:27:22.140964+00:00",
+      "last_fetched_at": "2026-10-23T19:27:22.140964+00:00",
+      "last_processed_at": "2026-10-23T19:27:22.356710+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:27:22.356710+00:00",
+          "sha256": "5c826723644d3b01621806717ec17152e0ffe04dc20b678a0b25e948bdec34bb"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/amine/2021/golden-gate-park-san-francisco-ca-usa-738a9a19.html": {
+          "html_sha256": "be44666e0af7ceddd03943b344e6ffe5a1e5d353982db8508edb9cc319385d2e",
+          "last_fetched_at": "2026-10-23T19:27:22.140964+00:00"
+        }
+      }
+    },
+    "415237:f3ysgl": {
+      "content_sha256": "c4c311f0239b433e554fff907dcc4397cee6d34cc9975b959e165f35d0146cbf",
+      "first_fetched_at": "2026-10-23T19:29:58.360679+00:00",
+      "last_fetched_at": "2026-10-23T19:29:58.360679+00:00",
+      "last_processed_at": "2026-10-23T19:29:58.646949+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:29:58.646949+00:00",
+          "sha256": "c4c311f0239b433e554fff907dcc4397cee6d34cc9975b959e165f35d0146cbf"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/claud/2021/golden-gate-park-san-francisco-ca-usa-4b8aa73e.html": {
+          "html_sha256": "927c33a8b18495f2148cb5c3cfc5fcee5a4ce96331474c1de26cc10011533220",
+          "last_fetched_at": "2026-10-23T19:29:58.360679+00:00"
+        }
+      }
+    },
+    "4jyu22:m058sl": {
+      "content_sha256": "8a2beadeb64de121af1fc0201d3b5de0165e86bd22017abb70eba5aff0a8b311",
+      "first_fetched_at": "2026-10-23T19:09:20.448306+00:00",
+      "last_fetched_at": "2026-10-23T19:09:20.448306+00:00",
+      "last_processed_at": "2026-10-23T19:09:21.229102+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:09:21.229102+00:00",
+          "sha256": "8a2beadeb64de121af1fc0201d3b5de0165e86bd22017abb70eba5aff0a8b311"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/descendents/2021/masonic-auditorium-san-francisco-ca-4b8c9b4a.html": {
+          "html_sha256": "8f4b0c1afd1ce01ec5299d19f38c3f6201b575bb5cdb22117e954d41ff483136",
+          "last_fetched_at": "2026-10-23T19:09:20.448306+00:00"
+        }
+      }
+    },
+    "4nbzd5:di7xbd": {
+      "content_sha256": "7237e0cd9804ffb9aa48bbf04f0eb8d723dc4200da7d40530e15eabd2317231f",
+      "first_fetched_at": "2026-10-23T19:06:38.060129+00:00",
+      "last_fetched_at": "2026-10-23T19:06:38.060129+00:00",
+      "last_processed_at": "2026-10-23T19:06:39.019765+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:06:39.019765+00:00",
+          "sha256": "7237e0cd9804ffb9aa48bbf04f0eb8d723dc4200da7d40530e15eabd2317231f"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/alkaline-trio/2026/masonic-auditorium-san-francisco-ca-6b491eda.html": {
+          "html_sha256": "bc78c0e0bd991be2acd4d504b00eb8d5380c80bdab0f2190f20029f2481196b3",
+          "last_fetched_at": "2026-10-23T19:06:38.060129+00:00"
+        }
+      }
+    },
+    "4ue9ao:f1fisv": {
+      "content_sha256": "fcb3e9997b22d4ba30c7649349b733f1a117291bb1420bf8df0b45a0a69cd983",
+      "first_fetched_at": "2026-10-23T19:07:21.834996+00:00",
+      "last_fetched_at": "2026-10-23T19:07:21.834996+00:00",
+      "last_processed_at": "2026-10-23T19:07:22.738065+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:07:22.738065+00:00",
+          "sha256": "fcb3e9997b22d4ba30c7649349b733f1a117291bb1420bf8df0b45a0a69cd983"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/one-ok-rock/2017/the-warfield-san-francisco-ca-73f8e2d1.html": {
+          "html_sha256": "d9bcbd8cf6cfed662e154c91d8a2db3dc1c290b770e9e63b8d0235a389afc16e",
+          "last_fetched_at": "2026-10-23T19:07:21.834996+00:00"
+        }
+      }
+    },
+    "62a2ig:f3ysgl": {
+      "content_sha256": "bc9ea73290b81a822086cbae0b71b208833a31137cd4b21b3b66707d0058d57c",
+      "first_fetched_at": "2026-10-23T19:33:35.272223+00:00",
+      "last_fetched_at": "2026-10-23T19:33:35.272223+00:00",
+      "last_processed_at": "2026-10-23T19:33:35.489425+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:33:35.489425+00:00",
+          "sha256": "bc9ea73290b81a822086cbae0b71b208833a31137cd4b21b3b66707d0058d57c"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/nelly/2021/golden-gate-park-san-francisco-ca-usa-4b8aa74a.html": {
+          "html_sha256": "cc676cee52fb401b7e643adb31c2698c0068be6177e912bc01843361b0a96c0d",
+          "last_fetched_at": "2026-10-23T19:33:35.272223+00:00"
+        }
+      }
+    },
+    "7edm49:vils17": {
+      "content_sha256": "4e75aef52ec01be687a059767784eac6087af94322ac43e591aee04b211e8f8d",
+      "first_fetched_at": "2026-10-23T19:12:20.005431+00:00",
+      "last_fetched_at": "2026-10-23T19:12:20.005431+00:00",
+      "last_processed_at": "2026-10-23T19:12:20.371450+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:12:20.371450+00:00",
+          "sha256": "4e75aef52ec01be687a059767784eac6087af94322ac43e591aee04b211e8f8d"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/steve-vai/2016/the-fillmore-san-francisco-ca-13fd65a1.html": {
+          "html_sha256": "50d2572f443530588ced955b073946cf9ce776ff5eafb9e24a6950d197a12509",
+          "last_fetched_at": "2026-10-23T19:12:20.005431+00:00"
+        }
+      }
+    },
     "99-neighbors:c26k26": {
       "content_sha256": "0d2b4d3c953e7f21fc562d9a26df7b4e0cd685485bf297723e310b93634c7935",
       "first_fetched_at": "2026-10-08T07:27:48.370436+00:00",
@@ -63,6 +279,24 @@
         "https://www.setlist.fm/setlist/99-neighbors/2021/napa-valley-expo-napa-ca-usa-38c39bb.html": {
           "html_sha256": "974e9cb8449c037240196b5c30b8da847e3d0b4fdaebd082259563a324270621",
           "last_fetched_at": "2026-10-08T07:27:48.370436+00:00"
+        }
+      }
+    },
+    "9ogpib:gbfdt6": {
+      "content_sha256": "15e391f2197a875fbe6e05e9c8082851cc2aac84cfbf18230a564e241cb6b39b",
+      "first_fetched_at": "2026-10-23T19:08:10.739530+00:00",
+      "last_fetched_at": "2026-10-23T19:08:10.739530+00:00",
+      "last_processed_at": "2026-10-23T19:08:11.821601+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:08:11.821601+00:00",
+          "sha256": "15e391f2197a875fbe6e05e9c8082851cc2aac84cfbf18230a564e241cb6b39b"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/antiflag/2017/the-regency-ballroom-san-francisco-ca-23f860fb.html": {
+          "html_sha256": "dbc8d08aad01854d44576236bf2805564850ed11b839e61bbd1406474cdb28ea",
+          "last_fetched_at": "2026-10-23T19:08:10.739530+00:00"
         }
       }
     },
@@ -386,6 +620,24 @@
         }
       }
     },
+    "all-time-low:rh13r9": {
+      "content_sha256": "293013003e8b4ed5b8dac8763b329670e2dc2f2ad3ec3fb985fba0aaa0892857",
+      "first_fetched_at": "2026-10-23T19:11:14.790184+00:00",
+      "last_fetched_at": "2026-10-23T19:11:14.790184+00:00",
+      "last_processed_at": "2026-10-23T19:11:15.694524+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:11:15.694524+00:00",
+          "sha256": "293013003e8b4ed5b8dac8763b329670e2dc2f2ad3ec3fb985fba0aaa0892857"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/all-time-low/2016/shoreline-amphitheatre-mountain-view-ca-5bfddb20.html": {
+          "html_sha256": "35465ffdf06232faf3f29aa7f9d3917a2b035c0b8256968d15383bb453fe28e9",
+          "last_fetched_at": "2026-10-23T19:11:14.790184+00:00"
+        }
+      }
+    },
     "all-time-low:yyea3y": {
       "content_sha256": "afc71ea2d5fdcf4717be4e5b02f6eabb4de064e04ee58276005e8ad3b28a0c5a",
       "first_fetched_at": "2026-10-08T07:47:58.519707+00:00",
@@ -549,6 +801,24 @@
         "https://www.setlist.fm/setlist/aly-and-aj/2023/hammerstein-ballroom-new-york-ny-43b8cf4b.html": {
           "html_sha256": "6f5cff5affc0687f0acdc667d033ba93385d69855b18135855a8a21de174f14b",
           "last_fetched_at": "2026-10-08T05:26:28.403271+00:00"
+        }
+      }
+    },
+    "aly-aj:yyea3y": {
+      "content_sha256": "2083d604b334ac79521bdfba121841ac17dc2c4d38f5e773e836399f63f7a5c2",
+      "first_fetched_at": "2026-10-23T20:50:52.253599+00:00",
+      "last_fetched_at": "2026-10-23T20:50:52.253599+00:00",
+      "last_processed_at": "2026-10-23T21:03:24.379227+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T21:03:24.379227+00:00",
+          "sha256": "2083d604b334ac79521bdfba121841ac17dc2c4d38f5e773e836399f63f7a5c2"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/aly-and-aj/2021/grant-park-chicago-il-usa-238f244f.html": {
+          "html_sha256": "01a65f9ab631adea1bcd69b48e4506175ed9b3c6455f12e40283b73023a69b31",
+          "last_fetched_at": "2026-10-23T20:50:52.253599+00:00"
         }
       }
     },
@@ -825,6 +1095,24 @@
         "https://www.setlist.fm/setlist/ant-clemons/2021/grant-park-chicago-il-usa-238f2447.html": {
           "html_sha256": "e2f1fbaca21d62dea8664e1b54dde81d6f9e57e562a8700a3bd0389e6a5cca53",
           "last_fetched_at": "2026-10-08T07:47:58.754675+00:00"
+        }
+      }
+    },
+    "aqd1d4:hw7zzy": {
+      "content_sha256": "ddf770aeec4f38e35f9860ea597b6f3b97c55e2de9980017cab756dbb2ebafca",
+      "first_fetched_at": "2026-10-23T19:08:25.881165+00:00",
+      "last_fetched_at": "2026-10-23T19:08:25.881165+00:00",
+      "last_processed_at": "2026-10-23T19:08:27.197714+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:08:27.197714+00:00",
+          "sha256": "ddf770aeec4f38e35f9860ea597b6f3b97c55e2de9980017cab756dbb2ebafca"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/yellowcard/2016/the-regency-ballroom-san-francisco-ca-1bfab950.html": {
+          "html_sha256": "48ca0e8551500f429d3181c5db9124d116fd246f941ff11b4e64794f9cce712b",
+          "last_fetched_at": "2026-10-23T19:08:25.881165+00:00"
         }
       }
     },
@@ -1184,6 +1472,24 @@
         }
       }
     },
+    "awolnation:9aa6le": {
+      "content_sha256": "9a11591d8bf4ce23a6edfd64dfd1d668e7c38314c78a625eaddbe2dcdf55d32a",
+      "first_fetched_at": "2026-10-23T19:05:44.303847+00:00",
+      "last_fetched_at": "2026-10-23T19:05:44.303847+00:00",
+      "last_processed_at": "2026-10-23T19:05:45.417290+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:05:45.417290+00:00",
+          "sha256": "9a11591d8bf4ce23a6edfd64dfd1d668e7c38314c78a625eaddbe2dcdf55d32a"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/awolnation/2016/bill-graham-civic-auditorium-san-francisco-ca-3f0010b.html": {
+          "html_sha256": "41a54ab181edc028133df1680da32dde3e4c883aeebdf7ad3e46d79d46799e45",
+          "last_fetched_at": "2026-10-23T19:05:44.303847+00:00"
+        }
+      }
+    },
     "awolnation:hl86o3": {
       "content_sha256": "af1af245d39b2ab2bb20a10ff4e211ec2c244227ead28e9555709a787b5c3c8e",
       "first_fetched_at": "2026-10-08T05:26:18.403942+00:00",
@@ -1474,6 +1780,24 @@
         }
       }
     },
+    "bandalos-chinos:xuwdm1": {
+      "content_sha256": "13bcef42b1a45be0cd1bbe6de8d61d3e59870d0e9ce36ba863c9850da6b8775f",
+      "first_fetched_at": "2026-10-23T20:41:44.125330+00:00",
+      "last_fetched_at": "2026-10-23T20:41:44.125330+00:00",
+      "last_processed_at": "2026-10-23T20:48:21.579500+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T20:48:21.579500+00:00",
+          "sha256": "13bcef42b1a45be0cd1bbe6de8d61d3e59870d0e9ce36ba863c9850da6b8775f"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/bandalos-chinos/2026/golden-gate-park-san-francisco-ca-usa-2349a407.html": {
+          "html_sha256": "cb8a35f7f9b04acf4067a3a8686184decf3853fa3aad9b2f16bd90b5dedb2c41",
+          "last_fetched_at": "2026-10-23T20:41:44.125330+00:00"
+        }
+      }
+    },
     "barry-can-t-swim:3s9mjj": {
       "content_sha256": "454d612cfd411f586ab7adb8af4a0828dec2d8da6e0b57cbd17c13b21bf14940",
       "first_fetched_at": "2026-10-08T07:47:32.869927+00:00",
@@ -1522,6 +1846,24 @@
         }
       }
     },
+    "bartees-strange:f3ysgl": {
+      "content_sha256": "2b53f3291f4bf0f36b50cc814c5d7c22adc2dabed6b867ca9540e79e7ec297ab",
+      "first_fetched_at": "2026-10-23T19:27:46.243974+00:00",
+      "last_fetched_at": "2026-10-23T19:27:46.243974+00:00",
+      "last_processed_at": "2026-10-23T19:29:03.804612+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:29:03.804612+00:00",
+          "sha256": "2b53f3291f4bf0f36b50cc814c5d7c22adc2dabed6b867ca9540e79e7ec297ab"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/bartees-strange/2021/golden-gate-park-san-francisco-ca-usa-238ab49f.html": {
+          "html_sha256": "7336ec5ed1779c415d29c54fedb503143d344fa8f38f4ae21cae6c6d0e5ff374",
+          "last_fetched_at": "2026-10-23T19:27:46.243974+00:00"
+        }
+      }
+    },
     "bastille:6e0e6g": {
       "content_sha256": "1043e91a4ef79ea991e26525c2cc810bb7ecff42443bb2e9ecbe98932f94469a",
       "first_fetched_at": "2026-10-08T05:24:37.988589+00:00",
@@ -1545,6 +1887,24 @@
         "https://www.setlist.fm/setlist/bastille/2019/william-randolph-hearst-greek-theatre-berkeley-ca-339dacd5.html": {
           "html_sha256": "547c3128706714bd70715589a4a570a530c398fb9640467fd0ae31ea8a7e1805",
           "last_fetched_at": "2026-10-08T05:24:37.988589+00:00"
+        }
+      }
+    },
+    "bb-trickz:3s9mjj": {
+      "content_sha256": "73b3b02ce376cce5c7491ca4313ed7f827a1061c3b5dd1757a2e8587d65368b6",
+      "first_fetched_at": "2026-10-23T19:44:15.177553+00:00",
+      "last_fetched_at": "2026-10-23T19:44:15.177553+00:00",
+      "last_processed_at": "2026-10-23T19:44:21.022570+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:44:21.022570+00:00",
+          "sha256": "73b3b02ce376cce5c7491ca4313ed7f827a1061c3b5dd1757a2e8587d65368b6"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/bb-trickz/2024/parc-del-forum-barcelona-spain-53a97335.html": {
+          "html_sha256": "622bf2c7bd2071121fe194d6fec9b74c4a7b0658ea705c2edb3e9fb80ed43d97",
+          "last_fetched_at": "2026-10-23T19:44:15.177553+00:00"
         }
       }
     },
@@ -2258,6 +2618,24 @@
         }
       }
     },
+    "blink-182:rh13r9": {
+      "content_sha256": "9d593738f0c38aa68ed27145a8da03166b564e8200a31ac76a5eefe033e76ace",
+      "first_fetched_at": "2026-10-23T19:11:40.474225+00:00",
+      "last_fetched_at": "2026-10-23T19:11:40.474225+00:00",
+      "last_processed_at": "2026-10-23T19:11:40.838574+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:11:40.838574+00:00",
+          "sha256": "9d593738f0c38aa68ed27145a8da03166b564e8200a31ac76a5eefe033e76ace"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/blink182/2016/shoreline-amphitheatre-mountain-view-ca-4bfddb22.html": {
+          "html_sha256": "84a72de50f2b97a79ca0d350784f38b85cf6d476429e81796a7133390495c893",
+          "last_fetched_at": "2026-10-23T19:11:40.474225+00:00"
+        }
+      }
+    },
     "blonde-redhead:3s9mjj": {
       "content_sha256": "be1e58561e57b67d7907cb7b988d0a6c7efc638236843c0f7b00182c0cab50c6",
       "first_fetched_at": "2026-10-08T07:47:29.809244+00:00",
@@ -2534,6 +2912,24 @@
         }
       }
     },
+    "boy-pablo:f3ysgl": {
+      "content_sha256": "355046fd478f42a2022df88c1e973e83dd38ec2c95626a2d2c906da8b7ad7686",
+      "first_fetched_at": "2026-10-23T19:27:51.648916+00:00",
+      "last_fetched_at": "2026-10-23T19:27:51.648916+00:00",
+      "last_processed_at": "2026-10-23T19:27:51.898900+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:27:51.898900+00:00",
+          "sha256": "355046fd478f42a2022df88c1e973e83dd38ec2c95626a2d2c906da8b7ad7686"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/boy-pablo/2021/golden-gate-park-san-francisco-ca-usa-538aa74d.html": {
+          "html_sha256": "b6880d48505bf15a593204071c0b6fc5ad53d44f16f717e666fee1ee8db903a2",
+          "last_fetched_at": "2026-10-23T19:27:51.648916+00:00"
+        }
+      }
+    },
     "boy-pablo:yyea3y": {
       "content_sha256": "0ec00538cd7b4f19a3a6ba8e4e146a518a5d29323040ad9c9b6c4a911e4ceaec",
       "first_fetched_at": "2026-10-08T07:47:50.309131+00:00",
@@ -2675,6 +3071,24 @@
         "https://www.setlist.fm/setlist/brittany-howard/2024/webster-hall-new-york-ny-3bade884.html": {
           "html_sha256": "cb0fa30edcbdc7865b8d1143de82182d1433afd5c9c962effc0c357312da7aec",
           "last_fetched_at": "2026-10-08T05:25:14.077254+00:00"
+        }
+      }
+    },
+    "brittany-howard:f3ysgl": {
+      "content_sha256": "7dc3f06dd37a66cd9a44661b97a32faf28086c0aa3964f000c1ee49c6cb1abdf",
+      "first_fetched_at": "2026-10-23T19:29:30.890164+00:00",
+      "last_fetched_at": "2026-10-23T19:29:30.890164+00:00",
+      "last_processed_at": "2026-10-23T19:29:31.268353+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:29:31.268353+00:00",
+          "sha256": "7dc3f06dd37a66cd9a44661b97a32faf28086c0aa3964f000c1ee49c6cb1abdf"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/brittany-howard/2021/golden-gate-park-san-francisco-ca-usa-538aa749.html": {
+          "html_sha256": "257cd30b27995a23f01c51e6a3abedb9a524be5b165f76d4b0de712dda5cc827",
+          "last_fetched_at": "2026-10-23T19:29:30.890164+00:00"
         }
       }
     },
@@ -2888,6 +3302,24 @@
         }
       }
     },
+    "bvseky:f88s82": {
+      "content_sha256": "fe3e475027b3c8f35477e0663a41432dc3c2e14ca8542aba6879286afa4f4cf9",
+      "first_fetched_at": "2026-10-23T19:07:43.601504+00:00",
+      "last_fetched_at": "2026-10-23T19:07:43.601504+00:00",
+      "last_processed_at": "2026-10-23T19:07:44.560682+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:07:44.560682+00:00",
+          "sha256": "fe3e475027b3c8f35477e0663a41432dc3c2e14ca8542aba6879286afa4f4cf9"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/breaking-benjamin/2017/masonic-auditorium-san-francisco-ca-33e63c9d.html": {
+          "html_sha256": "7f89bff4cee04cfeacfe1e610f14e8e205de67d165c0f0362c1ce8ccce426418",
+          "last_fetched_at": "2026-10-23T19:07:43.601504+00:00"
+        }
+      }
+    },
     "cafune:ub5qri": {
       "content_sha256": "02de48af53e3db17ae670c1b0b1e83eedc09cc890880cbc83f119ffff67f958b",
       "first_fetched_at": "2026-10-08T07:47:38.593962+00:00",
@@ -2999,6 +3431,24 @@
         "https://www.setlist.fm/setlist/cannons/2024/flushing-meadows-corona-park-queens-ny-usa-235654af.html": {
           "html_sha256": "cf4c90b1d63a70e13830bc25140474255db8af6612b12aae2c7aa9962b7ac445",
           "last_fetched_at": "2026-10-08T07:48:11.365291+00:00"
+        }
+      }
+    },
+    "cannons:f3ysgl": {
+      "content_sha256": "f3aba0f6b9638ea643640c5ff8f03f3445fd7572170b819477b7ed9bfcabb992",
+      "first_fetched_at": "2026-10-23T19:29:47.244876+00:00",
+      "last_fetched_at": "2026-10-23T19:29:47.244876+00:00",
+      "last_processed_at": "2026-10-23T19:29:47.543492+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:29:47.543492+00:00",
+          "sha256": "f3aba0f6b9638ea643640c5ff8f03f3445fd7572170b819477b7ed9bfcabb992"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/cannons/2021/golden-gate-park-san-francisco-ca-usa-5b8aa738.html": {
+          "html_sha256": "15cdf68fca9ea2d8ad08ee033c6bab3022fb4e97b77f38afa640a51ae40ee115",
+          "last_fetched_at": "2026-10-23T19:29:47.244876+00:00"
         }
       }
     },
@@ -4132,6 +4582,24 @@
         }
       }
     },
+    "d0wupo:rh13r9": {
+      "content_sha256": "2fc607bc9bd86a4303e4177e800479477a84aeeba3ac37efc39c7eafec18b477",
+      "first_fetched_at": "2026-10-23T19:11:46.807944+00:00",
+      "last_fetched_at": "2026-10-23T19:11:46.807944+00:00",
+      "last_processed_at": "2026-10-23T19:11:47.104262+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:11:47.104262+00:00",
+          "sha256": "2fc607bc9bd86a4303e4177e800479477a84aeeba3ac37efc39c7eafec18b477"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/a-day-to-remember/2016/shoreline-amphitheatre-mountain-view-ca-53fddb21.html": {
+          "html_sha256": "c39e7d68c556a34cd1ec6df36d2e9ece5da9dfa45da1a2fa0bebd2ca6062e86a",
+          "last_fetched_at": "2026-10-23T19:11:46.807944+00:00"
+        }
+      }
+    },
     "d4vd:cy53a8": {
       "content_sha256": "d607c75d2c3c5ffbb9fcf264cfdbcc84a58cc9211a1e4df97f1b6c08c917a954",
       "first_fetched_at": "2026-10-08T07:48:10.139357+00:00",
@@ -4551,6 +5019,32 @@
         "https://www.setlist.fm/setlist/death-cab-for-cutie/2024/utah-state-fairpark-salt-lake-city-ut-usa-5babeff4.html": {
           "html_sha256": "28059e7fed0d7c8bda518f4d2c5e307fb07f4aa1aaeb0bac7f2dd367add6d24c",
           "last_fetched_at": "2026-10-08T07:48:03.684101+00:00"
+        }
+      }
+    },
+    "death-cab-for-cutie:xuwdm1": {
+      "content_sha256": "997fe2dcd04571bcb0f2f6c112b97adde3b4859af823d0dda336a14aead5d1f1",
+      "first_fetched_at": "2026-10-23T20:44:10.667763+00:00",
+      "last_fetched_at": "2026-10-23T20:44:10.670759+00:00",
+      "last_processed_at": "2026-10-23T20:48:23.672773+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T20:44:11.220612+00:00",
+          "sha256": "a42aef30244ec66704b4f15ad013ef64cb9cc0440347af8b5c9695a2c3458210"
+        },
+        {
+          "first_seen_at": "2026-10-23T20:48:23.672773+00:00",
+          "sha256": "997fe2dcd04571bcb0f2f6c112b97adde3b4859af823d0dda336a14aead5d1f1"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/death-cab-for-cutie/2026/golden-gate-park-san-francisco-ca-usa-2b707462.html": {
+          "html_sha256": "544caa6ecd808a489a7b489904d29145e9ad75478655b50a06857de8ef6a32c4",
+          "last_fetched_at": "2026-10-23T20:44:10.667763+00:00"
+        },
+        "https://www.setlist.fm/setlist/death-cab-for-cutie/2026/golden-gate-park-san-francisco-ca-usa-3349a4e1.html": {
+          "html_sha256": "6eddd0ace1bb4aaa09605529b7b93f3e8f2923585b89364e4af7c065c946a3ec",
+          "last_fetched_at": "2026-10-23T20:44:10.670759+00:00"
         }
       }
     },
@@ -5024,6 +5518,24 @@
         }
       }
     },
+    "disturbed:ockki4": {
+      "content_sha256": "7000d75f85f9cafdbbcd7b91e96b381e52bfa815ecd25c810407310e606de5c0",
+      "first_fetched_at": "2026-10-23T19:10:30.016816+00:00",
+      "last_fetched_at": "2026-10-23T19:10:30.016816+00:00",
+      "last_processed_at": "2026-10-23T19:10:30.946156+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:10:30.946156+00:00",
+          "sha256": "7000d75f85f9cafdbbcd7b91e96b381e52bfa815ecd25c810407310e606de5c0"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/disturbed/2016/the-fillmore-san-francisco-ca-43f0c72b.html": {
+          "html_sha256": "8a1fa83c99dde50f7a05db5428341a82fb84dc8dddd051cac2785e0c309619a0",
+          "last_fetched_at": "2026-10-23T19:10:30.016816+00:00"
+        }
+      }
+    },
     "disturbed:vzarv6": {
       "content_sha256": "b21da6340cc8354bd6011a1806d8823f7243e1a1295f60b71eb797ad4d351d70",
       "first_fetched_at": "2026-10-08T05:20:13.490542+00:00",
@@ -5113,6 +5625,24 @@
         "https://www.setlist.fm/setlist/djo/2026/golden-gate-park-san-francisco-ca-usa-3b49a4c0.html": {
           "html_sha256": "91cc64d8012396c250c50da105fda268a8214012f5dfc2d5074ae9d1829b136f",
           "last_fetched_at": "2026-10-08T07:27:53.913022+00:00"
+        }
+      }
+    },
+    "dm87hw:p5q4ly": {
+      "content_sha256": "5522a4abf5b2e8fa02dcc5ec5251312186ffac494f9ad28ae99f997fb6c9abb4",
+      "first_fetched_at": "2026-10-23T19:10:49.148194+00:00",
+      "last_fetched_at": "2026-10-23T19:10:49.148194+00:00",
+      "last_processed_at": "2026-10-23T19:10:50.458001+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:10:50.458001+00:00",
+          "sha256": "5522a4abf5b2e8fa02dcc5ec5251312186ffac494f9ad28ae99f997fb6c9abb4"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/allison-russell/2026/irving-plaza-new-york-ny-1b7c0df8.html": {
+          "html_sha256": "a2e28fe53508da553040274149c2753d76bfe73f0e8b4a67b06a5dfb5b8e777c",
+          "last_fetched_at": "2026-10-23T19:10:49.148194+00:00"
         }
       }
     },
@@ -5336,6 +5866,24 @@
         }
       }
     },
+    "drama:f3ysgl": {
+      "content_sha256": "0c107303a4f36fe0f4215e14b77c8335a25c1da1e3b5971fbf508d5c8df2cc4c",
+      "first_fetched_at": "2026-10-23T19:30:03.698812+00:00",
+      "last_fetched_at": "2026-10-23T19:30:03.698812+00:00",
+      "last_processed_at": "2026-10-23T19:30:04.143616+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:30:04.143616+00:00",
+          "sha256": "0c107303a4f36fe0f4215e14b77c8335a25c1da1e3b5971fbf508d5c8df2cc4c"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/drama/2021/golden-gate-park-san-francisco-ca-usa-2b8ab4a2.html": {
+          "html_sha256": "0cd82de4da5ca3fc2f792202395dedb885d1023d879cdc6e1c86fd5083e680f1",
+          "last_fetched_at": "2026-10-23T19:30:03.698812+00:00"
+        }
+      }
+    },
     "dropkick-murphys:095ymx": {
       "content_sha256": "98d224ae6c83dde059297bf71a570dc69cf92e89fb7dbda130a76d581ec95207",
       "first_fetched_at": "2026-10-08T05:23:52.154122+00:00",
@@ -5406,6 +5954,42 @@
         }
       }
     },
+    "duw640:f3ysgl": {
+      "content_sha256": "17db2b0eb4b765a36a5c282c809c326f5ee65d0be2759d16929ebf289a5799e6",
+      "first_fetched_at": "2026-10-23T19:32:56.393164+00:00",
+      "last_fetched_at": "2026-10-23T19:32:56.393164+00:00",
+      "last_processed_at": "2026-10-23T19:32:56.829415+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:32:56.829415+00:00",
+          "sha256": "17db2b0eb4b765a36a5c282c809c326f5ee65d0be2759d16929ebf289a5799e6"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/lord-huron/2021/golden-gate-park-san-francisco-ca-usa-1b8aad14.html": {
+          "html_sha256": "a7c73dd17c92c8a8355914508f01a911a2252751e5e81d7ae35aa4b206c9cc7e",
+          "last_fetched_at": "2026-10-23T19:32:56.393164+00:00"
+        }
+      }
+    },
+    "ea512k:f3ysgl": {
+      "content_sha256": "0798ba9dddd016214f4e55987291c9def4a937a29fb25f55646bb81db970600a",
+      "first_fetched_at": "2026-10-23T19:31:03.302989+00:00",
+      "last_fetched_at": "2026-10-23T19:31:03.302989+00:00",
+      "last_processed_at": "2026-10-23T19:31:04.346209+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:31:04.346209+00:00",
+          "sha256": "0798ba9dddd016214f4e55987291c9def4a937a29fb25f55646bb81db970600a"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/j-balvin/2021/golden-gate-park-san-francisco-ca-usa-538aa755.html": {
+          "html_sha256": "d39c7bacb4276718ed26fea192c52d209585fd6e0b3fed04337427a90d81cdfd",
+          "last_fetched_at": "2026-10-23T19:31:03.302989+00:00"
+        }
+      }
+    },
     "eartheater:3s9mjj": {
       "content_sha256": "a01aa8f7bff566505a078686ab7b3ecfaba5fc787eae13a12ee27b104c9d5acf",
       "first_fetched_at": "2026-10-08T07:47:36.460887+00:00",
@@ -5425,6 +6009,24 @@
         "https://www.setlist.fm/setlist/eartheater/2024/parc-del-forum-barcelona-spain-5ba973ec.html": {
           "html_sha256": "abfd09fd5f84657d4cbfb4af361485ae3886a8ee91726101d8b367a1975d3593",
           "last_fetched_at": "2026-10-08T07:47:36.460887+00:00"
+        }
+      }
+    },
+    "earthgang:f3ysgl": {
+      "content_sha256": "5b617ece31180fc37f92a5f61880d48afea8bf63dd3088a6615fed13957faea6",
+      "first_fetched_at": "2026-10-23T19:30:29.658813+00:00",
+      "last_fetched_at": "2026-10-23T19:30:29.658813+00:00",
+      "last_processed_at": "2026-10-23T19:30:30.022340+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:30:30.022340+00:00",
+          "sha256": "5b617ece31180fc37f92a5f61880d48afea8bf63dd3088a6615fed13957faea6"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/earthgang/2021/golden-gate-park-san-francisco-ca-usa-b8ab5ae.html": {
+          "html_sha256": "7edac1b3dd9b037a133157c780f57b8969b822879e0da321c26a75d15bf3107f",
+          "last_fetched_at": "2026-10-23T19:30:29.658813+00:00"
         }
       }
     },
@@ -5740,6 +6342,24 @@
         }
       }
     },
+    "fall-out-boy:9aa6le": {
+      "content_sha256": "af647ee192a03422063c5b8c01468de0b97a6680ec7c1c368521f97409a1a0fe",
+      "first_fetched_at": "2026-10-23T19:05:50.460604+00:00",
+      "last_fetched_at": "2026-10-23T19:05:50.460604+00:00",
+      "last_processed_at": "2026-10-23T19:05:52.242657+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:05:52.242657+00:00",
+          "sha256": "af647ee192a03422063c5b8c01468de0b97a6680ec7c1c368521f97409a1a0fe"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/fall-out-boy/2016/bill-graham-civic-auditorium-san-francisco-ca-4bf00312.html": {
+          "html_sha256": "f07b2c1feca87f94978c7e07370bdd0904928c8aef8d31de1563475f245a4fb1",
+          "last_fetched_at": "2026-10-23T19:05:50.460604+00:00"
+        }
+      }
+    },
     "fall-out-boy:dv86cx": {
       "content_sha256": "65aefabbca068b611d98fef4806d5fea6cd955bc0edb8ec501731a665f20a098",
       "first_fetched_at": "2026-10-08T05:18:49.092279+00:00",
@@ -6020,6 +6640,42 @@
         }
       }
     },
+    "fev2v3:vils17": {
+      "content_sha256": "5d1758b6e1eee9eaa1c95137f342358ea67a71e3aa51254c49da2697c1cc12c8",
+      "first_fetched_at": "2026-10-23T19:12:31.190349+00:00",
+      "last_fetched_at": "2026-10-23T19:12:31.190349+00:00",
+      "last_processed_at": "2026-10-23T19:12:31.426743+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:12:31.426743+00:00",
+          "sha256": "5d1758b6e1eee9eaa1c95137f342358ea67a71e3aa51254c49da2697c1cc12c8"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/tony-macalpine/2016/the-fillmore-san-francisco-ca-43fd6747.html": {
+          "html_sha256": "9421efbe7fc9ea45347900e0277c6a420f8469376e40b9df3fbe9f14825006f8",
+          "last_fetched_at": "2026-10-23T19:12:31.190349+00:00"
+        }
+      }
+    },
+    "finish-ticket:9aa6le": {
+      "content_sha256": "4aab7da9425ec873332c4610cd529091f5f1269e5e5bde2c644cfd82edb68f1e",
+      "first_fetched_at": "2026-10-23T19:06:12.125879+00:00",
+      "last_fetched_at": "2026-10-23T19:06:12.125879+00:00",
+      "last_processed_at": "2026-10-23T19:06:13.077190+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:06:13.077190+00:00",
+          "sha256": "4aab7da9425ec873332c4610cd529091f5f1269e5e5bde2c644cfd82edb68f1e"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/finish-ticket/2016/bill-graham-civic-auditorium-san-francisco-ca-53f00311.html": {
+          "html_sha256": "f6c834caceb8315f6b2c719c6ea6a2567d9cf929f7684c17374a9a8a43d7d368",
+          "last_fetched_at": "2026-10-23T19:06:12.125879+00:00"
+        }
+      }
+    },
     "finish-ticket:ub5qri": {
       "content_sha256": "ff3ba03131281eafaf4d5aa5220467edb5d13dc0ae6fec4e8ae3307d9a342902",
       "first_fetched_at": "2026-10-08T07:47:47.870845+00:00",
@@ -6087,6 +6743,24 @@
         "https://www.setlist.fm/setlist/finneas/2025/brooklyn-paramount-brooklyn-ny-b5bd906.html": {
           "html_sha256": "462b9dea28275fb9efc8a893aee98d1be628089b06776cf3a5be47e4aa8c9801",
           "last_fetched_at": "2026-10-08T05:20:09.055643+00:00"
+        }
+      }
+    },
+    "fis1fg:f4eu6k": {
+      "content_sha256": "6c04f8ce7fd9bd0c5c5a8bcf0497d4b93e9284a81cee9b3e52099f7e3a0b8a50",
+      "first_fetched_at": "2026-10-23T19:07:31.246447+00:00",
+      "last_fetched_at": "2026-10-23T19:07:31.246447+00:00",
+      "last_processed_at": "2026-10-23T19:07:32.313199+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:07:32.313199+00:00",
+          "sha256": "6c04f8ce7fd9bd0c5c5a8bcf0497d4b93e9284a81cee9b3e52099f7e3a0b8a50"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/poison/2017/oracle-arena-oakland-ca-73e74625.html": {
+          "html_sha256": "5a3dc1e52beb287e80ded58696cd9626266b0f6516f6fc5af21bad14c11aeaaa",
+          "last_fetched_at": "2026-10-23T19:07:31.246447+00:00"
         }
       }
     },
@@ -6348,6 +7022,24 @@
         }
       }
     },
+    "fqiseo:lr283c": {
+      "content_sha256": "ff8173a15992c8268b4226fd1b221b86db9b1107147f820d071ad8706b73e9e2",
+      "first_fetched_at": "2026-10-23T19:09:07.121855+00:00",
+      "last_fetched_at": "2026-10-23T19:09:07.121855+00:00",
+      "last_processed_at": "2026-10-23T19:09:08.424127+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:09:08.424127+00:00",
+          "sha256": "ff8173a15992c8268b4226fd1b221b86db9b1107147f820d071ad8706b73e9e2"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/saint-motel/2015/masonic-auditorium-san-francisco-ca-6bf5863e.html": {
+          "html_sha256": "94fc62b699a1e86d90fe44dfa6ad76e77bac9ca68edfbd344efc5f91763ed1b1",
+          "last_fetched_at": "2026-10-23T19:09:07.121855+00:00"
+        }
+      }
+    },
     "franc-moody:ub5qri": {
       "content_sha256": "99a87a83489baf9aff3cacfd32d31dc0d713268d74d9fa9c47515ab843642f7e",
       "first_fetched_at": "2026-10-08T07:47:47.950210+00:00",
@@ -6481,6 +7173,28 @@
         "https://www.setlist.fm/setlist/friday-pilots-club/2023/grant-park-chicago-il-usa-6ba40e6a.html": {
           "html_sha256": "f670d9d9fef4708b38c1110c682b62353d1e99414dfe20c17dd1dd4b7643f403",
           "last_fetched_at": "2026-10-08T07:47:41.671681+00:00"
+        }
+      }
+    },
+    "frost-children:xuwdm1": {
+      "content_sha256": "6aef50b67dee589622ac9a40af9fc7e924f073356706fbd1d8363a2a44e5d6b0",
+      "first_fetched_at": "2026-10-23T20:44:10.683007+00:00",
+      "last_fetched_at": "2026-10-23T20:44:56.631204+00:00",
+      "last_processed_at": "2026-10-23T20:44:57.382878+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T20:44:57.382878+00:00",
+          "sha256": "6aef50b67dee589622ac9a40af9fc7e924f073356706fbd1d8363a2a44e5d6b0"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/frost-children/2026/golden-gate-park-san-francisco-ca-usa-2b49a4d6.html": {
+          "html_sha256": "90c85f7f8285f2b4b7daece4fcbcec6a85e2985ace6ff0e98a7096877100e6d9",
+          "last_fetched_at": "2026-10-23T20:44:56.631204+00:00"
+        },
+        "https://www.setlist.fm/setlist/frost-children/2026/golden-gate-park-san-francisco-ca-usa-6b71bece.html": {
+          "html_sha256": "2bbd60a5a809fb7720edce07f2d636a629ad43f7a5c56811ab3cde10867bb320",
+          "last_fetched_at": "2026-10-23T20:44:10.683007+00:00"
         }
       }
     },
@@ -6896,6 +7610,24 @@
         }
       }
     },
+    "glass-animals:f3ysgl": {
+      "content_sha256": "a7c057a9b53ec037632cb985996c3a82bf03902e91ae6574bff54606beca9aac",
+      "first_fetched_at": "2026-10-23T19:30:43.002594+00:00",
+      "last_fetched_at": "2026-10-23T19:30:43.002594+00:00",
+      "last_processed_at": "2026-10-23T19:30:43.343679+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:30:43.343679+00:00",
+          "sha256": "a7c057a9b53ec037632cb985996c3a82bf03902e91ae6574bff54606beca9aac"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/glass-animals/2021/golden-gate-park-san-francisco-ca-usa-b8ab5aa.html": {
+          "html_sha256": "3b1881a6d2dbfc99eb867ca6dbab4fc845ccdd39f83a069258385359766a48fa",
+          "last_fetched_at": "2026-10-23T19:30:43.002594+00:00"
+        }
+      }
+    },
     "glorilla:xuwdm1": {
       "content_sha256": "1ce4cf61d04d51c3c338bfb20979c5cd0f3e9485f5d7478bd80372f01bc1d9b5",
       "first_fetched_at": "2026-10-08T07:27:51.151688+00:00",
@@ -7111,6 +7843,24 @@
         "https://www.setlist.fm/setlist/goose/2025/madison-square-garden-new-york-ny-4b5a9756.html": {
           "html_sha256": "1c672e137e589a34f1343188308605373cf467e4946e9bd94f1de21a3d6c6a4c",
           "last_fetched_at": "2026-10-08T05:27:56.786042+00:00"
+        }
+      }
+    },
+    "goth-babe:f3ysgl": {
+      "content_sha256": "2f15ea772d82d96cbdd4927d941c37e97f9731d78e638e28e3b5193e8e85ba51",
+      "first_fetched_at": "2026-10-23T19:30:48.115402+00:00",
+      "last_fetched_at": "2026-10-23T19:30:48.115402+00:00",
+      "last_processed_at": "2026-10-23T19:30:48.402257+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:30:48.402257+00:00",
+          "sha256": "2f15ea772d82d96cbdd4927d941c37e97f9731d78e638e28e3b5193e8e85ba51"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/goth-babe/2021/golden-gate-park-san-francisco-ca-usa-5b8aa744.html": {
+          "html_sha256": "b0d23ca7be1c752525fdb7c919077172824f0841f9dc3d033671543c9ba22e92",
+          "last_fetched_at": "2026-10-23T19:30:48.115402+00:00"
         }
       }
     },
@@ -7406,6 +8156,42 @@
         }
       }
     },
+    "grniev:f3ysgl": {
+      "content_sha256": "58ca12653f6a6e213b6a1f0671ef51c0c346518446c0c6202ccf1751176e820e",
+      "first_fetched_at": "2026-10-23T19:27:30.911549+00:00",
+      "last_fetched_at": "2026-10-23T19:27:30.911549+00:00",
+      "last_processed_at": "2026-10-23T19:27:31.114210+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:27:31.114210+00:00",
+          "sha256": "58ca12653f6a6e213b6a1f0671ef51c0c346518446c0c6202ccf1751176e820e"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/andrew-mcmahon-in-the-wilderness/2021/golden-gate-park-san-francisco-ca-usa-1b8aad04.html": {
+          "html_sha256": "414e6ec053fda432bc939dbe6c1f9bca3c13a46e8e586f3c173567aac4be15bf",
+          "last_fetched_at": "2026-10-23T19:27:30.911549+00:00"
+        }
+      }
+    },
+    "grniev:u87mu4": {
+      "content_sha256": "e2acab28d9a05990d4dd5bad5f62f5df5bec4b2bb46f6d06336f937aec5ce035",
+      "first_fetched_at": "2026-10-23T19:12:01.523678+00:00",
+      "last_fetched_at": "2026-10-23T19:12:01.523678+00:00",
+      "last_processed_at": "2026-10-23T19:12:01.762035+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:12:01.762035+00:00",
+          "sha256": "e2acab28d9a05990d4dd5bad5f62f5df5bec4b2bb46f6d06336f937aec5ce035"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/andrew-mcmahon-in-the-wilderness/2016/shoreline-amphitheatre-mountain-view-ca-43ff4bbf.html": {
+          "html_sha256": "9dc1be08d3474bdd33de6057d5ff37ba8460653f42047af638179d566506cd27",
+          "last_fetched_at": "2026-10-23T19:12:01.523678+00:00"
+        }
+      }
+    },
     "gryffin:8nhjof": {
       "content_sha256": "6e5a9462fa3c11aa8749ce53113939ef74ecdb7ff26168995e6ecaf5b8519cfc",
       "first_fetched_at": "2026-10-08T07:27:43.137591+00:00",
@@ -7535,6 +8321,42 @@
         "https://www.setlist.fm/setlist/gustaf/2024/utah-state-fairpark-salt-lake-city-ut-usa-3bab6074.html": {
           "html_sha256": "8c893817c2139b906a1f3cfa7eee5bc9138d446a9e7b41ea5bfd9e0bf045e011",
           "last_fetched_at": "2026-10-08T07:48:03.102457+00:00"
+        }
+      }
+    },
+    "h4eryb:di7xbd": {
+      "content_sha256": "96f2f229b91bb47fed9b00c2559f5cdcd10cc8a60fb2dbd703a514d44c6604aa",
+      "first_fetched_at": "2026-10-23T19:06:42.852763+00:00",
+      "last_fetched_at": "2026-10-23T19:06:42.852763+00:00",
+      "last_processed_at": "2026-10-23T19:06:43.860033+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:06:43.860033+00:00",
+          "sha256": "96f2f229b91bb47fed9b00c2559f5cdcd10cc8a60fb2dbd703a514d44c6604aa"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/teen-mortgage/2026/masonic-auditorium-san-francisco-ca-23718cab.html": {
+          "html_sha256": "c12f139f72fcecbee992538e286afa41f404def3c301ba51a4ce3765fef2affb",
+          "last_fetched_at": "2026-10-23T19:06:42.852763+00:00"
+        }
+      }
+    },
+    "h99683:f3ysgl": {
+      "content_sha256": "f7f3a9ea5f3adc04c637486ce95701b77b0c5305def2f23d29957761c40c1f3d",
+      "first_fetched_at": "2026-10-23T19:36:01.123629+00:00",
+      "last_fetched_at": "2026-10-23T19:36:01.123629+00:00",
+      "last_processed_at": "2026-10-23T19:36:01.394020+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:36:01.394020+00:00",
+          "sha256": "f7f3a9ea5f3adc04c637486ce95701b77b0c5305def2f23d29957761c40c1f3d"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/the-hu/2021/golden-gate-park-san-francisco-ca-usa-338ab4a5.html": {
+          "html_sha256": "3f03bb1fc500ba7e3c52a80065d474367e341370d72f21849828aeefd624fc43",
+          "last_fetched_at": "2026-10-23T19:36:01.123629+00:00"
         }
       }
     },
@@ -8029,6 +8851,24 @@
         "https://www.setlist.fm/setlist/husbands/2024/flushing-meadows-corona-park-queens-ny-usa-356e90b.html": {
           "html_sha256": "efeebe5826587d8bc88b4adb20b3eba1772dd84af72ecf29e5cb755c4a9c3152",
           "last_fetched_at": "2026-10-08T07:48:12.111906+00:00"
+        }
+      }
+    },
+    "i6obf3:f4eu6k": {
+      "content_sha256": "4fffff996cf232a8013e8ea01c1ca9eeb57342ea256a0a21ab4f7980c658d6b8",
+      "first_fetched_at": "2026-10-23T19:07:36.215708+00:00",
+      "last_fetched_at": "2026-10-23T19:07:36.215708+00:00",
+      "last_processed_at": "2026-10-23T19:07:37.094174+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:07:37.094174+00:00",
+          "sha256": "4fffff996cf232a8013e8ea01c1ca9eeb57342ea256a0a21ab4f7980c658d6b8"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/tesla/2017/oracle-arena-oakland-ca-7be74624.html": {
+          "html_sha256": "f7bca9a4ce934b953263968c4b24981d7dcfd914658d226330b962b69c578a3a",
+          "last_fetched_at": "2026-10-23T19:07:36.215708+00:00"
         }
       }
     },
@@ -8688,6 +9528,42 @@
         }
       }
     },
+    "jce5yl:c8v5np": {
+      "content_sha256": "a879628c00159b079544ede3f3f768eacc9541c4799c5a4cd4c84a8f81ee5f26",
+      "first_fetched_at": "2026-10-23T19:06:19.604624+00:00",
+      "last_fetched_at": "2026-10-23T19:06:19.604624+00:00",
+      "last_processed_at": "2026-10-23T19:06:20.465543+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:06:20.465543+00:00",
+          "sha256": "a879628c00159b079544ede3f3f768eacc9541c4799c5a4cd4c84a8f81ee5f26"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/the-night-game/2017/shoreline-amphitheatre-mountain-view-ca-13e53dad.html": {
+          "html_sha256": "f54cd20d67b060b557b3cf0e338ccfacc83f5095e134431e526a84c23cd06ac6",
+          "last_fetched_at": "2026-10-23T19:06:19.604624+00:00"
+        }
+      }
+    },
+    "jd0fha:f3ysgl": {
+      "content_sha256": "8ef50a56636e4572d99780252ae358abeeb5a1848b1988ff501ae44e430d3dda",
+      "first_fetched_at": "2026-10-23T19:27:01.406337+00:00",
+      "last_fetched_at": "2026-10-23T19:27:01.406337+00:00",
+      "last_processed_at": "2026-10-23T19:27:01.765077+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:27:01.765077+00:00",
+          "sha256": "8ef50a56636e4572d99780252ae358abeeb5a1848b1988ff501ae44e430d3dda"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/24kgoldn/2021/golden-gate-park-san-francisco-ca-usa-b8aad0e.html": {
+          "html_sha256": "c71566933ad9b51ebd1e9758f6902a2250cd0d4df3ff8c9121339373f44a3bc7",
+          "last_fetched_at": "2026-10-23T19:27:01.406337+00:00"
+        }
+      }
+    },
     "jesse-welles:fxst3c": {
       "content_sha256": "658b1d681c7f7f8741810d14d2485b05acf80cc5c089d84bdd3d00720bfb0273",
       "first_fetched_at": "2026-10-08T05:18:52.956560+00:00",
@@ -8711,6 +9587,42 @@
         "https://www.setlist.fm/setlist/jesse-welles/2025/webster-hall-new-york-ny-6b47f21a.html": {
           "html_sha256": "6f427b5113cfd7cc6479e931d478e19f4b14538c3ef7697eec5e167aa4203c40",
           "last_fetched_at": "2026-10-08T05:18:52.956560+00:00"
+        }
+      }
+    },
+    "jessia:f3ysgl": {
+      "content_sha256": "78c92dca65e44d28e5a6ec654794b781045dfb1318249848435b5bf48d0c132d",
+      "first_fetched_at": "2026-10-23T19:31:51.965007+00:00",
+      "last_fetched_at": "2026-10-23T19:31:51.965007+00:00",
+      "last_processed_at": "2026-10-23T19:31:52.185421+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:31:52.185421+00:00",
+          "sha256": "78c92dca65e44d28e5a6ec654794b781045dfb1318249848435b5bf48d0c132d"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/jessia/2021/golden-gate-park-san-francisco-ca-usa-38aadff.html": {
+          "html_sha256": "dee04f4cf5b43f1d1cadca8949c1382f5946fc0bb6f1733fb21964b0c9c708d5",
+          "last_fetched_at": "2026-10-23T19:31:51.965007+00:00"
+        }
+      }
+    },
+    "jessia:yyea3y": {
+      "content_sha256": "5998390535a5400b0e7c234e11442a2a2a1f739b2e4a07a2396b504d7fa5ecf6",
+      "first_fetched_at": "2026-10-23T20:55:54.436347+00:00",
+      "last_fetched_at": "2026-10-23T20:55:54.436347+00:00",
+      "last_processed_at": "2026-10-23T21:03:26.369169+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T21:03:26.369169+00:00",
+          "sha256": "5998390535a5400b0e7c234e11442a2a2a1f739b2e4a07a2396b504d7fa5ecf6"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/jessia/2021/grant-park-chicago-il-usa-5b8afb28.html": {
+          "html_sha256": "8cea95711bfe5489f240a17e1a47b942c6e40745f3931b87624608b176cdbcab",
+          "last_fetched_at": "2026-10-23T20:55:54.436347+00:00"
         }
       }
     },
@@ -9005,6 +9917,24 @@
         "https://www.setlist.fm/setlist/joey-valence-and-brae/2025/flushing-meadows-corona-park-queens-ny-usa-4b5ddf06.html": {
           "html_sha256": "da8e43d6464c589bf56d8b333f2b2c715686f096e6e6fafa78bc43aa51541685",
           "last_fetched_at": "2026-10-08T07:48:14.913264+00:00"
+        }
+      }
+    },
+    "john-mayer:c8v5np": {
+      "content_sha256": "55af1a91a3e597aee3362f8924b3de6ae974214749ecbd46eb29f7e3311e3d26",
+      "first_fetched_at": "2026-10-23T19:06:24.595437+00:00",
+      "last_fetched_at": "2026-10-23T19:06:24.595437+00:00",
+      "last_processed_at": "2026-10-23T19:06:25.619302+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:06:25.619302+00:00",
+          "sha256": "55af1a91a3e597aee3362f8924b3de6ae974214749ecbd46eb29f7e3311e3d26"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/john-mayer/2017/shoreline-amphitheatre-mountain-view-ca-63e5ea3f.html": {
+          "html_sha256": "44a6591c3fc41144f77450b2bdecbac7d0dd6886d7da9a25c9e02ac9a64256af",
+          "last_fetched_at": "2026-10-23T19:06:24.595437+00:00"
         }
       }
     },
@@ -9322,6 +10252,24 @@
         }
       }
     },
+    "jpegmafia:f3ysgl": {
+      "content_sha256": "c4f3aacd20e9f6e3ab2c9ea628d43dbf98fb6874947087d6ecb747a070252a76",
+      "first_fetched_at": "2026-10-23T19:31:46.770122+00:00",
+      "last_fetched_at": "2026-10-23T19:31:46.770122+00:00",
+      "last_processed_at": "2026-10-23T19:31:47.285681+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:31:47.285681+00:00",
+          "sha256": "c4f3aacd20e9f6e3ab2c9ea628d43dbf98fb6874947087d6ecb747a070252a76"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/jpegmafia/2021/golden-gate-park-san-francisco-ca-usa-238ab4a3.html": {
+          "html_sha256": "1d3e20392b7a5380563f86464baf0653cb9355e8fea293246c95c7e5d794672c",
+          "last_fetched_at": "2026-10-23T19:31:46.770122+00:00"
+        }
+      }
+    },
     "jpegmafia:yyea3y": {
       "content_sha256": "6ea31c23410ba022f4b08c99c2a1a2cede7e84a779c9eb950c4c530600cc7e78",
       "first_fetched_at": "2026-10-08T07:47:56.414558+00:00",
@@ -9341,6 +10289,42 @@
         "https://www.setlist.fm/setlist/jpegmafia/2021/grant-park-chicago-il-usa-38f15bf.html": {
           "html_sha256": "7cdb861265a85871d3caf3c3477fdf5c04eed9ff66720aa2b7446a8cb8eb87e6",
           "last_fetched_at": "2026-10-08T07:47:56.414558+00:00"
+        }
+      }
+    },
+    "jppq1o:f3ysgl": {
+      "content_sha256": "d361a2e6882f5ee28639a2adcd6dd5da95a4e883a54e2fc96e4cdcb52d894e64",
+      "first_fetched_at": "2026-10-23T19:33:09.213416+00:00",
+      "last_fetched_at": "2026-10-23T19:33:09.213416+00:00",
+      "last_processed_at": "2026-10-23T19:33:09.490675+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:33:09.490675+00:00",
+          "sha256": "d361a2e6882f5ee28639a2adcd6dd5da95a4e883a54e2fc96e4cdcb52d894e64"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/melanie-martinez/2021/golden-gate-park-san-francisco-ca-usa-38aad0f.html": {
+          "html_sha256": "8b01d9a7de54aab701f44f6c3cf7a3e4e431ad314c0a6fb070c98a0e53191bc7",
+          "last_fetched_at": "2026-10-23T19:33:09.213416+00:00"
+        }
+      }
+    },
+    "ju3j6r:m058sl": {
+      "content_sha256": "80423369ea9bae506a06f364d7a85e06379acc93723a53ce38305def77a7fcc6",
+      "first_fetched_at": "2026-10-23T19:09:39.657535+00:00",
+      "last_fetched_at": "2026-10-23T19:09:39.657535+00:00",
+      "last_processed_at": "2026-10-23T19:09:40.561520+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:09:40.561520+00:00",
+          "sha256": "80423369ea9bae506a06f364d7a85e06379acc93723a53ce38305def77a7fcc6"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/the-menzingers/2021/masonic-auditorium-san-francisco-ca-2b8c941a.html": {
+          "html_sha256": "58f8ffbe117a051de3f99d47e2524fbdf844fdd85e37bbd4b3d972c124d4ae0b",
+          "last_fetched_at": "2026-10-23T19:09:39.657535+00:00"
         }
       }
     },
@@ -9495,6 +10479,24 @@
         "https://www.setlist.fm/setlist/karol-g/2023/grant-park-chicago-il-usa-43a41f23.html": {
           "html_sha256": "64feee6ae439617d8761364ac86d00d65367baaf974434e4cdc340b23687a579",
           "last_fetched_at": "2026-10-08T07:47:48.274431+00:00"
+        }
+      }
+    },
+    "kaytranada:f3ysgl": {
+      "content_sha256": "150c4dc6873d21c484db0da47f7bbb66d47672eda9738f3deeab6bd283307b83",
+      "first_fetched_at": "2026-10-23T19:32:00.507862+00:00",
+      "last_fetched_at": "2026-10-23T19:32:00.507862+00:00",
+      "last_processed_at": "2026-10-23T19:32:01.049316+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:32:01.049316+00:00",
+          "sha256": "150c4dc6873d21c484db0da47f7bbb66d47672eda9738f3deeab6bd283307b83"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/kaytranada/2021/golden-gate-park-san-francisco-ca-usa-138ab5a9.html": {
+          "html_sha256": "964868a3c00c614d53dc6f87e0c273358cfc399c6c30c9c90ae772c22daf8cfe",
+          "last_fetched_at": "2026-10-23T19:32:00.507862+00:00"
         }
       }
     },
@@ -9679,6 +10681,24 @@
         "https://www.setlist.fm/setlist/khruangbin/2024/forest-hills-stadium-queens-ny-3539df7.html": {
           "html_sha256": "a0f5653d01ea2ff79d9677c92c6267bd8ed86ddb3be8e11f3cbf8b25120ebafd",
           "last_fetched_at": "2026-10-08T05:13:23.071351+00:00"
+        }
+      }
+    },
+    "khruangbin:f3ysgl": {
+      "content_sha256": "10734b66f6da0b69d6ea133b101669229b8b9ae2bd7ef9ef5822ea5dcabfb50d",
+      "first_fetched_at": "2026-10-23T19:32:15.260452+00:00",
+      "last_fetched_at": "2026-10-23T19:32:15.260452+00:00",
+      "last_processed_at": "2026-10-23T19:32:15.520609+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:32:15.520609+00:00",
+          "sha256": "10734b66f6da0b69d6ea133b101669229b8b9ae2bd7ef9ef5822ea5dcabfb50d"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/khruangbin/2021/golden-gate-park-san-francisco-ca-usa-1b8ab5a8.html": {
+          "html_sha256": "86ea83606379a09740bead5d31c28f479c94b1e881bbf052d6061470b8edeadc",
+          "last_fetched_at": "2026-10-23T19:32:15.260452+00:00"
         }
       }
     },
@@ -10136,6 +11156,24 @@
         }
       }
     },
+    "lamp:n35bxo": {
+      "content_sha256": "ff0bc1e66a906d4b21dc433c788f1f01c0dce22750c23f06c155e448554dde49",
+      "first_fetched_at": "2026-10-23T19:10:09.509526+00:00",
+      "last_fetched_at": "2026-10-23T19:10:09.509526+00:00",
+      "last_processed_at": "2026-10-23T19:10:10.520680+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:10:10.520680+00:00",
+          "sha256": "ff0bc1e66a906d4b21dc433c788f1f01c0dce22750c23f06c155e448554dde49"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/lamp/2026/brooklyn-bowl-brooklyn-ny-337cb0e1.html": {
+          "html_sha256": "1853e94dd79f1b276130017e2a2ca03f81a21a527250937a4d7e5a90e2a44553",
+          "last_fetched_at": "2026-10-23T19:10:09.509526+00:00"
+        }
+      }
+    },
     "lana-del-rey:3s9mjj": {
       "content_sha256": "a887eb17df0d790e672e4eebe3a3ad9575a63483768e7aa122492a681b61dbb5",
       "first_fetched_at": "2026-10-08T07:47:33.243243+00:00",
@@ -10490,6 +11528,24 @@
         }
       }
     },
+    "lh6slr:zfwvzh": {
+      "content_sha256": "04d31cd4939b94238b8c67787609b3d2a574d681ccad6005f110a77c77f22928",
+      "first_fetched_at": "2026-10-23T19:14:05.413243+00:00",
+      "last_fetched_at": "2026-10-23T19:14:05.413243+00:00",
+      "last_processed_at": "2026-10-23T19:14:05.758134+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:14:05.758134+00:00",
+          "sha256": "04d31cd4939b94238b8c67787609b3d2a574d681ccad6005f110a77c77f22928"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/set-your-goals/2016/the-warfield-san-francisco-ca-13faa5ed.html": {
+          "html_sha256": "ddb613bf82023e07e9e6b14e0a812ff6447b6673d027b6e0862a2d6b20a11194",
+          "last_fetched_at": "2026-10-23T19:14:05.413243+00:00"
+        }
+      }
+    },
     "liberato:3s9mjj": {
       "content_sha256": "26668c0ce3c93d959aca9287b9741ee3b799682dece166fc9f83d9653039713b",
       "first_fetched_at": "2026-10-08T07:47:36.826469+00:00",
@@ -10619,6 +11675,24 @@
         "https://www.setlist.fm/setlist/lizzo/2018/golden-gate-park-san-francisco-ca-usa-5be8b788.html": {
           "html_sha256": "d93310c916a58c534f6f7a71b0c4fcea15eef602736e748b0166884240a4ace6",
           "last_fetched_at": "2026-10-08T07:27:41.777004+00:00"
+        }
+      }
+    },
+    "lizzo:f3ysgl": {
+      "content_sha256": "de4295608ec18800a54d7b448d9779ffebc691378a4d761128c782176a4b7d7c",
+      "first_fetched_at": "2026-10-23T19:32:24.659477+00:00",
+      "last_fetched_at": "2026-10-23T19:32:24.659477+00:00",
+      "last_processed_at": "2026-10-23T19:32:24.911996+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:32:24.911996+00:00",
+          "sha256": "de4295608ec18800a54d7b448d9779ffebc691378a4d761128c782176a4b7d7c"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/lizzo/2021/golden-gate-park-san-francisco-ca-usa-138aad11.html": {
+          "html_sha256": "fe988fc8cefe003e3103f290a1c9e875eb318fd979892b8f0db8ddf0cbb6a7b7",
+          "last_fetched_at": "2026-10-23T19:32:24.659477+00:00"
         }
       }
     },
@@ -10876,6 +11950,24 @@
         }
       }
     },
+    "lucy-dacus:8nhjof": {
+      "content_sha256": "046451df3c2c6395766128ad73da31cf6ec1480dd3d528d4e2f630f6f7c4beaf",
+      "first_fetched_at": "2026-10-23T20:04:00.123561+00:00",
+      "last_fetched_at": "2026-10-23T20:04:00.123561+00:00",
+      "last_processed_at": "2026-10-23T20:37:05.658090+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T20:37:05.658090+00:00",
+          "sha256": "046451df3c2c6395766128ad73da31cf6ec1480dd3d528d4e2f630f6f7c4beaf"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/lucy-dacus/2018/golden-gate-park-san-francisco-ca-usa-4be8bf12.html": {
+          "html_sha256": "f2d4bd8aa78c6c7e15a4bc7f4a833d2f4eff48ee54af244a872c56d5f24441af",
+          "last_fetched_at": "2026-10-23T20:04:00.123561+00:00"
+        }
+      }
+    },
     "lucy-dacus:xuwdm1": {
       "content_sha256": "ee9327b2c4b454d4cf6cd82a4ec8df00022fb6ec83b2c608703f8bb3b95596ef",
       "first_fetched_at": "2026-10-08T07:27:53.151860+00:00",
@@ -10921,6 +12013,24 @@
         "https://www.setlist.fm/setlist/lukas-nelson-and-promise-of-the-real/2023/madison-square-garden-new-york-ny-1ba3d508.html": {
           "html_sha256": "14ac4148b1da1af900e6eb27eba7a1fd3e0e09aa050525ec3c7bbd4f738eab3b",
           "last_fetched_at": "2026-10-08T05:27:30.268748+00:00"
+        }
+      }
+    },
+    "lvcpkn:f88s82": {
+      "content_sha256": "8cbb0dadeb0be894b5dc2e984d4aa3376dd5ece266b33b28b1c4d32e4f2f3c47",
+      "first_fetched_at": "2026-10-23T19:07:48.877487+00:00",
+      "last_fetched_at": "2026-10-23T19:07:48.877487+00:00",
+      "last_processed_at": "2026-10-23T19:07:49.787048+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:07:49.787048+00:00",
+          "sha256": "8cbb0dadeb0be894b5dc2e984d4aa3376dd5ece266b33b28b1c4d32e4f2f3c47"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/red/2017/masonic-auditorium-san-francisco-ca-3be63c9c.html": {
+          "html_sha256": "5c93b60eb8689cf0c2a89560d3f00d385f829e489f9102be452fb9b4897b191c",
+          "last_fetched_at": "2026-10-23T19:07:48.877487+00:00"
         }
       }
     },
@@ -11356,6 +12466,28 @@
         }
       }
     },
+    "mandy-indiana:3s9mjj": {
+      "content_sha256": "2cf2aff1e101183c08f5094e324c47bf43c4d505278d9af9fa62179a3824d2d6",
+      "first_fetched_at": "2026-10-23T19:48:38.816594+00:00",
+      "last_fetched_at": "2026-10-23T19:48:43.278261+00:00",
+      "last_processed_at": "2026-10-23T19:48:46.356381+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:48:46.356381+00:00",
+          "sha256": "2cf2aff1e101183c08f5094e324c47bf43c4d505278d9af9fa62179a3824d2d6"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/mandy-indiana/2024/parc-del-forum-barcelona-spain-3ba824a4.html": {
+          "html_sha256": "ac0328266216d053dbf874b7e3ff8f7a873ae56e1f5f80527f83c927f6b98a75",
+          "last_fetched_at": "2026-10-23T19:48:43.278261+00:00"
+        },
+        "https://www.setlist.fm/setlist/mandy-indiana/2024/sala-apolo-barcelona-spain-43a8ebb7.html": {
+          "html_sha256": "87d1e36ff3a7abe8e22c9b1c76c3a1ebee09942f7a36f7eaa06ad1c3ef443b9d",
+          "last_fetched_at": "2026-10-23T19:48:38.816594+00:00"
+        }
+      }
+    },
     "mannequin-pussy:3s9mjj": {
       "content_sha256": "d83be4bfa3254bd42dee10dd303ddeda0f7e0d64b790b9e7118295a98cc63005",
       "first_fetched_at": "2026-10-08T07:47:30.455347+00:00",
@@ -11573,6 +12705,24 @@
         "https://www.setlist.fm/setlist/marina/2025/flushing-meadows-corona-park-queens-ny-usa-435ddf2b.html": {
           "html_sha256": "c102c71c3cc99f88d693b4ee5510aae5aca09b8d4f50aa447aaf290eb2cc4f50",
           "last_fetched_at": "2026-10-08T07:48:13.866941+00:00"
+        }
+      }
+    },
+    "marlon-funaki:xuwdm1": {
+      "content_sha256": "449dfd61d8a8b549d24e5669952ec68c0d6a2e72cf6f6c8261427b3e7e3866ac",
+      "first_fetched_at": "2026-10-23T20:46:03.602732+00:00",
+      "last_fetched_at": "2026-10-23T20:46:03.602732+00:00",
+      "last_processed_at": "2026-10-23T20:48:25.955906+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T20:48:25.955906+00:00",
+          "sha256": "449dfd61d8a8b549d24e5669952ec68c0d6a2e72cf6f6c8261427b3e7e3866ac"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/marlon-funaki/2026/golden-gate-park-san-francisco-ca-usa-2b49a4a6.html": {
+          "html_sha256": "5b2db4688cf87cbafb1f59fb4a2a3c23054cb5fcc3d7e8c256d6407fd1e6a1b3",
+          "last_fetched_at": "2026-10-23T20:46:03.602732+00:00"
         }
       }
     },
@@ -11988,6 +13138,24 @@
         }
       }
     },
+    "michelle:ub5qri": {
+      "content_sha256": "c5211a56996cb34690570e727546917cca5f77169f61caa68114f9243ccf33e5",
+      "first_fetched_at": "2026-10-23T20:35:44.390442+00:00",
+      "last_fetched_at": "2026-10-23T20:35:44.390442+00:00",
+      "last_processed_at": "2026-10-23T20:37:12.552683+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T20:37:12.552683+00:00",
+          "sha256": "c5211a56996cb34690570e727546917cca5f77169f61caa68114f9243ccf33e5"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/michelle/2023/grant-park-chicago-il-usa-3ba4000c.html": {
+          "html_sha256": "abef583093cd62dd877677369c761be1daa78a80821c270ba82dea31066832f5",
+          "last_fetched_at": "2026-10-23T20:35:44.390442+00:00"
+        }
+      }
+    },
     "michigander:yyea3y": {
       "content_sha256": "ec13d81146616690698f2a511a10fb55f016d1b309aba8ff669516567696eb15",
       "first_fetched_at": "2026-10-08T07:47:54.454543+00:00",
@@ -12059,20 +13227,28 @@
       }
     },
     "militarie-gun:3s9mjj": {
-      "content_sha256": "b96898c633a103d39de7b07043aeffb645d36be64fa268f9232babfcf6808ea2",
+      "content_sha256": "c95346827fea1052458bd7fb8d1586ad1fc0291655410e13bbf17a04ac812aa5",
       "first_fetched_at": "2026-10-08T07:31:30.676726+00:00",
-      "last_fetched_at": "2026-10-08T07:31:30.676726+00:00",
-      "last_processed_at": "2026-10-08T08:34:46.756688+00:00",
+      "last_fetched_at": "2026-10-23T19:50:16.399353+00:00",
+      "last_processed_at": "2026-10-23T20:36:57.263350+00:00",
       "revisions": [
         {
           "first_seen_at": "2026-10-08T08:34:46.756688+00:00",
           "sha256": "b96898c633a103d39de7b07043aeffb645d36be64fa268f9232babfcf6808ea2"
+        },
+        {
+          "first_seen_at": "2026-10-23T20:36:57.263350+00:00",
+          "sha256": "c95346827fea1052458bd7fb8d1586ad1fc0291655410e13bbf17a04ac812aa5"
         }
       ],
       "sources": {
         "https://www.setlist.fm/setlist/militarie-gun/2024/parallel-62-barcelona-spain-5ba8ebc4.html": {
           "html_sha256": "20f23aebe7c3eabfcb43dbd503cd764745055ca197b2908d380f10ec12ac3836",
           "last_fetched_at": "2026-10-08T07:31:30.676726+00:00"
+        },
+        "https://www.setlist.fm/setlist/militarie-gun/2024/parc-del-forum-barcelona-spain-33a824b5.html": {
+          "html_sha256": "a806f8077cd07f7317cdbd6002e9d3bddd59e50216417b865b53d5fa6d98fa7a",
+          "last_fetched_at": "2026-10-23T19:50:16.399353+00:00"
         }
       }
     },
@@ -12335,6 +13511,32 @@
         "https://www.setlist.fm/setlist/mod-sun/2021/napa-valley-expo-napa-ca-usa-1b8c39cc.html": {
           "html_sha256": "02afac6456b81a365b3051bab16f393c76f30e3d82a677c47a2b9c8959979ead",
           "last_fetched_at": "2026-10-08T07:27:47.931449+00:00"
+        }
+      }
+    },
+    "model-actriz:3s9mjj": {
+      "content_sha256": "43be76f1551acfd44b7dbabd24730285b7772c365b614410382d5b87a67cbbac",
+      "first_fetched_at": "2026-10-23T19:51:30.163278+00:00",
+      "last_fetched_at": "2026-10-23T19:51:35.680801+00:00",
+      "last_processed_at": "2026-10-23T20:36:59.312273+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:51:36.766719+00:00",
+          "sha256": "6bbfa5852283ef997662008ab6ff6f4444ed686ddd488ff46ed8969742f83576"
+        },
+        {
+          "first_seen_at": "2026-10-23T20:36:59.312273+00:00",
+          "sha256": "43be76f1551acfd44b7dbabd24730285b7772c365b614410382d5b87a67cbbac"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/modelactriz/2024/parc-del-forum-barcelona-spain-23a824ab.html": {
+          "html_sha256": "3e46f26de0e3d7585729a03bf8698cf014a466d3376113c71fd8952f9cda6fed",
+          "last_fetched_at": "2026-10-23T19:51:35.680801+00:00"
+        },
+        "https://www.setlist.fm/setlist/modelactriz/2024/sala-apolo-barcelona-spain-4ba8ebb2.html": {
+          "html_sha256": "a1978973fdba02e231c1da78914ddd4519bda63b721a4decfc271f716532eaf5",
+          "last_fetched_at": "2026-10-23T19:51:30.163278+00:00"
         }
       }
     },
@@ -12850,6 +14052,24 @@
         }
       }
     },
+    "mxmtoon:f3ysgl": {
+      "content_sha256": "acb458eedc6bba84013ce75014e89e85427d9d042558fdfd0915bb3729175997",
+      "first_fetched_at": "2026-10-23T19:39:50.047046+00:00",
+      "last_fetched_at": "2026-10-23T19:39:50.047046+00:00",
+      "last_processed_at": "2026-10-23T19:39:59.230722+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:39:59.230722+00:00",
+          "sha256": "acb458eedc6bba84013ce75014e89e85427d9d042558fdfd0915bb3729175997"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/mxmtoon/2021/golden-gate-park-san-francisco-ca-usa-5b8aa74c.html": {
+          "html_sha256": "7a5a73ac4d1b6bbdd8eabb12cf267de63e1fe299a9d95e4fd486c90a1e714e8d",
+          "last_fetched_at": "2026-10-23T19:39:50.047046+00:00"
+        }
+      }
+    },
     "my-morning-jacket:52a9mf": {
       "content_sha256": "fc7b147367e85b7ca54c2497494b783f0591b090cd1ab6bfcdd3a508d637184e",
       "first_fetched_at": "2026-10-08T05:17:28.889194+00:00",
@@ -12991,6 +14211,24 @@
         "https://www.setlist.fm/setlist/newjeans/2023/grant-park-chicago-il-usa-43a41f1f.html": {
           "html_sha256": "57fe349381af9acb74881b0260095a028c03e7ca1a9240b57cd28cbd0a503274",
           "last_fetched_at": "2026-10-08T07:47:48.865704+00:00"
+        }
+      }
+    },
+    "nezza:xuwdm1": {
+      "content_sha256": "948ca2580c10baeee1842d16b04d211618274f968a3ba1e1a09c5f95646377f5",
+      "first_fetched_at": "2026-10-23T20:47:06.288870+00:00",
+      "last_fetched_at": "2026-10-23T20:47:06.288870+00:00",
+      "last_processed_at": "2026-10-23T20:47:07.139753+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T20:47:07.139753+00:00",
+          "sha256": "948ca2580c10baeee1842d16b04d211618274f968a3ba1e1a09c5f95646377f5"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/nezza/2026/golden-gate-park-san-francisco-ca-usa-5b49a7d4.html": {
+          "html_sha256": "e47b06b9dfe010b6025318a8ae3d9c844d030553b5ef2c51c931f8a53e1a0a2e",
+          "last_fetched_at": "2026-10-23T20:47:06.288870+00:00"
         }
       }
     },
@@ -13270,6 +14508,42 @@
         }
       }
     },
+    "og21wn:f3ysgl": {
+      "content_sha256": "73bf33be492c4a5a09bd8233d6ef541528bef26e12fa3bf6f0bdbd5a1f53339f",
+      "first_fetched_at": "2026-10-23T19:30:16.686478+00:00",
+      "last_fetched_at": "2026-10-23T19:30:16.686478+00:00",
+      "last_processed_at": "2026-10-23T19:30:17.220046+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:30:17.220046+00:00",
+          "sha256": "73bf33be492c4a5a09bd8233d6ef541528bef26e12fa3bf6f0bdbd5a1f53339f"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/dr-dog/2021/golden-gate-park-san-francisco-ca-usa-38aad07.html": {
+          "html_sha256": "bb16b15abfe639c0a02bb5a70d9006396953467ce3def06c41187dca2c7eb76b",
+          "last_fetched_at": "2026-10-23T19:30:16.686478+00:00"
+        }
+      }
+    },
+    "okwpkv:f3ysgl": {
+      "content_sha256": "9b72e16f6dc836a65ac4b9968d9e23767e7b877f3f0e6d6ae6df00ceccf8cbaa",
+      "first_fetched_at": "2026-10-23T19:35:54.299156+00:00",
+      "last_fetched_at": "2026-10-23T19:35:54.299156+00:00",
+      "last_processed_at": "2026-10-23T19:35:54.556108+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:35:54.556108+00:00",
+          "sha256": "9b72e16f6dc836a65ac4b9968d9e23767e7b877f3f0e6d6ae6df00ceccf8cbaa"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/tame-impala/2021/golden-gate-park-san-francisco-ca-usa-4b8aa756.html": {
+          "html_sha256": "f5ad9fc8eedc333defe8010afc93924d070dcb85030685c63e00729cb74bb088",
+          "last_fetched_at": "2026-10-23T19:35:54.299156+00:00"
+        }
+      }
+    },
     "oliver-riot:c26k26": {
       "content_sha256": "24e3f7df44446aa43853bae3b69caf07d79ebfce7aff91ec7d584c92407e6a2d",
       "first_fetched_at": "2026-10-08T07:27:45.367115+00:00",
@@ -13521,6 +14795,24 @@
         "https://www.setlist.fm/setlist/p1harmony/2024/flushing-meadows-corona-park-queens-ny-usa-1356e911.html": {
           "html_sha256": "c36f0cc679138e8252f6c02649ab1dcde0dd9c89dc041b59b8643f21bee73008",
           "last_fetched_at": "2026-10-08T07:48:10.051297+00:00"
+        }
+      }
+    },
+    "p54e6b:p5q4ly": {
+      "content_sha256": "50fb8de46a8b70c9f6e4bf7237cfba4ddb113a15f8a460df7fd07fb23c8c4730",
+      "first_fetched_at": "2026-10-23T19:11:06.712439+00:00",
+      "last_fetched_at": "2026-10-23T19:11:06.712439+00:00",
+      "last_processed_at": "2026-10-23T19:11:07.691027+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:11:07.691027+00:00",
+          "sha256": "50fb8de46a8b70c9f6e4bf7237cfba4ddb113a15f8a460df7fd07fb23c8c4730"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/autumn-nicholas/2026/irving-plaza-new-york-ny-37c0df7.html": {
+          "html_sha256": "16ea6fcae9fccf511a0ab59011f523a3f7ef4cd9799bae05764e22a77cec0014",
+          "last_fetched_at": "2026-10-23T19:11:06.712439+00:00"
         }
       }
     },
@@ -14692,6 +15984,24 @@
         }
       }
     },
+    "q15hvz:f3ysgl": {
+      "content_sha256": "27da399ff154eabb62a9a26bcb2c7e5fad805c68c093ee33b02792726111e7cc",
+      "first_fetched_at": "2026-10-23T19:35:07.803853+00:00",
+      "last_fetched_at": "2026-10-23T19:35:07.803853+00:00",
+      "last_processed_at": "2026-10-23T19:35:07.992085+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:35:07.992085+00:00",
+          "sha256": "27da399ff154eabb62a9a26bcb2c7e5fad805c68c093ee33b02792726111e7cc"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/salami-rose-joe-louis/2021/golden-gate-park-san-francisco-ca-usa-3b8ab49c.html": {
+          "html_sha256": "f2e1af017663e1cc7f09880c5d5022cd3fb82553fcee86d6de95e55dd63e75be",
+          "last_fetched_at": "2026-10-23T19:35:07.803853+00:00"
+        }
+      }
+    },
     "quinn-xcii:8nhjof": {
       "content_sha256": "c2efd50ff92ffc14f50d082b6839cf69e369f4b7f744dad809a18301dc6fef9d",
       "first_fetched_at": "2026-10-08T07:27:39.610454+00:00",
@@ -14755,6 +16065,28 @@
         "https://www.setlist.fm/setlist/rachel-chinouriri/2025/forest-hills-stadium-queens-ny-usa-134229f5.html": {
           "html_sha256": "70368515e2f4f1073443a998958a385ae21d733c7cbef33e351a0279f373d00b",
           "last_fetched_at": "2026-10-08T07:48:16.816692+00:00"
+        }
+      }
+    },
+    "racing-mount-pleasant:xuwdm1": {
+      "content_sha256": "3cfd61446a9a6926a306e07f55348e837711c01627d9d900c2b824c48e5c3aa5",
+      "first_fetched_at": "2026-10-23T20:47:06.415774+00:00",
+      "last_fetched_at": "2026-10-23T20:47:06.422755+00:00",
+      "last_processed_at": "2026-10-23T20:47:11.823970+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T20:47:11.823970+00:00",
+          "sha256": "3cfd61446a9a6926a306e07f55348e837711c01627d9d900c2b824c48e5c3aa5"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/racing-mount-pleasant/2026/golden-gate-park-san-francisco-ca-usa-3349a4f9.html": {
+          "html_sha256": "8bbc07284c0deda55178bf9690bc7b0d206437fc670a0b2caa7c534a6ac1bb7d",
+          "last_fetched_at": "2026-10-23T20:47:06.422755+00:00"
+        },
+        "https://www.setlist.fm/setlist/racing-mount-pleasant/2026/golden-gate-park-san-francisco-ca-usa-637042c3.html": {
+          "html_sha256": "6b8899674aadfa690f5cf7124e47c67cfac4a54fcfe393b35efedf9c32c5fe9f",
+          "last_fetched_at": "2026-10-23T20:47:06.415774+00:00"
         }
       }
     },
@@ -14982,6 +16314,24 @@
         }
       }
     },
+    "remi-wolf:f3ysgl": {
+      "content_sha256": "a761ef4a4a7edfc0a7270dd0ce4b36c571b5761decfb1dc3597fd74b95fb239f",
+      "first_fetched_at": "2026-10-23T19:34:30.568586+00:00",
+      "last_fetched_at": "2026-10-23T19:34:30.568586+00:00",
+      "last_processed_at": "2026-10-23T19:34:30.752281+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:34:30.752281+00:00",
+          "sha256": "a761ef4a4a7edfc0a7270dd0ce4b36c571b5761decfb1dc3597fd74b95fb239f"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/remi-wolf/2021/golden-gate-park-san-francisco-ca-usa-238ab49b.html": {
+          "html_sha256": "46d54d70ae4b064ed22a80b20092d375a43310b49af5335823d388c98b872ecd",
+          "last_fetched_at": "2026-10-23T19:34:30.568586+00:00"
+        }
+      }
+    },
     "remi-wolf:vor15h": {
       "content_sha256": "6b5bbef01e764f8a3bf55da96cd6beebbfeced57984365c94bd1f7ca50cf6316",
       "first_fetched_at": "2026-10-08T05:28:10.120671+00:00",
@@ -15144,6 +16494,24 @@
         }
       }
     },
+    "rico-nasty:f3ysgl": {
+      "content_sha256": "cd6107b70f5d1020d9b6515d4a092cfd100a55e84e11dbe94eb99edfc37687b2",
+      "first_fetched_at": "2026-10-23T19:34:55.976654+00:00",
+      "last_fetched_at": "2026-10-23T19:34:55.976654+00:00",
+      "last_processed_at": "2026-10-23T19:34:56.251314+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:34:56.251314+00:00",
+          "sha256": "cd6107b70f5d1020d9b6515d4a092cfd100a55e84e11dbe94eb99edfc37687b2"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/rico-nasty/2021/golden-gate-park-san-francisco-ca-usa-138aad01.html": {
+          "html_sha256": "fc3641915e4274c0cddc9b06e493ca2412b816e065322e94bb4d6b16e72001b6",
+          "last_fetched_at": "2026-10-23T19:34:55.976654+00:00"
+        }
+      }
+    },
     "rico-nasty:yyea3y": {
       "content_sha256": "b699f8e905ab14644ae318fe2fbcdcdfda9bde85fc7783a3e58e708009fd4b8c",
       "first_fetched_at": "2026-10-08T07:47:57.422293+00:00",
@@ -15255,6 +16623,60 @@
         "https://www.setlist.fm/setlist/ripe/2023/terminal-5-new-york-ny-5bb8ebb4.html": {
           "html_sha256": "e49668ef70682bc91b142ca74a3719f55c71f04e5434b2df6b981de743ca598b",
           "last_fetched_at": "2026-10-08T05:27:42.873523+00:00"
+        }
+      }
+    },
+    "rise-against:di7xbd": {
+      "content_sha256": "ec493335b195d68f16866db93dd1f38f5404b7b5ebf9ef6abc9376ec59901f3f",
+      "first_fetched_at": "2026-10-23T19:06:49.094350+00:00",
+      "last_fetched_at": "2026-10-23T19:06:49.094350+00:00",
+      "last_processed_at": "2026-10-23T19:06:50.228309+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:06:50.228309+00:00",
+          "sha256": "ec493335b195d68f16866db93dd1f38f5404b7b5ebf9ef6abc9376ec59901f3f"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/rise-against/2026/masonic-auditorium-san-francisco-ca-7b491ee4.html": {
+          "html_sha256": "6a4122efc74055e823eab188e0eb4ef291a357a87b170d8d8c8ed65ff6259ea4",
+          "last_fetched_at": "2026-10-23T19:06:49.094350+00:00"
+        }
+      }
+    },
+    "rise-against:m058sl": {
+      "content_sha256": "fae0a12b2ce858c779663369082d549d7bb10271d615a2ecbe1cbf4f228dadf1",
+      "first_fetched_at": "2026-10-23T19:02:26.192236+00:00",
+      "last_fetched_at": "2026-10-23T19:02:26.192236+00:00",
+      "last_processed_at": "2026-10-23T19:09:44.170993+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:09:44.170993+00:00",
+          "sha256": "fae0a12b2ce858c779663369082d549d7bb10271d615a2ecbe1cbf4f228dadf1"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/rise-against/2021/masonic-auditorium-san-francisco-ca-2b8c98ca.html": {
+          "html_sha256": "9ff64802f05a12fd5c2faefd7109fbb408ac3a05a6ca4aecfbb617c239254327",
+          "last_fetched_at": "2026-10-23T19:02:26.192236+00:00"
+        }
+      }
+    },
+    "rkkcd2:f3ysgl": {
+      "content_sha256": "2a64c6e4978b017efbdc400d9b71ec4e8e6fa6fc578ab15e12c03f2a0a0f604e",
+      "first_fetched_at": "2026-10-23T19:27:36.094297+00:00",
+      "last_fetched_at": "2026-10-23T19:27:36.094297+00:00",
+      "last_processed_at": "2026-10-23T19:27:36.254269+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:27:36.254269+00:00",
+          "sha256": "2a64c6e4978b017efbdc400d9b71ec4e8e6fa6fc578ab15e12c03f2a0a0f604e"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/angel-olsen/2021/golden-gate-park-san-francisco-ca-usa-138aad0d.html": {
+          "html_sha256": "4541c0b47037b0343465aeafb617d72ffa8e62b6398d840cb7ed9d323ab8aa60",
+          "last_fetched_at": "2026-10-23T19:27:36.094297+00:00"
         }
       }
     },
@@ -15501,6 +16923,42 @@
         "https://www.setlist.fm/setlist/rozi-plain/2024/la-nau-barcelona-spain-4ba8eb32.html": {
           "html_sha256": "98041d5a7bc0904251095d11964495f5356180f6145f2d8d82f0c489b432cb2d",
           "last_fetched_at": "2026-10-08T07:28:03.000717+00:00"
+        }
+      }
+    },
+    "rtj2oh:f3ysgl": {
+      "content_sha256": "816e28e19107845a45ee458068cea854887802d64d7add6ca2009c570a4f0323",
+      "first_fetched_at": "2026-10-23T19:30:59.214339+00:00",
+      "last_fetched_at": "2026-10-23T19:30:59.214339+00:00",
+      "last_processed_at": "2026-10-23T19:30:59.597445+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:30:59.597445+00:00",
+          "sha256": "816e28e19107845a45ee458068cea854887802d64d7add6ca2009c570a4f0323"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/hinds/2021/golden-gate-park-san-francisco-ca-usa-138aadf9.html": {
+          "html_sha256": "6e7eb1b35754a8494453baf0ed7a792a2ad8200ad92f94d3ca0a4fc97b0fc4ca",
+          "last_fetched_at": "2026-10-23T19:30:59.214339+00:00"
+        }
+      }
+    },
+    "rufus-du-sol:f3ysgl": {
+      "content_sha256": "0f570abce5c00b35ed885004e1c83c15d25603d716114946cfcb2f7dd3a38fa3",
+      "first_fetched_at": "2026-10-23T19:35:00.078223+00:00",
+      "last_fetched_at": "2026-10-23T19:35:00.078223+00:00",
+      "last_processed_at": "2026-10-23T19:35:00.423387+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:35:00.423387+00:00",
+          "sha256": "0f570abce5c00b35ed885004e1c83c15d25603d716114946cfcb2f7dd3a38fa3"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/rufus-du-sol/2021/golden-gate-park-san-francisco-ca-usa-5b8aa754.html": {
+          "html_sha256": "d0f90c33ce86c1a6e6af42ca5245c7e486c9bac871d017f4363ce24a1a9575f7",
+          "last_fetched_at": "2026-10-23T19:35:00.078223+00:00"
         }
       }
     },
@@ -15898,6 +17356,24 @@
         }
       }
     },
+    "sarah-kinsley:ub5qri": {
+      "content_sha256": "884528faff957def7c5871067da2422962d5ca3ae6117221972f48077041100a",
+      "first_fetched_at": "2026-10-23T20:38:57.871629+00:00",
+      "last_fetched_at": "2026-10-23T20:38:57.871629+00:00",
+      "last_processed_at": "2026-10-23T20:38:58.102010+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T20:38:58.102010+00:00",
+          "sha256": "884528faff957def7c5871067da2422962d5ca3ae6117221972f48077041100a"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/sarah-kinsley/2023/grant-park-chicago-il-usa-1ba401fc.html": {
+          "html_sha256": "775a34844f50289b626adf0aed08311c1278ec46b2a97ed007b314bf8049a4ae",
+          "last_fetched_at": "2026-10-23T20:38:57.871629+00:00"
+        }
+      }
+    },
     "sawyer-hill:xuwdm1": {
       "content_sha256": "b29154b84d5e66041dbe3e3f71fa1f76fd40c062340fbb548e81057252f6bd34",
       "first_fetched_at": "2026-10-08T07:27:52.257710+00:00",
@@ -16207,6 +17683,24 @@
         "https://www.setlist.fm/setlist/silversun-pickups/2019/br-cohn-winery-glen-ellen-ca-usa-539c2b71.html": {
           "html_sha256": "db129a357750cbdcb9e3258faa42013d36ea188ce71b0356eb26383c47bc120f",
           "last_fetched_at": "2026-10-08T07:48:07.531626+00:00"
+        }
+      }
+    },
+    "simple-plan:42rjz2": {
+      "content_sha256": "bea6edf477db18213533b763399ef7f0be4b6da84b7b117104b63d06d9e8c6b1",
+      "first_fetched_at": "2026-10-23T19:05:19.680471+00:00",
+      "last_fetched_at": "2026-10-23T19:05:19.680471+00:00",
+      "last_processed_at": "2026-10-23T19:05:19.926091+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:05:19.926091+00:00",
+          "sha256": "bea6edf477db18213533b763399ef7f0be4b6da84b7b117104b63d06d9e8c6b1"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/simple-plan/2017/the-fillmore-san-francisco-ca-43e6dff3.html": {
+          "html_sha256": "2e9df40a5f3b272e9fafc0318569d55c0671f695b9f841fdffe8a2f4f6f024e3",
+          "last_fetched_at": "2026-10-23T19:05:19.680471+00:00"
         }
       }
     },
@@ -16557,6 +18051,24 @@
         "https://www.setlist.fm/setlist/soccer-mommy/2023/forest-hills-stadium-queens-ny-1ba4f144.html": {
           "html_sha256": "9622ef9d46a04ce4fcf856050dbc164c0d7f218b4a62c044ab0a9f3fb58938c5",
           "last_fetched_at": "2026-10-08T05:27:53.500303+00:00"
+        }
+      }
+    },
+    "sofi-tukker:f3ysgl": {
+      "content_sha256": "5aab4e5edd90419888758e7979bbcf9588664a10113b4151efff1ad639190c9d",
+      "first_fetched_at": "2026-10-23T19:35:31.595815+00:00",
+      "last_fetched_at": "2026-10-23T19:35:31.595815+00:00",
+      "last_processed_at": "2026-10-23T19:35:31.755373+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:35:31.755373+00:00",
+          "sha256": "5aab4e5edd90419888758e7979bbcf9588664a10113b4151efff1ad639190c9d"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/sofi-tukker/2021/golden-gate-park-san-francisco-ca-usa-4b8aa74e.html": {
+          "html_sha256": "3a3e854a5dfa15e6125e382b9f3ff31bc7f5801ec7c29ec0b9da50df7f23e770",
+          "last_fetched_at": "2026-10-23T19:35:31.595815+00:00"
         }
       }
     },
@@ -17242,6 +18754,24 @@
         }
       }
     },
+    "tdj7yo:f3ysgl": {
+      "content_sha256": "abb6dc1155a4096eb087d7deef1a80b3538a59d26d4a0ca11edf2836979f8066",
+      "first_fetched_at": "2026-10-23T19:32:07.519695+00:00",
+      "last_fetched_at": "2026-10-23T19:32:07.519695+00:00",
+      "last_processed_at": "2026-10-23T19:32:07.960526+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:32:07.960526+00:00",
+          "sha256": "abb6dc1155a4096eb087d7deef1a80b3538a59d26d4a0ca11edf2836979f8066"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/kehlani/2021/golden-gate-park-san-francisco-ca-usa-438aa74b.html": {
+          "html_sha256": "ca4fcc5992a6c88960a9459c81a7d836f6ca10fcafd297a33dd2fd48fb5c23ff",
+          "last_fetched_at": "2026-10-23T19:32:07.519695+00:00"
+        }
+      }
+    },
     "tedeschi-trucks-band:4liaw1": {
       "content_sha256": "3c0df1c7efc28848f940b927dc10ef0716610a95d89d1eaf185e1741e8ed3cac",
       "first_fetched_at": "2026-10-08T05:17:27.140772+00:00",
@@ -17671,6 +19201,24 @@
         "https://www.setlist.fm/setlist/the-band-camino/2022/the-regency-ballroom-san-francisco-ca-5bb68b24.html": {
           "html_sha256": "5caa103d5815869a01c8f6eb5256e8b016c21bdef16485b1e02cc2ac249f4d32",
           "last_fetched_at": "2026-10-08T05:28:21.719417+00:00"
+        }
+      }
+    },
+    "the-beaches:7zj1wf": {
+      "content_sha256": "bfec934f88567f1355bd412d05dbebd0a252fef20a41793294b7e5fe03b4bd25",
+      "first_fetched_at": "2026-10-23T20:00:40.236665+00:00",
+      "last_fetched_at": "2026-10-23T20:00:40.236665+00:00",
+      "last_processed_at": "2026-10-23T20:37:01.305187+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T20:37:01.305187+00:00",
+          "sha256": "bfec934f88567f1355bd412d05dbebd0a252fef20a41793294b7e5fe03b4bd25"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/the-beaches/2025/flushing-meadows-corona-park-queens-ny-usa-435ddf47.html": {
+          "html_sha256": "27f1a581f7faa2db965f659ccc784e640fdbbfa2ce96a29f7ed6fa7bd3c58ff3",
+          "last_fetched_at": "2026-10-23T20:00:40.236665+00:00"
         }
       }
     },
@@ -18462,6 +20010,24 @@
         }
       }
     },
+    "the-midnight:f3ysgl": {
+      "content_sha256": "568f75fcd5fef81625dba117591b8d559498a705ac5c97e3aebd3bc9db7f5539",
+      "first_fetched_at": "2026-10-23T19:36:09.712253+00:00",
+      "last_fetched_at": "2026-10-23T19:36:09.712253+00:00",
+      "last_processed_at": "2026-10-23T19:36:09.898734+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:36:09.898734+00:00",
+          "sha256": "568f75fcd5fef81625dba117591b8d559498a705ac5c97e3aebd3bc9db7f5539"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/the-midnight/2021/golden-gate-park-san-francisco-ca-usa-38aadfb.html": {
+          "html_sha256": "2ebbfe27297a74f0babc1df1fc8ac37bb3f690f8084fabf6dd2bb65829b65b50",
+          "last_fetched_at": "2026-10-23T19:36:09.712253+00:00"
+        }
+      }
+    },
     "the-mountain-goats:3s9mjj": {
       "content_sha256": "156a9ded1a1cca625ac77bda47905a13a321fc603290803f96191ae02cd27602",
       "first_fetched_at": "2026-10-08T07:28:03.105362+00:00",
@@ -18834,6 +20400,24 @@
         }
       }
     },
+    "the-story-so-far:zfwvzh": {
+      "content_sha256": "8180b6c16f34aed55bcf5637f59ebe64f43eb95e62fed0a8dc13f8deb51c5744",
+      "first_fetched_at": "2026-10-23T19:14:09.758083+00:00",
+      "last_fetched_at": "2026-10-23T19:14:09.758083+00:00",
+      "last_processed_at": "2026-10-23T19:14:10.016719+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:14:10.016719+00:00",
+          "sha256": "8180b6c16f34aed55bcf5637f59ebe64f43eb95e62fed0a8dc13f8deb51c5744"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/the-story-so-far/2016/the-warfield-san-francisco-ca-bfaa5ee.html": {
+          "html_sha256": "c3e4268bcca537980ee4ef0563b0b47f5cfde5ad12065bbd0113fbb943a3790c",
+          "last_fetched_at": "2026-10-23T19:14:09.758083+00:00"
+        }
+      }
+    },
     "the-string-cheese-incident:s1sk36": {
       "content_sha256": "9270c25ed9e3330d3136a48158a61ed248e32aae02292a0be1c8d1446c8df735",
       "first_fetched_at": "2026-10-08T05:20:04.522469+00:00",
@@ -18857,6 +20441,24 @@
         "https://www.setlist.fm/setlist/the-string-cheese-incident/2024/brooklyn-paramount-brooklyn-ny-2351ccb3.html": {
           "html_sha256": "0118b0762e513569177d9c0335ff2421971d4cce58d6b1a96e76f7b1dadc3fe2",
           "last_fetched_at": "2026-10-08T05:20:04.522469+00:00"
+        }
+      }
+    },
+    "the-strokes:f3ysgl": {
+      "content_sha256": "6ae54d34f903d3329d528f325d662a8d147301ea7e71e81484b57c95e09e86a6",
+      "first_fetched_at": "2026-10-23T19:36:25.007468+00:00",
+      "last_fetched_at": "2026-10-23T19:36:25.007468+00:00",
+      "last_processed_at": "2026-10-23T19:36:25.260787+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:36:25.260787+00:00",
+          "sha256": "6ae54d34f903d3329d528f325d662a8d147301ea7e71e81484b57c95e09e86a6"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/the-strokes/2021/golden-gate-park-san-francisco-ca-usa-b8ab5b6.html": {
+          "html_sha256": "8e71d7c051794c6b515007af8fa7097d2e2526627b97a0d8b9db4c5c3c6e7d2e",
+          "last_fetched_at": "2026-10-23T19:36:25.007468+00:00"
         }
       }
     },
@@ -19049,6 +20651,24 @@
         "https://www.setlist.fm/setlist/theo-katzman/2023/terminal-5-new-york-ny-7bb80a04.html": {
           "html_sha256": "20815ee0af34f97b44b196aac725eb20e77a7188de0485ba502d6752a851b473",
           "last_fetched_at": "2026-10-08T05:27:59.536288+00:00"
+        }
+      }
+    },
+    "theo-katzman:xyc0i4": {
+      "content_sha256": "09e79c814385cb03dfd1abe406c1371de149dc85b54fc7351e921b19d1ac16d8",
+      "first_fetched_at": "2026-10-23T19:23:42.560221+00:00",
+      "last_fetched_at": "2026-10-23T19:23:42.560221+00:00",
+      "last_processed_at": "2026-10-23T19:23:42.894529+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:23:42.894529+00:00",
+          "sha256": "09e79c814385cb03dfd1abe406c1371de149dc85b54fc7351e921b19d1ac16d8"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/theo-katzman/2026/music-hall-of-williamsburg-brooklyn-ny-6b74e2a6.html": {
+          "html_sha256": "59299dff4670c2cc5dde48c69c1e0779b31006e230b3e43833035d360ec881c5",
+          "last_fetched_at": "2026-10-23T19:23:42.560221+00:00"
         }
       }
     },
@@ -19748,6 +21368,24 @@
         }
       }
     },
+    "tyler-the-creator:f3ysgl": {
+      "content_sha256": "a0ccae53a6fcbef44da81092325c0dbc0e233090db15bf5ef3a913ce2b3002c1",
+      "first_fetched_at": "2026-10-23T19:38:30.607426+00:00",
+      "last_fetched_at": "2026-10-23T19:38:30.607426+00:00",
+      "last_processed_at": "2026-10-23T19:38:34.313770+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:38:34.313770+00:00",
+          "sha256": "a0ccae53a6fcbef44da81092325c0dbc0e233090db15bf5ef3a913ce2b3002c1"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/tyler-the-creator/2021/golden-gate-park-san-francisco-ca-usa-1b8ab5b4.html": {
+          "html_sha256": "e2d9aab93aeff5afc1194de6645637be25f0d13401b3b99f4f008d0ea9333b20",
+          "last_fetched_at": "2026-10-23T19:38:30.607426+00:00"
+        }
+      }
+    },
     "tyler-the-creator:yyea3y": {
       "content_sha256": "7a61d383745d003a1c778a836d39c0bd89c7a85ab3f89286c2575462dcdae306",
       "first_fetched_at": "2026-10-08T07:47:52.736501+00:00",
@@ -19767,6 +21405,24 @@
         "https://www.setlist.fm/setlist/tyler-the-creator/2021/grant-park-chicago-il-usa-38f210b.html": {
           "html_sha256": "f9d3ed24ea2f33c55287bc1f6a9836f5bd65d9ff3fa2bdbdd3eddfd8baa2cd3a",
           "last_fetched_at": "2026-10-08T07:47:52.736501+00:00"
+        }
+      }
+    },
+    "u0fnow:zfwvzh": {
+      "content_sha256": "a18f155e53656ecf57f468470d603c96dc7fce6bef5c2ba3a55f285f22b0b838",
+      "first_fetched_at": "2026-10-23T19:14:14.182453+00:00",
+      "last_fetched_at": "2026-10-23T19:14:14.182453+00:00",
+      "last_processed_at": "2026-10-23T19:14:14.434920+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:14:14.434920+00:00",
+          "sha256": "a18f155e53656ecf57f468470d603c96dc7fce6bef5c2ba3a55f285f22b0b838"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/good-charlotte/2016/the-warfield-san-francisco-ca-3faa5ef.html": {
+          "html_sha256": "d249c31cda4392de01faee914411a929520a9051975a37fde28600fcad93134a",
+          "last_fetched_at": "2026-10-23T19:14:14.182453+00:00"
         }
       }
     },
@@ -19836,6 +21492,42 @@
         }
       }
     },
+    "uogmyy:gbfdt6": {
+      "content_sha256": "1817f30a6cbeb6646908480724e66ca46a49bf75e04ab5dcd7f07fd0432da108",
+      "first_fetched_at": "2026-10-23T19:08:16.132584+00:00",
+      "last_fetched_at": "2026-10-23T19:08:16.132584+00:00",
+      "last_processed_at": "2026-10-23T19:08:17.240418+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:08:17.240418+00:00",
+          "sha256": "1817f30a6cbeb6646908480724e66ca46a49bf75e04ab5dcd7f07fd0432da108"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/reel-big-fish/2017/the-regency-ballroom-san-francisco-ca-3bf86004.html": {
+          "html_sha256": "267dd977b97d989dbcf89124cd7fd4757722eef7f47bcfc13b0f5b9b63cacde9",
+          "last_fetched_at": "2026-10-23T19:08:16.132584+00:00"
+        }
+      }
+    },
+    "uogmyy:ygl9lr": {
+      "content_sha256": "9945ce105abb5a50f34a48d70543c475e1aef657cfc185f10f0d00c3287009a3",
+      "first_fetched_at": "2026-10-23T19:12:50.861317+00:00",
+      "last_fetched_at": "2026-10-23T19:12:50.861317+00:00",
+      "last_processed_at": "2026-10-23T19:12:51.173642+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:12:51.173642+00:00",
+          "sha256": "9945ce105abb5a50f34a48d70543c475e1aef657cfc185f10f0d00c3287009a3"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/reel-big-fish/2016/the-fillmore-san-francisco-ca-63f34277.html": {
+          "html_sha256": "2725afe761d872f6a55428de28f881d3c91e1d929bf388c28ebd4c87e6fe72f6",
+          "last_fetched_at": "2026-10-23T19:12:50.861317+00:00"
+        }
+      }
+    },
     "upsahl:ub5qri": {
       "content_sha256": "b4969fbffe5eca37b265778345a06e00cbbefe47a419c745fd239fa5dfe97c4e",
       "first_fetched_at": "2026-10-08T07:47:46.471999+00:00",
@@ -19858,6 +21550,24 @@
         }
       }
     },
+    "usted-senalemelo:ub5qri": {
+      "content_sha256": "f38af8bfd8d3a8c775e7133ec72d69855c8e4a331b931900b2b511f613122e0a",
+      "first_fetched_at": "2026-10-23T20:40:03.334846+00:00",
+      "last_fetched_at": "2026-10-23T20:40:03.334846+00:00",
+      "last_processed_at": "2026-10-23T20:48:19.590009+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T20:48:19.590009+00:00",
+          "sha256": "f38af8bfd8d3a8c775e7133ec72d69855c8e4a331b931900b2b511f613122e0a"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/usted-senalemelo/2023/grant-park-chicago-il-usa-73a40e6d.html": {
+          "html_sha256": "d004e12fcc42cec4446cc126919eb9431971419dcdb772b50b5b33b34ba7f7c6",
+          "last_fetched_at": "2026-10-23T20:40:03.334846+00:00"
+        }
+      }
+    },
     "vampire-weekend:3s9mjj": {
       "content_sha256": "4665f7d20be913eb74ac67aac94e9379fe7d61783d582f45911252886a48d46b",
       "first_fetched_at": "2026-10-08T07:47:30.179227+00:00",
@@ -19877,6 +21587,24 @@
         "https://www.setlist.fm/setlist/vampire-weekend/2024/parc-del-forum-barcelona-spain-33ab78ed.html": {
           "html_sha256": "4eb7548d2e4fdaf115e778dcf8fe0ba5e08923a5eea930857c6e006220fb9f78",
           "last_fetched_at": "2026-10-08T07:47:30.179227+00:00"
+        }
+      }
+    },
+    "vampire-weekend:f3ysgl": {
+      "content_sha256": "3a2249553c449620f3203c016989fe5db35a80acd4c1d788bb3f7d1c3d70f41a",
+      "first_fetched_at": "2026-10-23T19:37:56.717610+00:00",
+      "last_fetched_at": "2026-10-23T19:37:56.717610+00:00",
+      "last_processed_at": "2026-10-23T19:38:37.548323+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:38:37.548323+00:00",
+          "sha256": "3a2249553c449620f3203c016989fe5db35a80acd4c1d788bb3f7d1c3d70f41a"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/vampire-weekend/2021/golden-gate-park-san-francisco-ca-usa-1b8aad10.html": {
+          "html_sha256": "2e22bf7b1da5ea351809a8dccf91ed6f196814958b098697e7998f338d61ce43",
+          "last_fetched_at": "2026-10-23T19:37:56.717610+00:00"
         }
       }
     },
@@ -19924,6 +21652,24 @@
         }
       }
     },
+    "victor-wooten:e171as": {
+      "content_sha256": "2f8e18a539136382cc8670875925b42051496dea29b03461fdc362e367b72b3b",
+      "first_fetched_at": "2026-10-23T19:07:12.433753+00:00",
+      "last_fetched_at": "2026-10-23T19:07:12.433753+00:00",
+      "last_processed_at": "2026-10-23T20:05:17.403437+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T20:05:17.403437+00:00",
+          "sha256": "2f8e18a539136382cc8670875925b42051496dea29b03461fdc362e367b72b3b"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/victor-wooten-trio/2018/the-regency-ballroom-san-francisco-ca-63e17a3b.html": {
+          "html_sha256": "6624171b66e1c5b5325993bfa4a767673d18caef9b97f981bae90e5b809765b6",
+          "last_fetched_at": "2026-10-23T19:07:12.433753+00:00"
+        }
+      }
+    },
     "village-people:c26k26": {
       "content_sha256": "39c9c523a66b56ee05ad24ba50d8f8e6adcd248dce8ad9cf22e79e4c53a324ce",
       "first_fetched_at": "2026-10-08T07:27:48.105220+00:00",
@@ -19965,6 +21711,24 @@
         "https://www.setlist.fm/setlist/voxtrot/2024/parc-del-forum-barcelona-spain-43a9733f.html": {
           "html_sha256": "b52aab2146ca3998eade5b876fb2a0988bf14305c1f934ff636ffa1bb9208199",
           "last_fetched_at": "2026-10-08T07:28:19.097228+00:00"
+        }
+      }
+    },
+    "vulfpeck:e5bfv9": {
+      "content_sha256": "db2dac00aa67014ccb0297e64d2d25c07d0709f03ce89599f1fa889b22d3c63c",
+      "first_fetched_at": "2026-10-23T19:17:13.323271+00:00",
+      "last_fetched_at": "2026-10-23T19:17:13.323271+00:00",
+      "last_processed_at": "2026-10-23T20:09:06.346485+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T20:09:06.346485+00:00",
+          "sha256": "db2dac00aa67014ccb0297e64d2d25c07d0709f03ce89599f1fa889b22d3c63c"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/vulfpeck/2023/the-great-hall-at-avant-gardner-brooklyn-ny-3a1d5db.html": {
+          "html_sha256": "a762d31c2e7623f291a4ab1eb95144a3a4e1534286ea59dc5bff33221828f5ce",
+          "last_fetched_at": "2026-10-23T19:17:13.323271+00:00"
         }
       }
     },
@@ -20017,6 +21781,42 @@
         "https://www.setlist.fm/setlist/vundabar/2025/white-eagle-hall-jersey-city-nj-235b203b.html": {
           "html_sha256": "6de152cc4c0529adb4ad0b069b0d9bf490581f7e32d2a4e0abde6649f9408d71",
           "last_fetched_at": "2026-10-08T05:28:27.985912+00:00"
+        }
+      }
+    },
+    "vyw4u8:u87mu4": {
+      "content_sha256": "67534ce3195fe7475de4812c8f24237c62f9e5a5e64f09d56039c123e279d40c",
+      "first_fetched_at": "2026-10-23T19:12:06.942385+00:00",
+      "last_fetched_at": "2026-10-23T19:12:06.942385+00:00",
+      "last_processed_at": "2026-10-23T19:12:07.290451+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:12:07.290451+00:00",
+          "sha256": "67534ce3195fe7475de4812c8f24237c62f9e5a5e64f09d56039c123e279d40c"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/panic-at-the-disco/2016/shoreline-amphitheatre-mountain-view-ca-5bff4bb8.html": {
+          "html_sha256": "e73b2ac5f41290030beeb507c4fc4087afb604b4a3575be9ace45d361bbba349",
+          "last_fetched_at": "2026-10-23T19:12:06.942385+00:00"
+        }
+      }
+    },
+    "w58tie:f3ysgl": {
+      "content_sha256": "b3489e74147c672ccf63f2da87b631f307f4366b9f04d90998f3f947d835d449",
+      "first_fetched_at": "2026-10-23T19:27:06.804525+00:00",
+      "last_fetched_at": "2026-10-23T19:27:06.804525+00:00",
+      "last_processed_at": "2026-10-23T19:27:07.258308+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:27:07.258308+00:00",
+          "sha256": "b3489e74147c672ccf63f2da87b631f307f4366b9f04d90998f3f947d835d449"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/a-r-i-z-o-n-a/2021/golden-gate-park-san-francisco-ca-usa-b8aad02.html": {
+          "html_sha256": "073c049bfaefe8ba8971be2a0eb9f781721d09a3f492c28f9a3928ac6d50dba4",
+          "last_fetched_at": "2026-10-23T19:27:06.804525+00:00"
         }
       }
     },
@@ -20113,6 +21913,42 @@
         "https://www.setlist.fm/setlist/walk-the-moon/2018/fox-theater-oakland-ca-43eedb97.html": {
           "html_sha256": "90024f7fe7bd05916f957157e1c0a0b8245aad4a0ad167eb2693a399b3872a64",
           "last_fetched_at": "2026-10-08T05:25:23.620506+00:00"
+        }
+      }
+    },
+    "walk-the-moon:lr283c": {
+      "content_sha256": "d9e20c1bb939821ea1342d59e315588681732b51a6c9cb7614d9da84ff04f184",
+      "first_fetched_at": "2026-10-23T19:09:12.581069+00:00",
+      "last_fetched_at": "2026-10-23T19:09:12.581069+00:00",
+      "last_processed_at": "2026-10-23T19:09:13.796972+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:09:13.796972+00:00",
+          "sha256": "d9e20c1bb939821ea1342d59e315588681732b51a6c9cb7614d9da84ff04f184"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/walk-the-moon/2015/masonic-auditorium-san-francisco-ca-7bf58638.html": {
+          "html_sha256": "577113fbd8ea7fbd6adab33ae171bf22d420bab74b4900213918b96645594fac",
+          "last_fetched_at": "2026-10-23T19:09:12.581069+00:00"
+        }
+      }
+    },
+    "wallows:7zj1wf": {
+      "content_sha256": "cf29af7879739a35c239a4beb42aa4de2725a1091c2638f00a5d1b1fad9c2306",
+      "first_fetched_at": "2026-10-23T20:01:18.547319+00:00",
+      "last_fetched_at": "2026-10-23T20:01:18.547319+00:00",
+      "last_processed_at": "2026-10-23T20:37:03.378410+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T20:37:03.378410+00:00",
+          "sha256": "cf29af7879739a35c239a4beb42aa4de2725a1091c2638f00a5d1b1fad9c2306"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/wallows/2025/flushing-meadows-corona-park-queens-ny-usa-5b5ddf34.html": {
+          "html_sha256": "ff416ac81b446603d980b621a576f79c53c66fe274156b284f22db26e0e35708",
+          "last_fetched_at": "2026-10-23T20:01:18.547319+00:00"
         }
       }
     },
@@ -20323,6 +22159,24 @@
         "https://www.setlist.fm/setlist/weezer/2021/oracle-park-san-francisco-ca-38cfd87.html": {
           "html_sha256": "76c95c38e8816c4e67b2501e5bc88a839a3caf242ab80c3c0e20935801250d64",
           "last_fetched_at": "2026-10-08T05:27:06.335550+00:00"
+        }
+      }
+    },
+    "weezer:u87mu4": {
+      "content_sha256": "c65c033798b8409b966b5c0676d3715d99306ed390ec30f8bb1e47bd8cc3c6e9",
+      "first_fetched_at": "2026-10-23T19:12:10.976498+00:00",
+      "last_fetched_at": "2026-10-23T19:12:10.976498+00:00",
+      "last_processed_at": "2026-10-23T19:12:11.316186+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:12:11.316186+00:00",
+          "sha256": "c65c033798b8409b966b5c0676d3715d99306ed390ec30f8bb1e47bd8cc3c6e9"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/weezer/2016/shoreline-amphitheatre-mountain-view-ca-53ff4bb9.html": {
+          "html_sha256": "49f41b40f12b92135912f50c870fff2960b885dcab1ede2bdeff502eab85f85f",
+          "last_fetched_at": "2026-10-23T19:12:10.976498+00:00"
         }
       }
     },
@@ -20748,6 +22602,24 @@
         }
       }
     },
+    "yuirii:f3ysgl": {
+      "content_sha256": "f381a942525cce3839d319e8e7ba8aaafc356baaa8f7f1f160ae3b596b7d3318",
+      "first_fetched_at": "2026-10-23T19:35:18.173060+00:00",
+      "last_fetched_at": "2026-10-23T19:35:18.173060+00:00",
+      "last_processed_at": "2026-10-23T19:35:18.408630+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:35:18.408630+00:00",
+          "sha256": "f381a942525cce3839d319e8e7ba8aaafc356baaa8f7f1f160ae3b596b7d3318"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/sharon-van-etten/2021/golden-gate-park-san-francisco-ca-usa-138ab5ad.html": {
+          "html_sha256": "e3a4822543432125bd795eaa935c3beb0b8aa5eab2b522c8879f8da179a32064",
+          "last_fetched_at": "2026-10-23T19:35:18.173060+00:00"
+        }
+      }
+    },
     "yung-gravy:cy53a8": {
       "content_sha256": "46398222847e6002ab5de718d635c90d1dfdd9f69b4668ce9b00b8068e5cfb60",
       "first_fetched_at": "2026-10-08T07:48:08.284610+00:00",
@@ -20789,6 +22661,24 @@
         "https://www.setlist.fm/setlist/yung-gravy/2023/grant-park-chicago-il-usa-3ba41468.html": {
           "html_sha256": "22ceb66004e76fa79259f18e280e2a76e0dd2f143e47aac9fa7dfd7454e61d21",
           "last_fetched_at": "2026-10-08T07:47:43.791307+00:00"
+        }
+      }
+    },
+    "yves-tumor:f3ysgl": {
+      "content_sha256": "37f1f98efc4c8b00b6af88c07e62371c2fa4c32f96039ba5bca9d513772e65ac",
+      "first_fetched_at": "2026-10-23T19:39:53.599970+00:00",
+      "last_fetched_at": "2026-10-23T19:39:53.599970+00:00",
+      "last_processed_at": "2026-10-23T19:39:54.566674+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:39:54.566674+00:00",
+          "sha256": "37f1f98efc4c8b00b6af88c07e62371c2fa4c32f96039ba5bca9d513772e65ac"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/yves-tumor/2021/golden-gate-park-san-francisco-ca-usa-5b8aa740.html": {
+          "html_sha256": "04c719db7a3d417291507884fa42ccf820cee078817fbac69cce9a368b24bac7",
+          "last_fetched_at": "2026-10-23T19:39:53.599970+00:00"
         }
       }
     },
@@ -20885,6 +22775,24 @@
         "https://www.setlist.fm/setlist/zack-fox/2023/grant-park-chicago-il-usa-33a4142d.html": {
           "html_sha256": "50959a8c94ee4da4df19671bdb6f2a675cb61a1631aa8b72c251a59ff328c488",
           "last_fetched_at": "2026-10-08T07:47:43.926782+00:00"
+        }
+      }
+    },
+    "zwizkm:f3ysgl": {
+      "content_sha256": "06e8bb237ecef0a270daba3c919ec4440cb7c2dbbb0af4e92b51560d94d41ba4",
+      "first_fetched_at": "2026-10-23T19:29:52.716538+00:00",
+      "last_fetched_at": "2026-10-23T19:29:52.716538+00:00",
+      "last_processed_at": "2026-10-23T19:29:53.204308+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-23T19:29:53.204308+00:00",
+          "sha256": "06e8bb237ecef0a270daba3c919ec4440cb7c2dbbb0af4e92b51560d94d41ba4"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/caroline-polachek/2021/golden-gate-park-san-francisco-ca-usa-4b8aa742.html": {
+          "html_sha256": "5b92bc3f1ffc35f77667d9c11e9a9ba43b31f22ffbc41a86f1231b5c4249502f",
+          "last_fetched_at": "2026-10-23T19:29:52.716538+00:00"
         }
       }
     }

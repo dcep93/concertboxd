@@ -1,0 +1,78 @@
+[
+  {
+    "kind": "setlist_fm",
+    "set_id": "o17zna",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Intro",
+            "notes": "(band performed this set dressed as members of The Wiggles)",
+            "tape": true
+          },
+          {
+            "name": "Get Ready to Wiggle",
+            "notes": "(The Wiggles song)",
+            "tape": true
+          },
+          {
+            "name": "Endors toi",
+            "notes": "(Tour debut)"
+          },
+          {
+            "name": "Nangs"
+          },
+          {
+            "name": "Borderline"
+          },
+          {
+            "name": "Mind Mischief"
+          },
+          {
+            "name": "Breathe Deeper"
+          },
+          {
+            "name": "Elephant"
+          },
+          {
+            "name": "Yes I'm Changing",
+            "notes": "(Tour debut)"
+          },
+          {
+            "name": "Apocalypse Dreams"
+          },
+          {
+            "name": "Mutant Gossip",
+            "tape": true
+          },
+          {
+            "name": "Let It Happen"
+          },
+          {
+            "name": "Feels Like We Only Go Backwards"
+          },
+          {
+            "name": "Eventually"
+          },
+          {
+            "name": "Runway, Houses, City, Clouds",
+            "notes": "(Including an extended outro of “The Bold Arrow of Time”.)"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "The Less I Know the Better"
+          },
+          {
+            "name": "New Person, Same Old Mistakes"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/tame-impala/2021/golden-gate-park-san-francisco-ca-usa-4b8aa756.html"
+  }
+]

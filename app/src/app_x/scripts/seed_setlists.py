@@ -90,8 +90,7 @@ class Fetcher:
         path = self.folder / (hashlib.sha256(url.encode()).hexdigest() + ".html")
         if path.exists():
             html = path.read_text()
-            if "awsWafCookieDomainList" in html or "gokuProps" in html:
-                raise Blocked(f"Browser verification required for {url}")
+            validate_public_page(html, url)
             return html
         time.sleep(max(0, 2 - (time.monotonic() - self.last_request)))
         self.last_request = time.monotonic()
@@ -106,10 +105,26 @@ class Fetcher:
             if error.code in (403, 429):
                 raise Blocked(f"HTTP {error.code} from {url}") from error
             raise
-        if any(marker in html for marker in ("Just a moment...", "Verify you are human", "awsWafCookieDomainList", "gokuProps")):
-            raise Blocked(f"Access challenge from {url}")
+        validate_public_page(html, url)
         path.write_text(html, encoding="utf-8")
         return html
+
+
+def validate_public_page(html, url):
+    """A WAF library can exist on a valid page; require actual source content."""
+    try:
+        if urlparse(url).path.startswith('/setlist/'):
+            identity(html)
+        else:
+            root = Tree(html).root
+            links = [n for h in root.all(lambda n: n.tag == 'h2')
+                     for n in h.all(lambda n: n.tag == 'a' and 'setlist/' in n.attrs.get('href', ''))]
+            if not links and 'did not match any setlists' not in root.text():
+                raise ValueError('Search page has no verified results or no-results message')
+    except ValueError as error:
+        if any(marker in html for marker in ('Just a moment...', 'Verify you are human', 'awsWafCookieDomainList', 'gokuProps')):
+            raise Blocked(f'Access challenge from {url}') from error
+        raise
 
 
 def related(html, url):

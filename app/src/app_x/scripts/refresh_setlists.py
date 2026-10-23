@@ -33,7 +33,16 @@ def save(path, value):
     path.parent.mkdir(parents=True, exist_ok=True)
     temporary = path.with_suffix(path.suffix + ".tmp")
     temporary.write_text(canonical(value), encoding="utf-8")
-    temporary.replace(path)
+    # Windows can briefly deny replacement while a report reader has the old
+    # file open. Retry the atomic rename; never truncate the destination.
+    for attempt in range(8):
+        try:
+            temporary.replace(path)
+            break
+        except PermissionError:
+            if attempt == 7:
+                raise
+            time.sleep(0.025 * 2 ** attempt)
 
 
 def source_key(item):

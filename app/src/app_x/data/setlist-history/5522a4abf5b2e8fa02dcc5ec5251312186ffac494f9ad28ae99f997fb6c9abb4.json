@@ -1,0 +1,80 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "(Unknown)"
+          },
+          {
+            "name": "The Returner"
+          },
+          {
+            "name": "Springtime"
+          },
+          {
+            "name": "Eve Was Black"
+          },
+          {
+            "name": "4th Day Prayer"
+          },
+          {
+            "name": "Rainbows"
+          },
+          {
+            "name": "Chaos Theory"
+          },
+          {
+            "name": "Persephone",
+            "notes": "(Acoustic)"
+          },
+          {
+            "name": "We Raise Our Cups",
+            "notes": "(Anaïs Mitchell cover) (Acoustic)"
+          },
+          {
+            "name": "Joyful Motherfuckers",
+            "notes": "(Acoustic)"
+          },
+          {
+            "name": "Superlover",
+            "notes": "(Acoustic)"
+          },
+          {
+            "name": "Black Lavender"
+          },
+          {
+            "name": "Really Real"
+          },
+          {
+            "name": "Demons"
+          },
+          {
+            "name": "Cold April"
+          },
+          {
+            "name": "Poison Arrow"
+          },
+          {
+            "name": "Nightflyer"
+          },
+          {
+            "name": "Rag Child"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "You're Not Alone",
+            "notes": "(Our Native Daughters song)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/allison-russell/2026/irving-plaza-new-york-ny-1b7c0df8.html"
+  }
+]

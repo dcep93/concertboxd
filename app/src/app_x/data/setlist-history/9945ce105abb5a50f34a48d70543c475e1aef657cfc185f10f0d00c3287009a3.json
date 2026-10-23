@@ -1,0 +1,95 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "The Final Countdown",
+            "notes": "(Europe cover)"
+          },
+          {
+            "name": "Everything Sucks"
+          },
+          {
+            "name": "Alternative, Baby"
+          },
+          {
+            "name": "The Kids Don't Like It"
+          },
+          {
+            "name": "Cheer Up"
+          },
+          {
+            "name": "Thank You for Not Moshing"
+          },
+          {
+            "name": "Party Down"
+          },
+          {
+            "name": "All I Want Is More"
+          },
+          {
+            "name": "Ban the Tube Top",
+            "notes": "(with Don't Stop Believin' by Journey)"
+          },
+          {
+            "name": "Don't Start a Band"
+          },
+          {
+            "name": "Trendy"
+          },
+          {
+            "name": "Your Guts (I Hate 'Em)"
+          },
+          {
+            "name": "Hiding in My Headphones"
+          },
+          {
+            "name": "Brown Eyed Girl",
+            "notes": "(Van Morrison cover)"
+          },
+          {
+            "name": "I Want Your Girlfriend to Be My Girlfriend Too"
+          },
+          {
+            "name": "I Know You Too Well to Like You Anymore"
+          },
+          {
+            "name": "She Has a Girlfriend Now"
+          },
+          {
+            "name": "Smells Like Teen Spirit / My Own Worst Enemy / 500 Miles / The Impression That I Get"
+          },
+          {
+            "name": "Sell Out"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Olé",
+            "notes": "([traditional] cover)"
+          },
+          {
+            "name": "Everyone Else Is an Asshole"
+          },
+          {
+            "name": "Where Have You Been"
+          },
+          {
+            "name": "Beer"
+          },
+          {
+            "name": "Take On Me",
+            "notes": "(a‐ha cover)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/reel-big-fish/2016/the-fillmore-san-francisco-ca-63f34277.html"
+  }
+]

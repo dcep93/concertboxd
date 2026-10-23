@@ -1,0 +1,75 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Every Few Days"
+          },
+          {
+            "name": "Be The Wheel"
+          },
+          {
+            "name": "5-Watt Rock"
+          },
+          {
+            "name": "I Don't Want to Be a Billionaire"
+          },
+          {
+            "name": "Break Up Together"
+          },
+          {
+            "name": "Lisa Never Wanted to be Famous"
+          },
+          {
+            "name": "My 1-Bedroom"
+          },
+          {
+            "name": "Good to Be Alone"
+          },
+          {
+            "name": "She's in My Shoe"
+          },
+          {
+            "name": "For Superman"
+          },
+          {
+            "name": "Smiling in Your Sleep"
+          },
+          {
+            "name": "You Gotta Go Through Me"
+          },
+          {
+            "name": "Corn Does Grow"
+          },
+          {
+            "name": "100 Years from Now"
+          },
+          {
+            "name": "What Did You Mean (When You Said Love)"
+          },
+          {
+            "name": "Plain Jane Heroin"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Brooklyn"
+          },
+          {
+            "name": "My Heart Is Dead"
+          },
+          {
+            "name": "That's The Life"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/theo-katzman/2026/music-hall-of-williamsburg-brooklyn-ny-6b74e2a6.html"
+  }
+]

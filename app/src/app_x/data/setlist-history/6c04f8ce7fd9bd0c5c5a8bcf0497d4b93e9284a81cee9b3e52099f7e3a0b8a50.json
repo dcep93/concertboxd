@@ -1,0 +1,62 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Look What the Cat Dragged In"
+          },
+          {
+            "name": "Ride the Wind"
+          },
+          {
+            "name": "Talk Dirty to Me"
+          },
+          {
+            "name": "Cry Tough"
+          },
+          {
+            "name": "Something to Believe In"
+          },
+          {
+            "name": "Your Mama Don't Dance",
+            "notes": "(Loggins & Messina cover)"
+          },
+          {
+            "name": "Guitar Solo"
+          },
+          {
+            "name": "Fallen Angel"
+          },
+          {
+            "name": "Unskinny Bop"
+          },
+          {
+            "name": "Drum Solo"
+          },
+          {
+            "name": "Bass Solo"
+          },
+          {
+            "name": "Every Rose Has Its Thorn"
+          },
+          {
+            "name": "Nothin' but a Good Time"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Rock and Roll All Nite",
+            "notes": "(KISS cover)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/poison/2017/oracle-arena-oakland-ca-73e74625.html"
+  }
+]

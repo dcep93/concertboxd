@@ -1,0 +1,81 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Fugue State"
+          },
+          {
+            "name": "Sauna"
+          },
+          {
+            "name": "Conscious Club"
+          },
+          {
+            "name": "Animal Spirits"
+          },
+          {
+            "name": "The Speedwalker"
+          },
+          {
+            "name": "All That’s Left of Me Is You"
+          },
+          {
+            "name": "New Guru"
+          },
+          {
+            "name": "El Chepe",
+            "notes": "(with Nir Felder)"
+          },
+          {
+            "name": "Simple Step",
+            "notes": "(Groove Spoon cover)"
+          },
+          {
+            "name": "3 on E",
+            "notes": "(with Louis Cato)"
+          },
+          {
+            "name": "The Birdwatcher",
+            "notes": "(Vulf Pick 2: Dart, Woody & Louis Cato)"
+          },
+          {
+            "name": "Nice to You",
+            "notes": "(Vulfmon cover)"
+          },
+          {
+            "name": "Smile Meditation"
+          },
+          {
+            "name": "Funky Duck"
+          },
+          {
+            "name": "Running Away",
+            "notes": "(Joey Dosik cover)"
+          },
+          {
+            "name": "Beastly"
+          },
+          {
+            "name": "Back Pocket"
+          },
+          {
+            "name": "Christmas in L.A."
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Dean Town"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/vulfpeck/2023/the-great-hall-at-avant-gardner-brooklyn-ny-3a1d5db.html"
+  }
+]

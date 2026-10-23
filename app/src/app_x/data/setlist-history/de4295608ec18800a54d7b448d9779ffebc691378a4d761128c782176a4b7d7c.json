@@ -1,0 +1,89 @@
+[
+  {
+    "kind": "setlist_fm",
+    "set_id": "x800ye",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Rumors"
+          },
+          {
+            "name": "Tempo"
+          },
+          {
+            "name": "Good as Hell"
+          },
+          {
+            "name": "Soulmate",
+            "notes": "(Contains elements of One is the Loneliest Number)"
+          },
+          {
+            "name": "Cuz I Love You"
+          },
+          {
+            "name": "Worship"
+          },
+          {
+            "name": "I'm Every Woman",
+            "notes": "(Chaka Khan cover)"
+          },
+          {
+            "name": "Like a Girl"
+          },
+          {
+            "name": "Scuse Me"
+          },
+          {
+            "name": "Into the Thick of It",
+            "notes": "(The Backyardigans song)",
+            "tape": true
+          },
+          {
+            "name": "Fitness",
+            "notes": "(Dance break)",
+            "tape": true
+          },
+          {
+            "name": "Boys"
+          },
+          {
+            "name": "Phone",
+            "notes": "(With making a Tik Tok with the audience)"
+          },
+          {
+            "name": "Uproar",
+            "notes": "(Lil Wayne song) (Dance break)",
+            "tape": true
+          },
+          {
+            "name": "Thriller Dance"
+          },
+          {
+            "name": "Water Me"
+          },
+          {
+            "name": "Jerome"
+          },
+          {
+            "name": "Heaven Help Me"
+          },
+          {
+            "name": "Truth Hurts"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Juice",
+            "notes": "(With flute solo intro)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/lizzo/2021/golden-gate-park-san-francisco-ca-usa-138aad11.html"
+  }
+]

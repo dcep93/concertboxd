@@ -9809,5 +9809,1172 @@
     },
     "set_id": "6w143h",
     "url": "https://www.setlist.fm/setlist/ginger-root/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890e7.html"
+  },
+  {
+    "artist_id": "simple-plan",
+    "concert_id": "42rjz2",
+    "expected": {
+      "artist": "Simple Plan",
+      "event_date": "2017-04-15",
+      "venue": "The Fillmore, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/simple-plan/2017/the-fillmore-san-francisco-ca-43e6dff3.html"
+  },
+  {
+    "artist_id": "awolnation",
+    "concert_id": "9aa6le",
+    "expected": {
+      "artist": "AWOLNATION",
+      "event_date": "2016-03-27",
+      "venue": "Bill Graham Civic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/awolnation/2016/bill-graham-civic-auditorium-san-francisco-ca-3f0010b.html"
+  },
+  {
+    "artist_id": "fall-out-boy",
+    "concert_id": "9aa6le",
+    "expected": {
+      "artist": "Fall Out Boy",
+      "event_date": "2016-03-27",
+      "venue": "Bill Graham Civic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/fall-out-boy/2016/bill-graham-civic-auditorium-san-francisco-ca-4bf00312.html"
+  },
+  {
+    "artist_id": "finish-ticket",
+    "concert_id": "9aa6le",
+    "expected": {
+      "artist": "Finish Ticket",
+      "event_date": "2016-03-27",
+      "venue": "Bill Graham Civic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/finish-ticket/2016/bill-graham-civic-auditorium-san-francisco-ca-53f00311.html"
+  },
+  {
+    "artist_id": "jce5yl",
+    "concert_id": "c8v5np",
+    "expected": {
+      "artist": "The Night Game",
+      "event_date": "2017-07-29",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-night-game/2017/shoreline-amphitheatre-mountain-view-ca-13e53dad.html"
+  },
+  {
+    "artist_id": "john-mayer",
+    "concert_id": "c8v5np",
+    "expected": {
+      "artist": "John Mayer",
+      "event_date": "2017-07-29",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/john-mayer/2017/shoreline-amphitheatre-mountain-view-ca-63e5ea3f.html"
+  },
+  {
+    "artist_id": "4nbzd5",
+    "concert_id": "di7xbd",
+    "expected": {
+      "artist": "Alkaline Trio",
+      "event_date": "2026-10-22",
+      "venue": "Masonic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/alkaline-trio/2026/masonic-auditorium-san-francisco-ca-6b491eda.html"
+  },
+  {
+    "artist_id": "h4eryb",
+    "concert_id": "di7xbd",
+    "expected": {
+      "artist": "Teen Mortgage",
+      "event_date": "2026-10-22",
+      "venue": "Masonic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/teen-mortgage/2026/masonic-auditorium-san-francisco-ca-23718cab.html"
+  },
+  {
+    "artist_id": "rise-against",
+    "concert_id": "di7xbd",
+    "expected": {
+      "artist": "Rise Against",
+      "event_date": "2026-10-22",
+      "venue": "Masonic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/rise-against/2026/masonic-auditorium-san-francisco-ca-7b491ee4.html"
+  },
+  {
+    "artist_id": "4ue9ao",
+    "concert_id": "f1fisv",
+    "expected": {
+      "artist": "ONE OK ROCK",
+      "event_date": "2017-01-22",
+      "venue": "The Warfield, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/one-ok-rock/2017/the-warfield-san-francisco-ca-73f8e2d1.html"
+  },
+  {
+    "artist_id": "fis1fg",
+    "concert_id": "f4eu6k",
+    "expected": {
+      "artist": "Poison",
+      "event_date": "2017-06-13",
+      "venue": "Oracle Arena, Oakland, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/poison/2017/oracle-arena-oakland-ca-73e74625.html"
+  },
+  {
+    "artist_id": "i6obf3",
+    "concert_id": "f4eu6k",
+    "expected": {
+      "artist": "Tesla",
+      "event_date": "2017-06-13",
+      "venue": "Oracle Arena, Oakland, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tesla/2017/oracle-arena-oakland-ca-7be74624.html"
+  },
+  {
+    "artist_id": "bvseky",
+    "concert_id": "f88s82",
+    "expected": {
+      "artist": "Breaking Benjamin",
+      "event_date": "2017-04-20",
+      "venue": "Masonic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/breaking-benjamin/2017/masonic-auditorium-san-francisco-ca-33e63c9d.html"
+  },
+  {
+    "artist_id": "lvcpkn",
+    "concert_id": "f88s82",
+    "expected": {
+      "artist": "Red",
+      "event_date": "2017-04-20",
+      "venue": "Masonic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/red/2017/masonic-auditorium-san-francisco-ca-3be63c9c.html"
+  },
+  {
+    "artist_id": "9ogpib",
+    "concert_id": "gbfdt6",
+    "expected": {
+      "artist": "Anti‐Flag",
+      "event_date": "2017-02-15",
+      "venue": "The Regency Ballroom, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/antiflag/2017/the-regency-ballroom-san-francisco-ca-23f860fb.html"
+  },
+  {
+    "artist_id": "uogmyy",
+    "concert_id": "gbfdt6",
+    "expected": {
+      "artist": "Reel Big Fish",
+      "event_date": "2017-02-15",
+      "venue": "The Regency Ballroom, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/reel-big-fish/2017/the-regency-ballroom-san-francisco-ca-3bf86004.html"
+  },
+  {
+    "artist_id": "aqd1d4",
+    "concert_id": "hw7zzy",
+    "expected": {
+      "artist": "Yellowcard",
+      "event_date": "2016-10-22",
+      "venue": "The Regency Ballroom, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/yellowcard/2016/the-regency-ballroom-san-francisco-ca-1bfab950.html"
+  },
+  {
+    "artist_id": "2jttra",
+    "concert_id": "lr283c",
+    "expected": {
+      "artist": "HOLYCHILD",
+      "event_date": "2015-10-26",
+      "venue": "Masonic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/holychild/2015/masonic-auditorium-san-francisco-ca-7bf5863c.html"
+  },
+  {
+    "artist_id": "fqiseo",
+    "concert_id": "lr283c",
+    "expected": {
+      "artist": "Saint Motel",
+      "event_date": "2015-10-26",
+      "venue": "Masonic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/saint-motel/2015/masonic-auditorium-san-francisco-ca-6bf5863e.html"
+  },
+  {
+    "artist_id": "walk-the-moon",
+    "concert_id": "lr283c",
+    "expected": {
+      "artist": "WALK THE MOON",
+      "event_date": "2015-10-26",
+      "venue": "Masonic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/walk-the-moon/2015/masonic-auditorium-san-francisco-ca-7bf58638.html"
+  },
+  {
+    "artist_id": "4jyu22",
+    "concert_id": "m058sl",
+    "expected": {
+      "artist": "Descendents",
+      "event_date": "2021-08-22",
+      "venue": "Masonic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/descendents/2021/masonic-auditorium-san-francisco-ca-4b8c9b4a.html"
+  },
+  {
+    "artist_id": "ju3j6r",
+    "concert_id": "m058sl",
+    "expected": {
+      "artist": "The Menzingers",
+      "event_date": "2021-08-22",
+      "venue": "Masonic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-menzingers/2021/masonic-auditorium-san-francisco-ca-2b8c941a.html"
+  },
+  {
+    "artist_id": "rise-against",
+    "concert_id": "m058sl",
+    "expected": {
+      "artist": "Rise Against",
+      "event_date": "2021-08-22",
+      "venue": "Masonic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/rise-against/2021/masonic-auditorium-san-francisco-ca-2b8c98ca.html"
+  },
+  {
+    "artist_id": "lamp",
+    "concert_id": "n35bxo",
+    "expected": {
+      "artist": "LaMP",
+      "event_date": "2026-10-08",
+      "venue": "Brooklyn Bowl, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lamp/2026/brooklyn-bowl-brooklyn-ny-337cb0e1.html"
+  },
+  {
+    "artist_id": "1l3us4",
+    "concert_id": "ockki4",
+    "expected": {
+      "artist": "Nonpoint",
+      "event_date": "2016-03-16",
+      "venue": "The Fillmore, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/nonpoint/2016/the-fillmore-san-francisco-ca-53f0c729.html"
+  },
+  {
+    "artist_id": "disturbed",
+    "concert_id": "ockki4",
+    "expected": {
+      "artist": "Disturbed",
+      "event_date": "2016-03-16",
+      "venue": "The Fillmore, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/disturbed/2016/the-fillmore-san-francisco-ca-43f0c72b.html"
+  },
+  {
+    "artist_id": "dm87hw",
+    "concert_id": "p5q4ly",
+    "expected": {
+      "artist": "Allison Russell",
+      "event_date": "2026-10-20",
+      "venue": "Irving Plaza, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/allison-russell/2026/irving-plaza-new-york-ny-1b7c0df8.html"
+  },
+  {
+    "artist_id": "p54e6b",
+    "concert_id": "p5q4ly",
+    "expected": {
+      "artist": "Autumn Nicholas",
+      "event_date": "2026-10-20",
+      "venue": "Irving Plaza, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/autumn-nicholas/2026/irving-plaza-new-york-ny-37c0df7.html"
+  },
+  {
+    "artist_id": "all-time-low",
+    "concert_id": "rh13r9",
+    "expected": {
+      "artist": "All Time Low",
+      "event_date": "2016-09-28",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/all-time-low/2016/shoreline-amphitheatre-mountain-view-ca-5bfddb20.html"
+  },
+  {
+    "artist_id": "blink-182",
+    "concert_id": "rh13r9",
+    "expected": {
+      "artist": "blink‐182",
+      "event_date": "2016-09-28",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/blink182/2016/shoreline-amphitheatre-mountain-view-ca-4bfddb22.html"
+  },
+  {
+    "artist_id": "d0wupo",
+    "concert_id": "rh13r9",
+    "expected": {
+      "artist": "A Day to Remember",
+      "event_date": "2016-09-28",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/a-day-to-remember/2016/shoreline-amphitheatre-mountain-view-ca-53fddb21.html"
+  },
+  {
+    "artist_id": "grniev",
+    "concert_id": "u87mu4",
+    "expected": {
+      "artist": "Andrew McMahon in the Wilderness",
+      "event_date": "2016-07-31",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/andrew-mcmahon-in-the-wilderness/2016/shoreline-amphitheatre-mountain-view-ca-43ff4bbf.html"
+  },
+  {
+    "artist_id": "vyw4u8",
+    "concert_id": "u87mu4",
+    "expected": {
+      "artist": "Panic! at the Disco",
+      "event_date": "2016-07-31",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/panic-at-the-disco/2016/shoreline-amphitheatre-mountain-view-ca-5bff4bb8.html"
+  },
+  {
+    "artist_id": "weezer",
+    "concert_id": "u87mu4",
+    "expected": {
+      "artist": "Weezer",
+      "event_date": "2016-07-31",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/weezer/2016/shoreline-amphitheatre-mountain-view-ca-53ff4bb9.html"
+  },
+  {
+    "artist_id": "7edm49",
+    "concert_id": "vils17",
+    "expected": {
+      "artist": "Steve Vai",
+      "event_date": "2016-10-13",
+      "venue": "The Fillmore, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/steve-vai/2016/the-fillmore-san-francisco-ca-13fd65a1.html"
+  },
+  {
+    "artist_id": "fev2v3",
+    "concert_id": "vils17",
+    "expected": {
+      "artist": "Tony MacAlpine",
+      "event_date": "2016-10-13",
+      "venue": "The Fillmore, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tony-macalpine/2016/the-fillmore-san-francisco-ca-43fd6747.html"
+  },
+  {
+    "artist_id": "uogmyy",
+    "concert_id": "ygl9lr",
+    "expected": {
+      "artist": "Reel Big Fish",
+      "event_date": "2016-02-22",
+      "venue": "The Fillmore, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/reel-big-fish/2016/the-fillmore-san-francisco-ca-63f34277.html"
+  },
+  {
+    "artist_id": "lh6slr",
+    "concert_id": "zfwvzh",
+    "expected": {
+      "artist": "Set Your Goals",
+      "event_date": "2016-10-25",
+      "venue": "The Warfield, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/set-your-goals/2016/the-warfield-san-francisco-ca-13faa5ed.html"
+  },
+  {
+    "artist_id": "the-story-so-far",
+    "concert_id": "zfwvzh",
+    "expected": {
+      "artist": "The Story So Far",
+      "event_date": "2016-10-25",
+      "venue": "The Warfield, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-story-so-far/2016/the-warfield-san-francisco-ca-bfaa5ee.html"
+  },
+  {
+    "artist_id": "u0fnow",
+    "concert_id": "zfwvzh",
+    "expected": {
+      "artist": "Good Charlotte",
+      "event_date": "2016-10-25",
+      "venue": "The Warfield, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/good-charlotte/2016/the-warfield-san-francisco-ca-3faa5ef.html"
+  },
+  {
+    "artist_id": "theo-katzman",
+    "concert_id": "xyc0i4",
+    "expected": {
+      "artist": "Theo Katzman",
+      "event_date": "2026-10-02",
+      "venue": "Music Hall of Williamsburg, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/theo-katzman/2026/music-hall-of-williamsburg-brooklyn-ny-6b74e2a6.html"
+  },
+  {
+    "artist_id": "070-shake",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "070 Shake",
+      "event_date": "2021-10-29",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "z4y29m",
+    "url": "https://www.setlist.fm/setlist/070-shake/2021/golden-gate-park-san-francisco-ca-usa-338ab4a1.html"
+  },
+  {
+    "artist_id": "jd0fha",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "24kGoldn",
+      "event_date": "2021-10-30",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "ma9asq",
+    "url": "https://www.setlist.fm/setlist/24kgoldn/2021/golden-gate-park-san-francisco-ca-usa-b8aad0e.html"
+  },
+  {
+    "artist_id": "w58tie",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "A R I Z O N A",
+      "event_date": "2021-10-30",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "oolvi7",
+    "url": "https://www.setlist.fm/setlist/a-r-i-z-o-n-a/2021/golden-gate-park-san-francisco-ca-usa-b8aad02.html"
+  },
+  {
+    "artist_id": "30o73n",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Aminé",
+      "event_date": "2021-10-30",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "36noi8",
+    "url": "https://www.setlist.fm/setlist/amine/2021/golden-gate-park-san-francisco-ca-usa-738a9a19.html"
+  },
+  {
+    "artist_id": "grniev",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Andrew McMahon in the Wilderness",
+      "event_date": "2021-10-30",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "gzd6u1",
+    "url": "https://www.setlist.fm/setlist/andrew-mcmahon-in-the-wilderness/2021/golden-gate-park-san-francisco-ca-usa-1b8aad04.html"
+  },
+  {
+    "artist_id": "rkkcd2",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Angel Olsen",
+      "event_date": "2021-10-30",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "fbbkwz",
+    "url": "https://www.setlist.fm/setlist/angel-olsen/2021/golden-gate-park-san-francisco-ca-usa-138aad0d.html"
+  },
+  {
+    "artist_id": "boy-pablo",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "boy pablo",
+      "event_date": "2021-10-31",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "co6mpa",
+    "url": "https://www.setlist.fm/setlist/boy-pablo/2021/golden-gate-park-san-francisco-ca-usa-538aa74d.html"
+  },
+  {
+    "artist_id": "bartees-strange",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Bartees Strange",
+      "event_date": "2021-10-29",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "kf1jby",
+    "url": "https://www.setlist.fm/setlist/bartees-strange/2021/golden-gate-park-san-francisco-ca-usa-238ab49f.html"
+  },
+  {
+    "artist_id": "brittany-howard",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Brittany Howard",
+      "event_date": "2021-10-31",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "v9pfgb",
+    "url": "https://www.setlist.fm/setlist/brittany-howard/2021/golden-gate-park-san-francisco-ca-usa-538aa749.html"
+  },
+  {
+    "artist_id": "cannons",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Cannons",
+      "event_date": "2021-10-31",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "ekt57m",
+    "url": "https://www.setlist.fm/setlist/cannons/2021/golden-gate-park-san-francisco-ca-usa-5b8aa738.html"
+  },
+  {
+    "artist_id": "zwizkm",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Caroline Polachek",
+      "event_date": "2021-10-31",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "s00kcr",
+    "url": "https://www.setlist.fm/setlist/caroline-polachek/2021/golden-gate-park-san-francisco-ca-usa-4b8aa742.html"
+  },
+  {
+    "artist_id": "415237",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Claud",
+      "event_date": "2021-10-31",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "50omu6",
+    "url": "https://www.setlist.fm/setlist/claud/2021/golden-gate-park-san-francisco-ca-usa-4b8aa73e.html"
+  },
+  {
+    "artist_id": "drama",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "DRAMA",
+      "event_date": "2021-10-29",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "vq6tlw",
+    "url": "https://www.setlist.fm/setlist/drama/2021/golden-gate-park-san-francisco-ca-usa-2b8ab4a2.html"
+  },
+  {
+    "artist_id": "og21wn",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Dr. Dog",
+      "event_date": "2021-10-30",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "u7rxbx",
+    "url": "https://www.setlist.fm/setlist/dr-dog/2021/golden-gate-park-san-francisco-ca-usa-38aad07.html"
+  },
+  {
+    "artist_id": "earthgang",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "EarthGang",
+      "event_date": "2021-10-29",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "f0uq8i",
+    "url": "https://www.setlist.fm/setlist/earthgang/2021/golden-gate-park-san-francisco-ca-usa-b8ab5ae.html"
+  },
+  {
+    "artist_id": "glass-animals",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Glass Animals",
+      "event_date": "2021-10-29",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "m3gs7k",
+    "url": "https://www.setlist.fm/setlist/glass-animals/2021/golden-gate-park-san-francisco-ca-usa-b8ab5aa.html"
+  },
+  {
+    "artist_id": "goth-babe",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Goth Babe",
+      "event_date": "2021-10-31",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "iu3hi9",
+    "url": "https://www.setlist.fm/setlist/goth-babe/2021/golden-gate-park-san-francisco-ca-usa-5b8aa744.html"
+  },
+  {
+    "artist_id": "rtj2oh",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Hinds",
+      "event_date": "2021-10-30",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "3rdz9p",
+    "url": "https://www.setlist.fm/setlist/hinds/2021/golden-gate-park-san-francisco-ca-usa-138aadf9.html"
+  },
+  {
+    "artist_id": "ea512k",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "J Balvin",
+      "event_date": "2021-10-31",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "hdqaqv",
+    "url": "https://www.setlist.fm/setlist/j-balvin/2021/golden-gate-park-san-francisco-ca-usa-538aa755.html"
+  },
+  {
+    "artist_id": "jpegmafia",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "JPEGMAFIA",
+      "event_date": "2021-10-29",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "fyxch4",
+    "url": "https://www.setlist.fm/setlist/jpegmafia/2021/golden-gate-park-san-francisco-ca-usa-238ab4a3.html"
+  },
+  {
+    "artist_id": "jessia",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "JESSIA",
+      "event_date": "2021-10-30",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "fyo5zi",
+    "url": "https://www.setlist.fm/setlist/jessia/2021/golden-gate-park-san-francisco-ca-usa-38aadff.html"
+  },
+  {
+    "artist_id": "kaytranada",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "KAYTRANADA",
+      "event_date": "2021-10-29",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "rwsa3m",
+    "url": "https://www.setlist.fm/setlist/kaytranada/2021/golden-gate-park-san-francisco-ca-usa-138ab5a9.html"
+  },
+  {
+    "artist_id": "tdj7yo",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Kehlani",
+      "event_date": "2021-10-31",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "vl71ac",
+    "url": "https://www.setlist.fm/setlist/kehlani/2021/golden-gate-park-san-francisco-ca-usa-438aa74b.html"
+  },
+  {
+    "artist_id": "khruangbin",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Khruangbin",
+      "event_date": "2021-10-29",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "5qq7g7",
+    "url": "https://www.setlist.fm/setlist/khruangbin/2021/golden-gate-park-san-francisco-ca-usa-1b8ab5a8.html"
+  },
+  {
+    "artist_id": "lizzo",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Lizzo",
+      "event_date": "2021-10-30",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "x800ye",
+    "url": "https://www.setlist.fm/setlist/lizzo/2021/golden-gate-park-san-francisco-ca-usa-138aad11.html"
+  },
+  {
+    "artist_id": "duw640",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Lord Huron",
+      "event_date": "2021-10-30",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "3rw0wl",
+    "url": "https://www.setlist.fm/setlist/lord-huron/2021/golden-gate-park-san-francisco-ca-usa-1b8aad14.html"
+  },
+  {
+    "artist_id": "jppq1o",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Melanie Martinez",
+      "event_date": "2021-10-30",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "k1ov2w",
+    "url": "https://www.setlist.fm/setlist/melanie-martinez/2021/golden-gate-park-san-francisco-ca-usa-38aad0f.html"
+  },
+  {
+    "artist_id": "62a2ig",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Nelly",
+      "event_date": "2021-10-31",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "5jbf61",
+    "url": "https://www.setlist.fm/setlist/nelly/2021/golden-gate-park-san-francisco-ca-usa-4b8aa74a.html"
+  },
+  {
+    "artist_id": "remi-wolf",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Remi Wolf",
+      "event_date": "2021-10-29",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "9iw4gt",
+    "url": "https://www.setlist.fm/setlist/remi-wolf/2021/golden-gate-park-san-francisco-ca-usa-238ab49b.html"
+  },
+  {
+    "artist_id": "rico-nasty",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Rico Nasty",
+      "event_date": "2021-10-30",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "f1ptqy",
+    "url": "https://www.setlist.fm/setlist/rico-nasty/2021/golden-gate-park-san-francisco-ca-usa-138aad01.html"
+  },
+  {
+    "artist_id": "rufus-du-sol",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "RÜFÜS DU SOL",
+      "event_date": "2021-10-31",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "yjnh5h",
+    "url": "https://www.setlist.fm/setlist/rufus-du-sol/2021/golden-gate-park-san-francisco-ca-usa-5b8aa754.html"
+  },
+  {
+    "artist_id": "q15hvz",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Salami Rose Joe Louis",
+      "event_date": "2021-10-29",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "88cttk",
+    "url": "https://www.setlist.fm/setlist/salami-rose-joe-louis/2021/golden-gate-park-san-francisco-ca-usa-3b8ab49c.html"
+  },
+  {
+    "artist_id": "yuirii",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Sharon Van Etten",
+      "event_date": "2021-10-29",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "uxmxki",
+    "url": "https://www.setlist.fm/setlist/sharon-van-etten/2021/golden-gate-park-san-francisco-ca-usa-138ab5ad.html"
+  },
+  {
+    "artist_id": "sofi-tukker",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Sofi Tukker",
+      "event_date": "2021-10-31",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "oqj9bz",
+    "url": "https://www.setlist.fm/setlist/sofi-tukker/2021/golden-gate-park-san-francisco-ca-usa-4b8aa74e.html"
+  },
+  {
+    "artist_id": "okwpkv",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Tame Impala",
+      "event_date": "2021-10-31",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "o17zna",
+    "url": "https://www.setlist.fm/setlist/tame-impala/2021/golden-gate-park-san-francisco-ca-usa-4b8aa756.html"
+  },
+  {
+    "artist_id": "h99683",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "The HU",
+      "event_date": "2021-10-29",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "0zcuq6",
+    "url": "https://www.setlist.fm/setlist/the-hu/2021/golden-gate-park-san-francisco-ca-usa-338ab4a5.html"
+  },
+  {
+    "artist_id": "the-midnight",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "The Midnight",
+      "event_date": "2021-10-30",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "whuhli",
+    "url": "https://www.setlist.fm/setlist/the-midnight/2021/golden-gate-park-san-francisco-ca-usa-38aadfb.html"
+  },
+  {
+    "artist_id": "the-strokes",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "The Strokes",
+      "event_date": "2021-10-29",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "xft6fc",
+    "url": "https://www.setlist.fm/setlist/the-strokes/2021/golden-gate-park-san-francisco-ca-usa-b8ab5b6.html"
+  },
+  {
+    "artist_id": "tyler-the-creator",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Tyler, The Creator",
+      "event_date": "2021-10-29",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "c247tv",
+    "url": "https://www.setlist.fm/setlist/tyler-the-creator/2021/golden-gate-park-san-francisco-ca-usa-1b8ab5b4.html"
+  },
+  {
+    "artist_id": "vampire-weekend",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Vampire Weekend",
+      "event_date": "2021-10-30",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "9tvk1b",
+    "url": "https://www.setlist.fm/setlist/vampire-weekend/2021/golden-gate-park-san-francisco-ca-usa-1b8aad10.html"
+  },
+  {
+    "artist_id": "yves-tumor",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "Yves Tumor",
+      "event_date": "2021-10-31",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "aeed66",
+    "url": "https://www.setlist.fm/setlist/yves-tumor/2021/golden-gate-park-san-francisco-ca-usa-5b8aa740.html"
+  },
+  {
+    "artist_id": "0zlajk",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "ZHU",
+      "event_date": "2021-10-30",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "wnqgjk",
+    "url": "https://www.setlist.fm/setlist/zhu/2021/golden-gate-park-san-francisco-ca-usa-b8aad16.html"
+  },
+  {
+    "artist_id": "mxmtoon",
+    "concert_id": "f3ysgl",
+    "expected": {
+      "artist": "mxmtoon",
+      "event_date": "2021-10-31",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "9pxcpx",
+    "url": "https://www.setlist.fm/setlist/mxmtoon/2021/golden-gate-park-san-francisco-ca-usa-5b8aa74c.html"
+  },
+  {
+    "artist_id": "070-shake",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "070 Shake",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "set_id": "620zli",
+    "url": "https://www.setlist.fm/setlist/070-shake/2024/parc-del-forum-barcelona-spain-4ba973fe.html"
+  },
+  {
+    "artist_id": "bb-trickz",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Bb Trickz",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "set_id": "bw1snt",
+    "url": "https://www.setlist.fm/setlist/bb-trickz/2024/parc-del-forum-barcelona-spain-53a97335.html"
+  },
+  {
+    "artist_id": "mandy-indiana",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Mandy, Indiana",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "set_id": "ugtjxs",
+    "url": "https://www.setlist.fm/setlist/mandy-indiana/2024/parc-del-forum-barcelona-spain-3ba824a4.html"
+  },
+  {
+    "artist_id": "mandy-indiana",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Mandy, Indiana",
+      "event_date": "2024-06-02",
+      "venue": "Sala Apolo, Barcelona, Spain"
+    },
+    "set_id": "pb9y90",
+    "url": "https://www.setlist.fm/setlist/mandy-indiana/2024/sala-apolo-barcelona-spain-43a8ebb7.html"
+  },
+  {
+    "artist_id": "model-actriz",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Model/Actriz",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "set_id": "6hyloy",
+    "url": "https://www.setlist.fm/setlist/modelactriz/2024/parc-del-forum-barcelona-spain-23a824ab.html"
+  },
+  {
+    "artist_id": "victor-wooten",
+    "concert_id": "e171as",
+    "expected": {
+      "artist": "Victor Wooten Trio",
+      "event_date": "2018-01-12",
+      "venue": "The Regency Ballroom, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/victor-wooten-trio/2018/the-regency-ballroom-san-francisco-ca-63e17a3b.html"
+  },
+  {
+    "artist_id": "vulfpeck",
+    "concert_id": "e5bfv9",
+    "expected": {
+      "artist": "Vulfpeck",
+      "event_date": "2023-11-12",
+      "venue": "The Great Hall at Avant Gardner, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/vulfpeck/2023/the-great-hall-at-avant-gardner-brooklyn-ny-3a1d5db.html"
+  },
+  {
+    "artist_id": "militarie-gun",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Militarie Gun",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "set_id": "4acjpl",
+    "url": "https://www.setlist.fm/setlist/militarie-gun/2024/parc-del-forum-barcelona-spain-33a824b5.html"
+  },
+  {
+    "artist_id": "model-actriz",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Model/Actriz",
+      "event_date": "2024-06-02",
+      "venue": "Sala Apolo, Barcelona, Spain"
+    },
+    "set_id": "zff1xg",
+    "url": "https://www.setlist.fm/setlist/modelactriz/2024/sala-apolo-barcelona-spain-4ba8ebb2.html"
+  },
+  {
+    "artist_id": "the-beaches",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "The Beaches",
+      "event_date": "2025-06-06",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "set_id": "9rs6b5",
+    "url": "https://www.setlist.fm/setlist/the-beaches/2025/flushing-meadows-corona-park-queens-ny-usa-435ddf47.html"
+  },
+  {
+    "artist_id": "wallows",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Wallows",
+      "event_date": "2025-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "set_id": "l4cznb",
+    "url": "https://www.setlist.fm/setlist/wallows/2025/flushing-meadows-corona-park-queens-ny-usa-5b5ddf34.html"
+  },
+  {
+    "artist_id": "lucy-dacus",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Lucy Dacus",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "wkfww5",
+    "url": "https://www.setlist.fm/setlist/lucy-dacus/2018/golden-gate-park-san-francisco-ca-usa-4be8bf12.html"
+  },
+  {
+    "artist_id": "michelle",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "MICHELLE",
+      "event_date": "2023-08-06",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "set_id": "uxq6ip",
+    "url": "https://www.setlist.fm/setlist/michelle/2023/grant-park-chicago-il-usa-3ba4000c.html"
+  },
+  {
+    "artist_id": "sarah-kinsley",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Sarah Kinsley",
+      "event_date": "2023-08-06",
+      "venue": "Allianz Stage, Grant Park, Chicago, IL, USA"
+    },
+    "set_id": "i9i9yk",
+    "url": "https://www.setlist.fm/setlist/sarah-kinsley/2023/grant-park-chicago-il-usa-1ba401fc.html"
+  },
+  {
+    "artist_id": "death-cab-for-cutie",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Death Cab for Cutie",
+      "event_date": "2026-08-09",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "q97uql",
+    "url": "https://www.setlist.fm/setlist/death-cab-for-cutie/2026/golden-gate-park-san-francisco-ca-usa-2b707462.html"
+  },
+  {
+    "artist_id": "frost-children",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Frost Children",
+      "event_date": "2026-08-09",
+      "venue": "Duboce Triangle, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "1dd2hs",
+    "url": "https://www.setlist.fm/setlist/frost-children/2026/golden-gate-park-san-francisco-ca-usa-6b71bece.html"
+  },
+  {
+    "artist_id": "frost-children",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Frost Children",
+      "event_date": "2026-08-09",
+      "venue": "Panhandle, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "3uz6g0",
+    "url": "https://www.setlist.fm/setlist/frost-children/2026/golden-gate-park-san-francisco-ca-usa-2b49a4d6.html"
+  },
+  {
+    "artist_id": "nezza",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "NEZZA",
+      "event_date": "2026-08-07",
+      "venue": "Twin Peaks, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "i4dag3",
+    "url": "https://www.setlist.fm/setlist/nezza/2026/golden-gate-park-san-francisco-ca-usa-5b49a7d4.html"
+  },
+  {
+    "artist_id": "racing-mount-pleasant",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Racing Mount Pleasant",
+      "event_date": "2026-08-08",
+      "venue": "Duboce Triangle, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "ml294y",
+    "url": "https://www.setlist.fm/setlist/racing-mount-pleasant/2026/golden-gate-park-san-francisco-ca-usa-637042c3.html"
+  },
+  {
+    "artist_id": "racing-mount-pleasant",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Racing Mount Pleasant",
+      "event_date": "2026-08-08",
+      "venue": "Panhandle, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "0f4yod",
+    "url": "https://www.setlist.fm/setlist/racing-mount-pleasant/2026/golden-gate-park-san-francisco-ca-usa-3349a4f9.html"
+  },
+  {
+    "artist_id": "usted-senalemelo",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Usted Señalemelo",
+      "event_date": "2023-08-05",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "set_id": "ppt9ul",
+    "url": "https://www.setlist.fm/setlist/usted-senalemelo/2023/grant-park-chicago-il-usa-73a40e6d.html"
+  },
+  {
+    "artist_id": "bandalos-chinos",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Bandalos Chinos",
+      "event_date": "2026-08-08",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "f4tnny",
+    "url": "https://www.setlist.fm/setlist/bandalos-chinos/2026/golden-gate-park-san-francisco-ca-usa-2349a407.html"
+  },
+  {
+    "artist_id": "death-cab-for-cutie",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Death Cab for Cutie",
+      "event_date": "2026-08-09",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "6c9iap",
+    "url": "https://www.setlist.fm/setlist/death-cab-for-cutie/2026/golden-gate-park-san-francisco-ca-usa-3349a4e1.html"
+  },
+  {
+    "artist_id": "marlon-funaki",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Marlon Funaki",
+      "event_date": "2026-08-09",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "set_id": "8dq856",
+    "url": "https://www.setlist.fm/setlist/marlon-funaki/2026/golden-gate-park-san-francisco-ca-usa-2b49a4a6.html"
+  },
+  {
+    "artist_id": "aly-aj",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Aly & AJ",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "set_id": "ogps0c",
+    "url": "https://www.setlist.fm/setlist/aly-and-aj/2021/grant-park-chicago-il-usa-238f244f.html"
+  },
+  {
+    "artist_id": "jessia",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "JESSIA",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "set_id": "vcwp6e",
+    "url": "https://www.setlist.fm/setlist/jessia/2021/grant-park-chicago-il-usa-5b8afb28.html"
   }
 ]

@@ -1,0 +1,95 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "I Want Your Girlfriend to Be My Girlfriend Too"
+          },
+          {
+            "name": "Another F.U. Song"
+          },
+          {
+            "name": "Your Guts (I Hate 'Em)"
+          }
+        ]
+      },
+      {
+        "name": "Turn the Radio Off",
+        "songs": [
+          {
+            "name": "Sell Out"
+          },
+          {
+            "name": "Trendy"
+          },
+          {
+            "name": "Join the Club"
+          },
+          {
+            "name": "She Has a Girlfriend Now"
+          },
+          {
+            "name": "Snoop Dog, Baby"
+          },
+          {
+            "name": "241"
+          },
+          {
+            "name": "Everything Sucks"
+          },
+          {
+            "name": "S.R."
+          },
+          {
+            "name": "Skatanic"
+          },
+          {
+            "name": "All I Want Is More"
+          },
+          {
+            "name": "Nothin'"
+          },
+          {
+            "name": "Say \"Ten\""
+          },
+          {
+            "name": "I'll Never Be..."
+          },
+          {
+            "name": "Alternative, Baby"
+          },
+          {
+            "name": "The Impression That I Get",
+            "notes": "(The Mighty Mighty Bosstones cover)"
+          },
+          {
+            "name": "Beer",
+            "notes": "(with Self Esteem by The Offspring)"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "I'm Cool"
+          },
+          {
+            "name": "Everyone Else Is an Asshole"
+          },
+          {
+            "name": "Where Have You Been"
+          },
+          {
+            "name": "Take On Me",
+            "notes": "(a‐ha cover)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/reel-big-fish/2017/the-regency-ballroom-san-francisco-ca-3bf86004.html"
+  }
+]

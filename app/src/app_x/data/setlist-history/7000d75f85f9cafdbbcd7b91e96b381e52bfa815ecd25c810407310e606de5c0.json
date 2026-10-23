@@ -1,0 +1,72 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Ten Thousand Fists"
+          },
+          {
+            "name": "The Game"
+          },
+          {
+            "name": "The Vengeful One"
+          },
+          {
+            "name": "Prayer"
+          },
+          {
+            "name": "Liberate"
+          },
+          {
+            "name": "Land of Confusion",
+            "notes": "(Genesis cover)"
+          },
+          {
+            "name": "A Welcome Burden"
+          },
+          {
+            "name": "Stupify"
+          },
+          {
+            "name": "Darkness"
+          },
+          {
+            "name": "The Sound of Silence",
+            "notes": "(Simon & Garfunkel cover)"
+          },
+          {
+            "name": "Inside the Fire"
+          },
+          {
+            "name": "Stricken"
+          },
+          {
+            "name": "The Light"
+          },
+          {
+            "name": "Closer / I Still Haven't Found What I'm Looking For / Baba O'Riley / Killing in the Name",
+            "notes": "(Covers of Nine Inch Nails, U2, The Who & Rage Against the Machine)"
+          },
+          {
+            "name": "Indestructible"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Voices"
+          },
+          {
+            "name": "Down With the Sickness"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/disturbed/2016/the-fillmore-san-francisco-ca-43f0c72b.html"
+  }
+]
