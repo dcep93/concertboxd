@@ -1,4 +1,5 @@
 import { useRef, useState } from "react";
+import { useNotesDraft } from "./useNotesDraft";
 import { saveLog } from "../data/actions";
 import type { UserConcert } from "../data/model";
 import type { LogPatch } from "../data/tableActions";
@@ -8,13 +9,12 @@ type Controls = Omit<LogPatch, "notes">;
 
 export function useLogEditor(concertId: string, uid?: string, log?: UserConcert) {
   const readOnly = !uid || (!!log && log.user_id !== uid);
-  const [notesDraft, setNotesDraft] = useState<string | null>(null);
   const [pending, setPending] = useState<Controls | null>(null);
   const [error, setError] = useState("");
   const [saving, setSaving] = useState<"notes" | "controls" | null>(null);
   const inFlight = useRef(false);
   const savedNotes = log?.notes || "";
-  const notes = notesDraft ?? savedNotes;
+  const { notes, setNotesDraft } = useNotesDraft(concertId, readOnly ? undefined : uid, savedNotes);
   const selected = pending?.supporting_artist_ids ?? log?.supporting_artist_ids ?? [];
   const seen = pending?.seen_set_ids ?? log?.seen_set_ids ?? [];
   const ticketStatus = pending?.ticket_status ?? log?.ticket_status ?? "";
@@ -30,8 +30,6 @@ export function useLogEditor(concertId: string, uid?: string, log?: UserConcert)
     if (Object.keys(remaining).length !== Object.keys(pending).length)
       setPending(Object.keys(remaining).length ? remaining : null);
   }
-  // A snapshot must not discard text typed while a save was in flight.
-  if (notesDraft === savedNotes) setNotesDraft(null);
 
   async function persist(patch: LogPatch, kind: "notes" | "controls") {
     if (readOnly || !uid || inFlight.current) return;
