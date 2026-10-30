@@ -2430,6 +2430,24 @@
         }
       }
     },
+    "billy-woods:1xsvzl": {
+      "content_sha256": "b90577f6e1728aba9cd6a4ca87a18272d4baee61fcd11d7797f5a50becd22b97",
+      "first_fetched_at": "2026-10-30T03:37:10.736626+00:00",
+      "last_fetched_at": "2026-10-30T03:37:10.736626+00:00",
+      "last_processed_at": "2026-10-30T03:58:05.523574+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-30T03:58:05.523574+00:00",
+          "sha256": "b90577f6e1728aba9cd6a4ca87a18272d4baee61fcd11d7797f5a50becd22b97"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/billy-woods/2026/forest-hills-stadium-queens-ny-2b7f789a.html": {
+          "html_sha256": "20835bf2be8c2d65b6be1c22d19528c2a60e3f2f1b0f1497935f534a8b4135df",
+          "last_fetched_at": "2026-10-30T03:37:10.736626+00:00"
+        }
+      }
+    },
     "billy-woods:3s9mjj": {
       "content_sha256": "e7ea157204f802ff822fa1bc5292ef6e1f86f2a109a12f7b19a820e9ea9089ac",
       "first_fetched_at": "2026-10-08T07:47:30.532166+00:00",
@@ -11351,6 +11369,24 @@
         "https://www.setlist.fm/setlist/lawrence/2022/brooklyn-steel-brooklyn-ny-4bbe0f7e.html": {
           "html_sha256": "5d461aac40e547a11b6e95264377d88bc32094278ff0eb4f93e59c60348cafa1",
           "last_fetched_at": "2026-10-08T05:18:45.038847+00:00"
+        }
+      }
+    },
+    "lawrence:k40frl": {
+      "content_sha256": "d661180e371be5051506d1e9aa848c7a51a1d43fd639345fd95cde0493ebe1f5",
+      "first_fetched_at": "2026-10-30T03:37:46.538950+00:00",
+      "last_fetched_at": "2026-10-30T03:37:46.538950+00:00",
+      "last_processed_at": "2026-10-30T03:58:05.523574+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-30T03:58:05.523574+00:00",
+          "sha256": "d661180e371be5051506d1e9aa848c7a51a1d43fd639345fd95cde0493ebe1f5"
+        }
+      ],
+      "sources": {
+        "https://www.setlist.fm/setlist/lawrence/2026/brooklyn-paramount-brooklyn-ny-1b7dad78.html": {
+          "html_sha256": "fd56029aa7f8406ba93a2a80bdfa4c1b843f65e7a8999ff8c6efb64812a8beb0",
+          "last_fetched_at": "2026-10-30T03:37:46.538950+00:00"
         }
       }
     },

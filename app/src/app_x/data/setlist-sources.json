@@ -10976,5 +10976,25 @@
     },
     "set_id": "vcwp6e",
     "url": "https://www.setlist.fm/setlist/jessia/2021/grant-park-chicago-il-usa-5b8afb28.html"
+  },
+  {
+    "artist_id": "billy-woods",
+    "concert_id": "1xsvzl",
+    "expected": {
+      "artist": "billy woods",
+      "event_date": "2026-10-03",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/billy-woods/2026/forest-hills-stadium-queens-ny-2b7f789a.html"
+  },
+  {
+    "artist_id": "lawrence",
+    "concert_id": "k40frl",
+    "expected": {
+      "artist": "Lawrence",
+      "event_date": "2026-10-29",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lawrence/2026/brooklyn-paramount-brooklyn-ny-1b7dad78.html"
   }
 ]

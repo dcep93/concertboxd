@@ -6270,6 +6270,61 @@
       "url": "https://www.setlist.fm/setlist/billy-joel/2017/madison-square-garden-new-york-ny-7be54a88.html"
     }
   ],
+  "billy-woods:1xsvzl": [
+    {
+      "kind": "setlist_fm",
+      "notes": "Note: Setlist incomplete",
+      "sets": [
+        {
+          "songs": [
+            {
+              "name": "Asylum",
+              "notes": "(Jumpscare snippet intro)"
+            },
+            {
+              "name": "No Hard Feelings"
+            },
+            {
+              "name": "Waterproof Mascara"
+            },
+            {
+              "name": "spongebob",
+              "notes": "(billy woods & Kenny Segal song)"
+            },
+            {
+              "name": "checkpoints",
+              "notes": "(billy woods & Kenny Segal song)"
+            },
+            {
+              "name": "houthi",
+              "notes": "(billy woods & Kenny Segal song)"
+            },
+            {
+              "name": "Soft Landing",
+              "notes": "(billy woods & Kenny Segal song)"
+            },
+            {
+              "name": "Corinthians",
+              "notes": "(with Despot)"
+            },
+            {
+              "name": "Western Education Is Forbidden",
+              "notes": "(with Fielded)"
+            },
+            {
+              "name": "Falling Out the Sky",
+              "notes": "(Armand Hammer song) (with Elucid)"
+            },
+            {
+              "name": "Stonefruit",
+              "notes": "(Armand Hammer & The Alchemist cover) (with Elucid)"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.setlist.fm/setlist/billy-woods/2026/forest-hills-stadium-queens-ny-2b7f789a.html"
+    }
+  ],
   "billy-woods:3s9mjj": [
     {
       "kind": "setlist_fm",
@@ -29451,6 +29506,114 @@
         }
       ],
       "url": "https://www.setlist.fm/setlist/lawrence/2022/brooklyn-steel-brooklyn-ny-4bbe0f7e.html"
+    }
+  ],
+  "lawrence:k40frl": [
+    {
+      "kind": "setlist_fm",
+      "sets": [
+        {
+          "songs": [
+            {
+              "name": "Probably Up"
+            },
+            {
+              "name": "Hotel TV"
+            },
+            {
+              "name": "Family Business"
+            },
+            {
+              "name": "Somewhere Over the Rainbow",
+              "notes": "(Judy Garland cover)"
+            },
+            {
+              "name": "Old Time Rock and Roll",
+              "notes": "(George Jackson cover) (Introduced by guest presenters Jeff Ross and Paul Rudd)"
+            },
+            {
+              "name": "Jet Lag"
+            },
+            {
+              "name": "23"
+            },
+            {
+              "name": "Miss United States"
+            },
+            {
+              "name": "The Weather"
+            },
+            {
+              "name": "That Thing You Do (ballad version)",
+              "notes": "(The Wonders cover)"
+            },
+            {
+              "name": "You've Got a Friend in Me",
+              "notes": "(Randy Newman cover)"
+            },
+            {
+              "name": "Part of Your World",
+              "notes": "(The Little Mermaid cover)"
+            },
+            {
+              "name": "Kiss the Girl",
+              "notes": "(The Little Mermaid cover) (with Jon Lampley)"
+            },
+            {
+              "name": "A Whole New World",
+              "notes": "(Aladdin cover) (with aron!)"
+            },
+            {
+              "name": "Go the Distance",
+              "notes": "(Alan Menken, Hercules - Cast & Disney cover)"
+            },
+            {
+              "name": "Lapti Nek/Simpsons theme/Sportscenter theme",
+              "notes": "(Sy Snootles cover)"
+            },
+            {
+              "name": "Eventually",
+              "notes": "(Live debut)"
+            },
+            {
+              "name": "Breaking Free",
+              "notes": "(High School Musical Cast cover) (with Robbie Wulfsohn)"
+            },
+            {
+              "name": "Superficial"
+            },
+            {
+              "name": "James Bond theme/Live and Let Die",
+              "notes": "(Paul McCartney cover)"
+            },
+            {
+              "name": "Whatcha Want"
+            },
+            {
+              "name": "I Will Always Love You",
+              "notes": "(Dolly Parton cover) (with Shoshana Bean)"
+            },
+            {
+              "name": "Don't Lose Sight"
+            }
+          ]
+        },
+        {
+          "encore": true,
+          "name": "Encore:",
+          "songs": [
+            {
+              "name": "Never Enough",
+              "notes": "(The Greatest Showman Cast cover)"
+            },
+            {
+              "name": "Teacher's Pet",
+              "notes": "(School of Rock cover)"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.setlist.fm/setlist/lawrence/2026/brooklyn-paramount-brooklyn-ny-1b7dad78.html"
     }
   ],
   "lawrence:lyeu2x": [
